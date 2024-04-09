@@ -1,26 +1,26 @@
 Paralelizare: Fire de execuție (thread-level parallelism)
 Factorul de paralelism - 1 Threads:
-Avg. Time for generate_publications: 0.014819574356079102 seconds 
-Avg. Time for generate_subscriptions: 1.7868995666503906 seconds 
-Avg. Time: 1.8043193340301513 seconds 
+Avg. Time for generate_publications: 0.016322565078735352 seconds 
+Avg. Time for generate_subscriptions: 2.410066270828247 seconds 
+Avg. Time: 2.428304386138916 seconds 
 
 Numarul de mesaje generat: 1000 subscriptii si 1000 publicatii 
 Specificațiile procesorului: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
 
 Paralelizare: Fire de execuție (thread-level parallelism)
 Factorul de paralelism - 4 Threads:
-Avg. Time for generate_publications: 0.066558837890625 seconds 
-Avg. Time for generate_subscriptions: 1.763847541809082 seconds 
-Avg. Time: 1.771357774734497 seconds 
+Avg. Time for generate_publications: 0.16996126174926757 seconds 
+Avg. Time for generate_subscriptions: 2.421206903457642 seconds 
+Avg. Time: 2.4225668907165527 seconds 
 
 Numarul de mesaje generat: 1000 subscriptii si 1000 publicatii 
 Specificațiile procesorului: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
 
 Paralelizare: Fire de execuție (thread-level parallelism)
 Factorul de paralelism - 8 Threads:
-Avg. Time for generate_publications: 0.06995024681091308 seconds 
-Avg. Time for generate_subscriptions: 1.6545121192932128 seconds 
-Avg. Time: 1.6619384765625 seconds 
+Avg. Time for generate_publications: 0.16270127296447753 seconds 
+Avg. Time for generate_subscriptions: 2.4059684753417967 seconds 
+Avg. Time: 2.4067973136901855 seconds 
 
 Numarul de mesaje generat: 1000 subscriptii si 1000 publicatii 
 Specificațiile procesorului: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel

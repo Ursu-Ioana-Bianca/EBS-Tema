@@ -1,1000 +1,1000 @@
-{(company,=,Google );(value,>,98.34555244596702 );(drop,<,11.178362404044407 );}
-{(company,=,Microsoft );(value,<=,82.40042191846054 );(drop,>=,8.813988262036304 );}
-{(company,!=,Microsoft );(value,<=,91.26200747741322 );(drop,>=,11.40607829509485 );}
-{(company,=,Apple );(value,<=,91.91775003995585 );(drop,<=,9.731537945436381 );}
-{(company,=,Microsoft );(value,>,91.87562307651021 );(drop,<=,10.001643262014063 );}
-{(company,!=,Apple );(value,>,91.45617899331117 );(drop,<=,7.084467197994373 );}
-{(company,=,Microsoft );(value,<=,83.87160305827292 );(drop,>,11.814643368876007 );}
-{(company,=,Microsoft );(value,<,94.61664080468657 );(drop,>,11.565747631912433 );}
-{(company,=,Google );(value,>,94.19756678995199 );(drop,<=,8.105032604889992 );}
-{(company,=,Microsoft );(value,<=,83.92911918790116 );(drop,<,8.562143976101964 );}
-{(company,!=,Microsoft );(value,<,91.51574553842178 );(drop,>=,14.478700133661382 );}
-{(company,=,Apple );(value,>,91.96385737356397 );(drop,<,9.91476082277341 );}
-{(company,=,Microsoft );(value,<,92.25860360460464 );(drop,>=,7.464499701797797 );}
-{(company,!=,Microsoft );(value,<=,91.51813585115988 );(drop,>=,14.162874745215356 );}
-{(company,=,Microsoft );(value,>,84.95411344387139 );(drop,<,11.672776091090604 );}
-{(company,=,Microsoft );(value,>=,98.15332734474285 );(drop,<,8.566139923024528 );}
-{(company,=,Google );(value,<,94.39580193928883 );(drop,>,9.602228374725286 );}
-{(company,!=,Google );(value,<,98.11925148966529 );(drop,>,12.228514872392957 );}
-{(company,=,Google );(value,<=,92.75730195194438 );(drop,>=,9.043309269951408 );}
-{(company,=,Google );(value,>=,91.99029193381439 );(drop,>=,8.707304193871142 );}
-{(company,=,Google );(value,<=,86.37753237879738 );(drop,<,11.430283433179246 );}
-{(company,!=,Apple );(value,<,86.63951872671598 );(drop,>=,5.485234796847049 );}
-{(company,=,Apple );(value,<=,80.70549696642978 );(drop,>,11.798266672665081 );}
-{(company,=,Microsoft );(value,<=,85.56334056257842 );(drop,<=,9.97838726706203 );}
-{(company,!=,Google );(value,>,84.49589557209168 );(drop,<,11.319559012431252 );}
-{(company,=,Apple );(value,<,88.98186396464818 );(drop,>,5.371448685611351 );}
-{(company,=,Google );(value,>=,88.76268743936673 );(drop,<,13.369947506273284 );}
-{(company,=,Google );(value,>,88.89974844548851 );(drop,<,9.813725980917718 );}
-{(company,!=,Google );(value,<=,87.49829853681972 );(drop,>,12.921203428405521 );}
-{(company,=,Apple );(value,<,88.83362156221213 );(drop,<=,5.021596053879024 );}
-{(company,=,Google );(value,>=,82.36164313748155 );(drop,>,14.95987817856975 );}
-{(company,=,Apple );(value,<=,83.2048545506139 );(drop,>=,14.379907480675067 );}
-{(company,=,Apple );(value,>=,88.33021335639377 );(drop,>=,10.378489492646814 );}
-{(company,!=,Google );(value,<,81.04871624574196 );(drop,<,7.1119385922748855 );}
-{(company,=,Apple );(value,<=,83.75249200972033 );(drop,>,14.229146207582763 );}
-{(company,!=,Apple );(value,<=,98.99260440149445 );(drop,<,7.418621461545407 );}
-{(company,=,Google );(value,<=,89.00212381851439 );(drop,<=,14.06802551512775 );}
-{(company,=,Google );(value,<=,94.60597101942116 );(drop,<=,14.367927116901559 );}
-{(company,=,Google );(value,>=,80.18383423710658 );(drop,>,9.966619410986421 );}
-{(company,!=,Google );(value,<,94.64008500181515 );(drop,<,10.194412300489756 );}
-{(company,=,Google );(value,<=,80.0563556436675 );(drop,<,12.300081999984492 );}
-{(company,=,Google );(value,>=,98.97484043922856 );(drop,>,14.62452226027456 );}
-{(company,!=,Google );(value,>=,97.88919745428896 );(drop,>,5.811402622696976 );}
-{(company,=,Microsoft );(value,<,92.37646583053692 );(drop,>,5.506497868710834 );}
-{(company,=,Google );(value,<,96.41905928813546 );(drop,>=,14.380757871526981 );}
-{(company,!=,Microsoft );(value,<=,86.42951358485661 );(drop,>=,6.024872688616475 );}
-{(company,=,Google );(value,>=,86.16247217621435 );(drop,<,8.206242309809497 );}
-{(company,=,Apple );(value,>,84.57045124259825 );(drop,>=,6.7119234379576085 );}
-{(company,=,Microsoft );(value,>=,81.52809151015032 );(drop,<,10.121302796911245 );}
-{(company,=,Google );(value,>=,80.38249323068307 );(drop,<=,12.816074265038239 );}
-{(company,=,Apple );(value,>,99.08987805838169 );(drop,>,6.144219113401073 );}
-{(company,=,Apple );(value,<=,99.60177676524717 );(drop,<=,6.452019029123769 );}
-{(company,!=,Apple );(value,>=,85.37932615126299 );(drop,<=,14.584323911288312 );}
-{(company,=,Apple );(value,>,87.14681136014575 );(drop,<,13.602518358828691 );}
-{(company,=,Apple );(value,<=,87.90039570132421 );(drop,<=,12.345798797087966 );}
-{(company,!=,Apple );(value,>,96.31966645879551 );(drop,<,5.367794675784405 );}
-{(company,=,Microsoft );(value,<,84.6884713674398 );(drop,>,12.620770573628679 );}
-{(company,=,Microsoft );(value,>,89.7391859997571 );(drop,>=,5.394134996671057 );}
-{(company,!=,Google );(value,>,92.15477180802938 );(drop,<=,12.706752067767658 );}
-{(company,!=,Microsoft );(value,<,88.00590501603936 );(drop,>,8.108522522603323 );}
-{(company,!=,Microsoft );(value,<=,86.82144701420104 );(drop,<,9.31710494175729 );}
-{(company,=,Microsoft );(value,<=,89.3310338791475 );(drop,>=,11.883214237264816 );}
-{(company,=,Microsoft );(value,<,97.3406843311878 );(drop,>=,14.261655845687807 );}
-{(company,=,Microsoft );(value,>,87.35105553958645 );(drop,>=,13.357497547619811 );}
-{(company,=,Apple );(value,>,81.74332705200652 );(drop,<,14.455038670762578 );}
-{(company,!=,Microsoft );(value,>=,89.11662002963683 );(drop,<=,8.488348414283454 );}
-{(company,!=,Microsoft );(value,<,84.45610071745847 );(drop,>=,9.589691194598258 );}
-{(company,=,Google );(value,>,83.40524525230195 );(drop,>=,10.233594144884293 );}
-{(company,=,Microsoft );(value,<,85.18901711927744 );(drop,>,8.416665670493622 );}
-{(company,=,Microsoft );(value,<=,82.7088449726046 );(drop,>=,9.456355032088517 );}
-{(company,!=,Apple );(value,>=,90.97392131804062 );(drop,>,12.328779116545967 );}
-{(company,=,Microsoft );(value,<,92.84533528476663 );(drop,<=,12.225160120138831 );}
-{(company,!=,Google );(value,>,83.01194892765258 );(drop,>,8.428560556035675 );}
-{(company,=,Apple );(value,>=,96.28523169399648 );(drop,>,13.823923049235557 );}
-{(company,=,Microsoft );(value,<=,90.80328797524012 );(drop,<=,10.604114651672791 );}
-{(company,=,Apple );(value,<=,80.81884677618015 );(drop,>=,13.921725953122484 );}
-{(company,=,Microsoft );(value,<,86.41112778018075 );(drop,<,11.788299476073917 );}
-{(company,!=,Google );(value,<=,91.80025364507743 );(drop,<=,10.244819512004064 );}
-{(company,=,Google );(value,>,85.33814740395731 );(drop,<,5.893895617827311 );}
-{(company,=,Google );(value,>=,87.01693481558432 );(drop,>=,13.03889202367462 );}
-{(company,=,Apple );(value,>,94.51624106653261 );(drop,<=,14.779415038666533 );}
-{(company,!=,Microsoft );(value,>,81.75045363856451 );(drop,>=,7.252180467269142 );}
-{(company,=,Google );(value,>=,89.79405838005239 );(drop,>=,10.343983572931558 );}
-{(company,=,Microsoft );(value,>,90.29210602080602 );(drop,>=,7.018651383144031 );}
-{(company,=,Microsoft );(value,<,98.90968348694591 );(drop,<=,7.995462264913521 );}
-{(company,=,Google );(value,<,93.81385001294578 );(drop,>,13.964237829090008 );}
-{(company,=,Google );(value,>=,92.1040171723063 );(drop,<,7.436779279751397 );}
-{(company,=,Google );(value,<=,92.11732527346201 );(drop,>,8.317647083533348 );}
-{(company,=,Apple );(value,>=,84.72490144316487 );(drop,>=,5.8255312452211125 );}
-{(company,=,Apple );(value,<=,87.02240323341302 );(drop,<=,6.109440645193331 );}
-{(company,=,Google );(value,<=,83.26010594095197 );(drop,<,10.825309385600631 );}
-{(company,!=,Apple );(value,<,84.36687492377361 );(drop,>,9.290111249292208 );}
-{(company,=,Google );(value,>=,82.09575672856892 );(drop,<=,12.701519889337456 );}
-{(company,=,Google );(value,>=,93.58908938688127 );(drop,>,9.513342933842246 );}
-{(company,=,Google );(value,<=,90.44276753684572 );(drop,<,7.9107214577188465 );}
-{(company,=,Google );(value,<,90.07876264770248 );(drop,>,6.35913809997323 );}
-{(company,=,Apple );(value,>=,81.98719465219764 );(drop,<,10.748511604672057 );}
-{(company,=,Apple );(value,>,93.85083964064235 );(drop,>=,10.49440790061377 );}
-{(company,=,Google );(value,<=,83.64038756672696 );(drop,<=,10.439091543863404 );}
-{(company,!=,Microsoft );(value,<,81.90204345289247 );(drop,>=,7.7016100712967175 );}
-{(company,=,Google );(value,>,82.5178118109093 );(drop,<=,12.700811443261784 );}
-{(company,=,Apple );(value,>=,91.00272261339131 );(drop,>=,14.143913139799114 );}
-{(company,!=,Microsoft );(value,<,87.49153890626268 );(drop,>,9.738468799714228 );}
-{(company,=,Apple );(value,<,95.71302392528253 );(drop,>=,13.476922232610676 );}
-{(company,=,Microsoft );(value,<,87.20747602018817 );(drop,>,14.946397745066346 );}
-{(company,=,Google );(value,<,85.74970084670805 );(drop,<,12.280343479332306 );}
-{(company,=,Microsoft );(value,<,82.66085886955577 );(drop,>,10.922877440900166 );}
-{(company,=,Google );(value,>=,99.591473495137 );(drop,>=,12.477687994981324 );}
-{(company,=,Google );(value,<=,85.74627800728962 );(drop,>=,5.395898896294906 );}
-{(company,=,Apple );(value,<=,91.76299951180647 );(drop,<,14.265309571446172 );}
-{(company,=,Google );(value,<,96.64733595309482 );(drop,<=,9.806149653755032 );}
-{(company,=,Apple );(value,>,82.64746495512252 );(drop,>=,10.004819262889457 );}
-{(company,=,Google );(value,<,89.14941352068278 );(drop,>=,11.35887249174773 );}
-{(company,=,Apple );(value,>=,83.84558455075835 );(drop,>,5.998537209559074 );}
-{(company,=,Google );(value,<=,81.3505910207862 );(drop,<,11.619434215976087 );}
-{(company,=,Google );(value,>=,81.13167758811505 );(drop,<=,9.893041403303313 );}
-{(company,=,Google );(value,<=,98.71003848324307 );(drop,<=,12.625143590483766 );}
-{(company,!=,Apple );(value,<=,91.2947413577131 );(drop,<=,8.737192325123733 );}
-{(company,=,Microsoft );(value,>,90.35251029687377 );(drop,<,13.508295338864114 );}
-{(company,=,Google );(value,>,91.54840810987989 );(drop,<=,14.148168048327063 );}
-{(company,!=,Google );(value,<=,90.35991491554294 );(drop,<=,10.164029256320415 );}
-{(company,=,Microsoft );(value,>,90.32871634720348 );(drop,<,9.163733413751933 );}
-{(company,!=,Apple );(value,<=,85.07076524590516 );(drop,>,8.663899785797714 );}
-{(company,=,Apple );(value,>=,90.04031565611098 );(drop,<=,6.774457069283859 );}
-{(company,=,Microsoft );(value,<=,83.6273023185852 );(drop,<,14.124316846737925 );}
-{(company,=,Apple );(value,>=,97.64774727681393 );(drop,<=,7.477614384755559 );}
-{(company,=,Google );(value,>,85.45614592394683 );(drop,<=,13.057717344741656 );}
-{(company,=,Google );(value,>=,87.97730615315425 );(drop,>=,10.436676713435318 );}
-{(company,=,Microsoft );(value,<,80.20157215280837 );(drop,>=,11.426485501462338 );}
-{(company,=,Apple );(value,<=,86.93898325623145 );(drop,>=,12.27347040213479 );}
-{(company,=,Apple );(value,<=,98.17460492407537 );(drop,>,12.301679162915688 );}
-{(company,=,Google );(value,>,95.96001720800437 );(drop,<=,11.80492192970083 );}
-{(company,=,Apple );(value,<,81.21049439810474 );(drop,>=,7.749009499741874 );}
-{(company,!=,Microsoft );(value,>,81.19378688257416 );(drop,<=,11.729193406944498 );}
-{(company,=,Microsoft );(value,>=,90.1355219353377 );(drop,<=,8.903960940868444 );}
-{(company,!=,Apple );(value,<,97.18854854025993 );(drop,<,8.24845877102356 );}
-{(company,!=,Apple );(value,>=,95.1283297944062 );(drop,>,14.940782302937649 );}
-{(company,!=,Apple );(value,<=,94.2492350737055 );(drop,<,8.390753502090053 );}
-{(company,=,Google );(value,>,98.77093511370643 );(drop,>=,7.384933196613171 );}
-{(company,=,Microsoft );(value,<,86.58009313861241 );(drop,>,5.052810073364006 );}
-{(company,!=,Apple );(value,<=,96.85326767745181 );(drop,>,7.413619747790483 );}
-{(company,=,Google );(value,>,98.32548546611686 );(drop,>=,7.136082414439901 );}
-{(company,!=,Microsoft );(value,>,87.92643758720955 );(drop,>,14.104923538719813 );}
-{(company,=,Microsoft );(value,<=,88.37837473636394 );(drop,<,14.819505946852608 );}
-{(company,=,Google );(value,<=,99.00643245716472 );(drop,<,5.031291409573143 );}
-{(company,=,Microsoft );(value,>,88.62684666509021 );(drop,>,11.053220430710759 );}
-{(company,=,Apple );(value,>=,93.69139673836611 );(drop,<,9.05953983289505 );}
-{(company,=,Microsoft );(value,<=,84.89536050010746 );(drop,<,14.53201133705559 );}
-{(company,!=,Microsoft );(value,>=,99.57014633793334 );(drop,>=,10.259773816438123 );}
-{(company,=,Google );(value,>,92.8047696063361 );(drop,<,8.33187676587475 );}
-{(company,=,Microsoft );(value,>=,90.49077272850296 );(drop,<,8.010333181573802 );}
-{(company,=,Microsoft );(value,>,85.75495774222347 );(drop,<=,5.739579604462736 );}
-{(company,!=,Google );(value,<=,80.79184483798777 );(drop,<=,12.974833945924171 );}
-{(company,=,Apple );(value,>=,87.07622092987208 );(drop,>,12.791923530185674 );}
-{(company,!=,Google );(value,>,90.45769373899671 );(drop,<,10.017920026334053 );}
-{(company,=,Google );(value,>,99.28607756061659 );(drop,>=,5.5897862611010325 );}
-{(company,=,Google );(value,>=,88.73196196975576 );(drop,<,8.799049767801378 );}
-{(company,!=,Microsoft );(value,>,92.37801860616516 );(drop,<,5.829446520904136 );}
-{(company,=,Apple );(value,<,95.76036656616321 );(drop,>=,14.550010121764236 );}
-{(company,=,Google );(value,<,82.72676057122821 );(drop,<,10.349969547815142 );}
-{(company,=,Apple );(value,>,87.94061456573573 );(drop,<=,5.59008836287315 );}
-{(company,!=,Google );(value,<=,92.93556524361352 );(drop,>=,7.2280046054043705 );}
-{(company,!=,Google );(value,<=,94.3061172701748 );(drop,>,7.853947448037387 );}
-{(company,!=,Google );(value,>,91.47154561396222 );(drop,>=,9.178352111237569 );}
-{(company,=,Google );(value,>=,98.07425526536724 );(drop,>=,9.255557992965272 );}
-{(company,=,Microsoft );(value,>=,81.42101042057517 );(drop,>=,7.454059699273243 );}
-{(company,=,Apple );(value,>,84.2895183734723 );(drop,<,12.254129464049484 );}
-{(company,=,Apple );(value,>,92.89695339128357 );(drop,>,6.56605280500976 );}
-{(company,=,Microsoft );(value,>=,97.09360364773093 );(drop,<,14.833165347946643 );}
-{(company,!=,Microsoft );(value,<=,97.41780670092399 );(drop,>,9.714808052530504 );}
-{(company,=,Google );(value,<,90.32509752668604 );(drop,>=,9.644340270749172 );}
-{(company,!=,Google );(value,>,94.76969341676549 );(drop,>,13.257026319725316 );}
-{(company,!=,Apple );(value,<=,86.6404116372568 );(drop,<=,11.744915017429943 );}
-{(company,!=,Google );(value,<=,91.21742920211014 );(drop,>,13.74932109249494 );}
-{(company,!=,Google );(value,<,85.51237954708529 );(drop,<=,10.521843252593595 );}
-{(company,!=,Microsoft );(value,>,95.40225399333605 );(drop,<=,14.098932983129247 );}
-{(company,=,Google );(value,>,80.56124170212735 );(drop,>,5.522831679593029 );}
-{(company,=,Apple );(value,>=,90.5639164901746 );(drop,<=,7.581926247986405 );}
-{(company,=,Google );(value,<,91.29794172959743 );(drop,>=,12.478892857773074 );}
-{(company,=,Google );(value,>=,84.96498102876859 );(drop,<=,12.829914942043583 );}
-{(company,=,Microsoft );(value,>=,83.96162194834766 );(drop,<=,9.608168415305988 );}
-{(company,=,Google );(value,>=,94.96814377434318 );(drop,<=,12.452227578007069 );}
-{(company,!=,Microsoft );(value,>,93.10005279869452 );(drop,>,12.554988000336012 );}
-{(company,!=,Google );(value,>=,94.48924438706251 );(drop,<,7.359326290155236 );}
-{(company,=,Apple );(value,>=,96.3034525276789 );(drop,>,14.771645318762655 );}
-{(company,=,Google );(value,>,98.29018423544935 );(drop,>=,13.972437149558328 );}
-{(company,=,Apple );(value,<,93.72386918654831 );(drop,>,13.859442960611656 );}
-{(company,!=,Apple );(value,>=,90.09331740295598 );(drop,>,10.003734842319554 );}
-{(company,=,Microsoft );(value,<,92.3812759136265 );(drop,<=,8.323587041494138 );}
-{(company,=,Microsoft );(value,<=,95.58496630239914 );(drop,>,6.297205573719268 );}
-{(company,=,Microsoft );(value,>=,91.36146342233444 );(drop,<=,10.45498435913466 );}
-{(company,=,Microsoft );(value,<,92.28122641475315 );(drop,<,5.269546693203388 );}
-{(company,=,Apple );(value,>,84.1787454395211 );(drop,<=,6.962558356473261 );}
-{(company,!=,Google );(value,<=,97.56429816578493 );(drop,>=,7.7236163875713215 );}
-{(company,=,Microsoft );(value,>=,89.79832434064309 );(drop,>,5.692934509687799 );}
-{(company,=,Microsoft );(value,>=,87.2513513937508 );(drop,<,6.1346635455836935 );}
-{(company,=,Google );(value,<=,83.75572732838091 );(drop,<,5.207425632208288 );}
-{(company,!=,Google );(value,>=,88.38047009518012 );(drop,>,13.817253494818665 );}
-{(company,=,Microsoft );(value,<,88.62941066617664 );(drop,<=,7.194992105830207 );}
-{(company,=,Apple );(value,>=,97.37222570499681 );(drop,>,10.828258214368233 );}
-{(company,=,Microsoft );(value,<,97.92077789471166 );(drop,>=,8.145077952983668 );}
-{(company,=,Google );(value,<,82.97817546493872 );(drop,<=,12.792075605618116 );}
-{(company,!=,Google );(value,>=,85.00638782396695 );(drop,<=,12.755470459280872 );}
-{(company,!=,Microsoft );(value,<=,80.68259701685446 );(drop,<=,14.527780164364554 );}
-{(company,!=,Apple );(value,<=,86.6629485795701 );(drop,>,10.593590476552816 );}
-{(company,!=,Microsoft );(value,<=,98.01342691501426 );(drop,>=,9.144816629100143 );}
-{(company,!=,Apple );(value,>=,97.38590697268222 );(drop,<,5.97476445234395 );}
-{(company,=,Google );(value,<,81.5795145398164 );(drop,>,13.098665400869848 );}
-{(company,!=,Google );(value,>=,87.16824286691298 );(drop,<,14.197430586672025 );}
-{(company,=,Apple );(value,<,84.44374729238191 );(drop,<=,9.476300129163036 );}
-{(company,=,Google );(value,<,99.24835048738436 );(drop,>=,11.644436634488716 );}
-{(company,=,Microsoft );(value,<,82.29598970783051 );(drop,>=,10.09926452166305 );}
-{(company,=,Google );(value,>=,90.5218226422554 );(drop,>=,10.409190399677087 );}
-{(company,!=,Microsoft );(value,<,93.38597731839207 );(drop,>=,14.866706876612742 );}
-{(company,=,Google );(value,>=,96.15066421133633 );(drop,<,11.1107598122273 );}
-{(company,=,Google );(value,>=,83.01815404980049 );(drop,>,14.17921182992256 );}
-{(company,!=,Apple );(value,<=,96.09935815074 );(drop,<=,11.82956384219826 );}
-{(company,=,Microsoft );(value,<=,82.44261990417385 );(drop,>,7.913312343178123 );}
-{(company,=,Apple );(value,<=,85.89449449676165 );(drop,<=,11.813620995342564 );}
-{(company,=,Google );(value,>,90.13865953038679 );(drop,<,11.879059796876103 );}
-{(company,=,Google );(value,>,84.69301314052849 );(drop,>=,5.521465339851924 );}
-{(company,=,Apple );(value,<,93.55409932488205 );(drop,>,12.132001467591076 );}
-{(company,=,Google );(value,>=,99.00602072548082 );(drop,<=,8.047949778301504 );}
-{(company,!=,Google );(value,<=,87.77622325334791 );(drop,<=,13.003363711841349 );}
-{(company,=,Google );(value,>,92.4839299623544 );(drop,>=,14.891107074944074 );}
-{(company,=,Apple );(value,>=,80.07245528913549 );(drop,<=,14.80921908116526 );}
-{(company,=,Google );(value,>,81.98044264461977 );(drop,<,13.334156396780891 );}
-{(company,=,Google );(value,>=,88.62559530510327 );(drop,>=,8.78411086667518 );}
-{(company,=,Microsoft );(value,>=,95.84386581977571 );(drop,>=,7.529079166617122 );}
-{(company,=,Apple );(value,>=,94.28383921762641 );(drop,<,14.54664776509514 );}
-{(company,=,Microsoft );(value,>,96.62401529082398 );(drop,>,10.389127772379872 );}
-{(company,=,Apple );(value,<=,86.28630238662116 );(drop,<=,5.600551255400269 );}
-{(company,=,Google );(value,>=,95.84747691055858 );(drop,<,12.192346105621786 );}
-{(company,=,Google );(value,>=,91.50402116824091 );(drop,<=,11.09861411927255 );}
-{(company,!=,Google );(value,>,96.28106715531527 );(drop,>=,12.874532098168146 );}
-{(company,=,Microsoft );(value,<=,89.3167260973649 );(drop,<,8.106673459108315 );}
-{(company,=,Google );(value,>,95.14215797537402 );(drop,>,6.073984342141909 );}
-{(company,!=,Microsoft );(value,>=,83.14156935440334 );(drop,>=,8.781286876491498 );}
-{(company,=,Google );(value,<=,80.1733583457047 );(drop,<,14.754021930312305 );}
-{(company,=,Microsoft );(value,<,83.69067942859832 );(drop,<,9.773041914246528 );}
-{(company,=,Microsoft );(value,<=,81.75898060296731 );(drop,>=,5.894162508912021 );}
-{(company,=,Google );(value,>,90.41933172119343 );(drop,<=,11.519614929768696 );}
-{(company,=,Apple );(value,<,99.4075478898734 );(drop,>,7.230317001722727 );}
-{(company,=,Google );(value,<,99.76432663505747 );(drop,<=,13.062254188654617 );}
-{(company,=,Google );(value,<,99.49848228650406 );(drop,<,5.166217518743281 );}
-{(company,=,Apple );(value,<,82.76249673442882 );(drop,<,9.218907124693873 );}
-{(company,!=,Apple );(value,<,86.93911665956783 );(drop,<,6.506633923995406 );}
-{(company,=,Microsoft );(value,<,90.8727951688344 );(drop,>,14.04196668106404 );}
-{(company,!=,Google );(value,<,92.95139158173902 );(drop,>,6.363517796450987 );}
-{(company,=,Google );(value,<=,85.7187752229213 );(drop,<=,11.771707792674123 );}
-{(company,=,Apple );(value,>,83.9772874602506 );(drop,<=,5.237015995190903 );}
-{(company,!=,Google );(value,<=,82.38589032750504 );(drop,>,8.365205672974922 );}
-{(company,=,Microsoft );(value,>=,87.22215355624036 );(drop,<=,9.090499440198586 );}
-{(company,!=,Google );(value,>=,83.49535783940226 );(drop,<,9.46228499147186 );}
-{(company,=,Microsoft );(value,<=,86.78761297316544 );(drop,>,14.526450339502198 );}
-{(company,=,Google );(value,<,83.13647565105906 );(drop,<,6.977804334801708 );}
-{(company,=,Google );(value,>=,89.40407991471763 );(drop,<=,8.192252279775346 );}
-{(company,!=,Google );(value,<,90.21820728496158 );(drop,>=,11.813561637697925 );}
-{(company,=,Apple );(value,<=,85.31170868243224 );(drop,<=,9.728553392869603 );}
-{(company,=,Google );(value,>,96.83400369679201 );(drop,<,12.190466401088951 );}
-{(company,=,Microsoft );(value,<,81.29928945717597 );(drop,<,14.660256895927306 );}
-{(company,=,Microsoft );(value,<=,96.15571980509928 );(drop,>=,7.671442486608382 );}
-{(company,=,Google );(value,<=,95.89134811826437 );(drop,>=,14.00101312375773 );}
-{(company,=,Apple );(value,<,88.22842470364156 );(drop,>,12.819456281804133 );}
-{(company,!=,Apple );(value,<,90.99622823961694 );(drop,<=,12.215310719506702 );}
-{(company,=,Apple );(value,>=,87.62307888902625 );(drop,<=,8.555543321226727 );}
-{(company,!=,Microsoft );(value,<=,96.31999112919681 );(drop,>,9.10046210750279 );}
-{(company,!=,Microsoft );(value,>=,91.03533506444647 );(drop,>=,6.411529076893801 );}
-{(company,=,Apple );(value,>,92.09807533599394 );(drop,<,12.911694481086883 );}
-{(company,!=,Apple );(value,<=,84.54920129762849 );(drop,>=,13.213929733610989 );}
-{(company,=,Apple );(value,>=,88.45113702412372 );(drop,>,5.578188496337867 );}
-{(company,=,Google );(value,<,82.6009820419286 );(drop,>=,7.968141086339752 );}
-{(company,=,Google );(value,<=,94.66609616375824 );(drop,>=,11.651123412353677 );}
-{(company,!=,Microsoft );(value,>=,96.97515698501132 );(drop,<,14.79039608570476 );}
-{(company,!=,Apple );(value,<,80.63913452630166 );(drop,<,7.757549075180369 );}
-{(company,=,Google );(value,<,97.13530025065509 );(drop,>=,14.661336580831746 );}
-{(company,=,Microsoft );(value,<,90.72217477969352 );(drop,>,11.104481560906406 );}
-{(company,=,Apple );(value,<=,89.28709691473672 );(drop,<=,6.8290472119865 );}
-{(company,!=,Microsoft );(value,>,87.21013135395204 );(drop,>,13.209806462824613 );}
-{(company,!=,Google );(value,<,98.85698176713122 );(drop,<=,13.583932852065319 );}
-{(company,!=,Apple );(value,>=,80.27717538816707 );(drop,>,8.519606180281043 );}
-{(company,!=,Google );(value,>,98.20266104687477 );(drop,>,8.14317396081863 );}
-{(company,!=,Apple );(value,<,83.84874113695747 );(drop,<=,13.99900168144042 );}
-{(company,=,Google );(value,>=,94.78642799034552 );(drop,<,11.528088646731716 );}
-{(company,=,Google );(value,>,80.77993603245285 );(drop,<=,10.52970973739204 );}
-{(company,=,Google );(value,>,81.0366552914784 );(drop,<,7.540326676494663 );}
-{(company,=,Microsoft );(value,<=,83.6966236842179 );(drop,>,9.875817786221084 );}
-{(company,=,Apple );(value,>=,99.05822558776485 );(drop,>=,10.308098190187149 );}
-{(company,=,Google );(value,<=,93.63343870433359 );(drop,>,12.017598518450608 );}
-{(company,=,Apple );(value,>=,87.74581489449916 );(drop,<,13.183668467620812 );}
-{(company,=,Google );(value,>=,96.12064590247246 );(drop,>=,5.63007443482105 );}
-{(company,=,Microsoft );(value,<=,97.45993324687564 );(drop,<=,13.393718987941734 );}
-{(company,=,Microsoft );(value,>=,80.5131680462731 );(drop,>,7.259155928304412 );}
-{(company,=,Google );(value,<,87.63682745720666 );(drop,<=,13.864505556767131 );}
-{(company,=,Microsoft );(value,>=,80.95395146240952 );(drop,>=,10.633364968217842 );}
-{(company,!=,Apple );(value,<=,80.83809699498921 );(drop,>=,9.007842323742773 );}
-{(company,!=,Google );(value,<,97.5573568301813 );(drop,>=,7.267887902353256 );}
-{(company,=,Apple );(value,>,85.21438482785064 );(drop,<=,10.991693872664655 );}
-{(company,!=,Apple );(value,<=,92.93315969551546 );(drop,>,14.564347371003741 );}
-{(company,=,Microsoft );(value,>=,95.1545238114286 );(drop,>,7.519065980611627 );}
-{(company,=,Microsoft );(value,<=,90.41534792175038 );(variation,<,0.7868396478655115 );}
-{(company,=,Apple );(value,>,81.88755146439814 );(variation,<=,0.6880078987196802 );}
-{(company,=,Google );(value,<,84.97297247357683 );(variation,>,0.6372391148487864 );}
-{(company,=,Microsoft );(value,>=,85.1311449361805 );(variation,<,0.6931357441120303 );}
-{(company,!=,Google );(value,<,85.27024705583463 );(variation,>,0.6005914405619528 );}
-{(company,=,Microsoft );(value,<=,87.753274288469 );(variation,>,0.7204301029140548 );}
-{(company,=,Microsoft );(value,<=,80.68352167891756 );(variation,>,0.7188712070473441 );}
-{(company,=,Apple );(value,>=,82.28586307969705 );(variation,<,0.7105596053210185 );}
-{(company,=,Apple );(value,<=,81.43801729268951 );(variation,<=,0.672861757717029 );}
-{(company,=,Microsoft );(value,>,81.90195561552777 );(variation,>,0.6246149114892761 );}
-{(company,=,Google );(value,<=,83.84807831512127 );(variation,>=,0.6429038286408696 );}
-{(company,!=,Google );(value,<,99.0671954237509 );(variation,>=,0.7033391721909765 );}
-{(company,=,Microsoft );(value,>=,92.88642083956165 );(variation,>,0.6171884777824393 );}
-{(company,=,Apple );(value,<=,92.15284721463684 );(variation,>,0.7596867805899317 );}
-{(company,!=,Microsoft );(value,<=,95.57807093707146 );(variation,>=,0.6690089676938057 );}
-{(company,!=,Apple );(value,>,97.48195581294888 );(variation,>,0.6155879987015576 );}
-{(company,!=,Google );(value,>,91.43408998115878 );(variation,>,0.7644908383302484 );}
-{(company,=,Apple );(value,<,87.85724451579678 );(variation,<,0.7861534801716472 );}
-{(company,=,Apple );(value,>,94.22109456085963 );(variation,<,0.6804182712272201 );}
-{(company,=,Microsoft );(value,<,97.54564009198485 );(variation,>,0.7967892968783165 );}
-{(company,=,Google );(value,>=,99.93645219608712 );(variation,>,0.7597946441310168 );}
-{(company,=,Microsoft );(value,>,87.01811174660557 );(variation,>,0.7565657015493881 );}
-{(company,!=,Microsoft );(value,>=,98.85690820192683 );(variation,<=,0.6467398266060982 );}
-{(company,=,Microsoft );(value,>=,89.02183050674651 );(variation,>,0.6879478023856724 );}
-{(company,=,Apple );(value,>=,95.82220364900749 );(variation,>=,0.6595146549933256 );}
-{(company,=,Microsoft );(value,<,88.62715906499966 );(variation,>,0.7491726302728869 );}
-{(company,!=,Apple );(value,<,99.4154316616653 );(variation,<=,0.6233974367657992 );}
-{(company,=,Apple );(value,<=,99.18749616920998 );(variation,>,0.7111716633106796 );}
-{(company,=,Microsoft );(value,<,95.51580666272498 );(variation,<=,0.7157516305580316 );}
-{(company,!=,Google );(value,<=,82.81891042431442 );(variation,<,0.7685638555366893 );}
-{(company,=,Microsoft );(value,<=,94.31638969888586 );(variation,>=,0.7009051684031851 );}
-{(company,=,Google );(value,>=,80.38107723379098 );(variation,>=,0.7589903518682402 );}
-{(company,=,Apple );(value,<=,92.34149001724099 );(variation,<=,0.6215873432356133 );}
-{(company,!=,Apple );(value,>,90.09375543694134 );(variation,>,0.6154738698065774 );}
-{(company,!=,Apple );(value,>=,86.11953295029532 );(variation,>,0.7916811576004972 );}
-{(company,=,Google );(value,>,88.91717854279938 );(variation,>,0.7504756482524334 );}
-{(company,=,Google );(value,>=,90.14171655777008 );(variation,<=,0.681902676766407 );}
-{(company,=,Apple );(value,>=,90.69689355299595 );(variation,>,0.695653034294348 );}
-{(company,=,Google );(value,<,86.83195562780776 );(variation,<=,0.6801944776189067 );}
-{(company,=,Apple );(value,>,91.84644278704398 );(variation,<,0.6284887699742547 );}
-{(company,=,Microsoft );(value,<=,84.62326871601631 );(variation,>=,0.7822233474948196 );}
-{(company,!=,Apple );(value,<,86.86985317680403 );(variation,<=,0.6187399382702536 );}
-{(company,=,Apple );(value,<=,96.15201720407164 );(variation,<,0.7844060142496931 );}
-{(company,!=,Microsoft );(value,>,81.70885390188018 );(variation,>,0.7191534172692341 );}
-{(company,=,Microsoft );(value,<,82.85632500306065 );(variation,>,0.6285156408671442 );}
-{(company,=,Microsoft );(value,<,84.09687289091823 );(variation,>=,0.6964651337266317 );}
-{(company,=,Microsoft );(value,<=,81.41738629117944 );(variation,>=,0.6414641751477791 );}
-{(company,=,Apple );(value,>,96.41987680566682 );(variation,<=,0.7351250812055059 );}
-{(company,=,Google );(value,>=,88.94267198209903 );(variation,<,0.7623380581808995 );}
-{(company,=,Microsoft );(value,<,81.71476369038388 );(variation,>=,0.6576687784769372 );}
-{(company,!=,Microsoft );(value,<,84.14000219221776 );(variation,<=,0.6951100125722836 );}
-{(company,=,Microsoft );(value,>=,87.06114770414922 );(variation,>,0.7329232583744532 );}
-{(company,=,Google );(value,<=,81.47266235296973 );(variation,>,0.6205835358955389 );}
-{(company,=,Google );(value,<,93.51496562207849 );(variation,<,0.6808074396653937 );}
-{(company,=,Microsoft );(value,>=,97.33703296610557 );(variation,<=,0.7120343855657403 );}
-{(company,!=,Microsoft );(value,<=,91.62998074489391 );(variation,<=,0.6776828276355314 );}
-{(company,=,Google );(value,<=,91.82740969836196 );(variation,>,0.6738052308885839 );}
-{(company,=,Apple );(value,>,87.49421457476599 );(variation,>=,0.6406423258113129 );}
-{(company,=,Google );(value,<,97.47322411453285 );(variation,>,0.782508718192765 );}
-{(company,!=,Apple );(value,<=,85.23709239840524 );(variation,<,0.6112128091941051 );}
-{(company,=,Google );(value,>=,90.17541171976725 );(variation,>,0.7939613260355134 );}
-{(company,=,Apple );(value,>,95.69549256121824 );(variation,<,0.6635702159345125 );}
-{(company,!=,Microsoft );(value,<,80.89463690015614 );(variation,>=,0.6846967443393508 );}
-{(company,=,Apple );(value,>=,84.15091872180561 );(variation,>=,0.71067960685881 );}
-{(company,=,Apple );(value,<=,95.19679429139735 );(variation,>=,0.704262895743137 );}
-{(company,=,Google );(value,>,97.22049844676177 );(variation,<=,0.7744419129568658 );}
-{(company,=,Apple );(value,>=,87.68605575475983 );(variation,>,0.7883598243824762 );}
-{(company,=,Apple );(value,>=,84.23253617765705 );(variation,<,0.6578162402825287 );}
-{(company,!=,Google );(value,>,95.23834457431909 );(variation,<=,0.7734292312400852 );}
-{(company,=,Apple );(value,>=,94.49618121980791 );(variation,<=,0.7178670426737841 );}
-{(company,=,Google );(value,>=,83.91804598167357 );(variation,<=,0.7569398981201039 );}
-{(company,!=,Microsoft );(value,>,87.35872823664474 );(variation,<,0.6131651882806767 );}
-{(company,!=,Apple );(value,<=,80.22355103520664 );(variation,<=,0.6276100599669425 );}
-{(company,=,Apple );(value,>,95.01948481146458 );(variation,>=,0.6768187236677383 );}
-{(company,!=,Microsoft );(value,<,86.91359310720941 );(variation,<,0.6201033743649675 );}
-{(company,=,Google );(value,<=,83.77890354156794 );(variation,>=,0.6509339684458841 );}
-{(company,=,Google );(value,>,91.15166447809636 );(variation,>,0.62329017580592 );}
-{(company,=,Apple );(value,>,96.57288847321465 );(variation,<,0.6341561295458551 );}
-{(company,=,Google );(value,<=,94.14064825587221 );(variation,>,0.7723799430754549 );}
-{(company,=,Microsoft );(value,<,85.52373652093864 );(variation,<,0.7540202737461932 );}
-{(company,=,Apple );(value,>=,96.07654393405134 );(variation,<,0.7549193356784768 );}
-{(company,!=,Apple );(value,>,95.12291266892886 );(variation,<=,0.6643890443148317 );}
-{(company,=,Google );(value,>=,94.48836555949318 );(variation,>,0.6900005707059442 );}
-{(company,=,Microsoft );(value,>,82.88948432499208 );(variation,>=,0.6106781840545448 );}
-{(company,=,Google );(value,<=,81.26356935359624 );(variation,>=,0.6954423493015693 );}
-{(company,=,Microsoft );(value,>=,90.05556264452255 );(variation,>=,0.739284342746894 );}
-{(company,=,Apple );(value,<,99.83246597326435 );(variation,>=,0.633117454417399 );}
-{(company,=,Microsoft );(value,<=,93.22827162617406 );(variation,<,0.7628653784406059 );}
-{(company,=,Microsoft );(value,>=,88.44496918076156 );(variation,<=,0.679877017296046 );}
-{(company,=,Apple );(value,>=,95.09088451603645 );(variation,>=,0.6206352974891447 );}
-{(company,!=,Google );(value,>=,85.50320832823144 );(variation,<,0.6175585059626729 );}
-{(company,=,Microsoft );(value,<=,94.57322613486681 );(variation,<,0.7825900109979229 );}
-{(company,!=,Google );(value,<=,97.94798472804344 );(variation,<,0.7966167958452681 );}
-{(company,!=,Apple );(value,<,98.89784938665554 );(variation,<,0.7796969370711202 );}
-{(company,!=,Microsoft );(value,<,99.36251226918021 );(variation,>,0.6155806823673738 );}
-{(company,=,Apple );(value,>=,87.74072223766437 );(variation,>=,0.7338556168383463 );}
-{(company,!=,Apple );(value,>,90.48824825532205 );(variation,>=,0.6858062733474359 );}
-{(company,=,Apple );(value,>=,85.91900726820525 );(variation,<,0.6577586518519546 );}
-{(company,=,Google );(value,>=,91.4702872372212 );(variation,>,0.6176286225159022 );}
-{(company,=,Microsoft );(value,>=,80.62633901318533 );(variation,<,0.7454254104088842 );}
-{(company,=,Apple );(value,<=,96.78049819996667 );(variation,<,0.6362717419407075 );}
-{(company,=,Microsoft );(value,>=,86.74468258135653 );(variation,>,0.7148164894575781 );}
-{(company,=,Apple );(value,<,89.91864308421304 );(variation,>,0.623087421909906 );}
-{(company,=,Google );(value,>,90.16905129852124 );(variation,<=,0.6662731728345601 );}
-{(company,=,Apple );(value,<,82.21478092705685 );(variation,<,0.7590359726558742 );}
-{(company,=,Microsoft );(value,<,99.35091973524808 );(variation,>,0.6710546874145497 );}
-{(company,=,Apple );(value,>,95.75000497558489 );(variation,<=,0.7410822261863044 );}
-{(company,=,Apple );(value,<,86.62503440897291 );(variation,<,0.631835218025397 );}
-{(company,=,Microsoft );(value,<=,97.5887518355985 );(variation,<,0.6201629522825146 );}
-{(company,=,Microsoft );(value,>,85.76578749262116 );(variation,>=,0.6436767876433817 );}
-{(company,=,Microsoft );(value,>,82.58774071273956 );(variation,>,0.7040287312865383 );}
-{(company,=,Apple );(value,<,91.9364853113233 );(variation,<,0.7078645343291067 );}
-{(company,=,Apple );(value,<,89.73340382145518 );(variation,<,0.782235010643141 );}
-{(company,!=,Apple );(value,<=,82.47193374024822 );(variation,<=,0.7868773682322088 );}
-{(company,=,Google );(value,>=,90.09146172841687 );(variation,>,0.6033389306946958 );}
-{(company,!=,Google );(value,>=,96.95210173226059 );(variation,<=,0.6100588420974722 );}
-{(company,=,Apple );(value,>,92.22741246058331 );(variation,<=,0.6289134100201936 );}
-{(company,!=,Google );(value,>,95.00989616041474 );(variation,>,0.6939598818275052 );}
-{(company,=,Microsoft );(value,<,92.90915222632813 );(variation,<=,0.7896522240014718 );}
-{(company,!=,Google );(value,>=,96.09883285320115 );(variation,>=,0.798499673083762 );}
-{(company,=,Google );(value,>=,89.81030913481854 );(variation,>=,0.7526024409206377 );}
-{(company,!=,Google );(value,>=,96.96988654356664 );(variation,<=,0.7063797412790729 );}
-{(company,=,Microsoft );(value,<=,91.51718941203845 );(variation,>=,0.7947416394729051 );}
-{(company,!=,Google );(value,>,86.7387779198561 );(variation,<=,0.7430873818898385 );}
-{(company,=,Apple );(value,>=,90.70923910386463 );(variation,>,0.6495155816894991 );}
-{(company,=,Google );(value,<,81.3589264045898 );(variation,<=,0.6747031254534538 );}
-{(company,=,Google );(value,>=,89.71896171773113 );(variation,>=,0.7947331028704017 );}
-{(company,!=,Google );(value,<=,93.35537728175763 );(variation,<,0.638569482096812 );}
-{(company,=,Google );(value,>,88.93265960065601 );(variation,>,0.7028543056451563 );}
-{(company,=,Apple );(value,<,85.74009535911915 );(variation,<,0.7549255286886202 );}
-{(company,=,Microsoft );(value,>=,85.68148308025769 );(variation,>,0.750991230427577 );}
-{(company,=,Apple );(value,>=,95.48854136362485 );(variation,>,0.7675561395154756 );}
-{(company,=,Google );(value,<=,92.54741701723543 );(variation,>=,0.7408343566904894 );}
-{(company,=,Apple );(value,<=,84.68463205882307 );(variation,<,0.6758162173843386 );}
-{(company,=,Microsoft );(value,<,87.59043876715258 );(variation,<,0.7605540976081954 );}
-{(company,=,Google );(value,<=,81.3191465419491 );(variation,<,0.7522622792521116 );}
-{(company,=,Google );(value,<,83.7383739144412 );(variation,<=,0.7221491143468936 );}
-{(company,!=,Google );(value,>=,82.52433544784944 );(variation,<=,0.7113629695800027 );}
-{(company,!=,Apple );(value,>,97.28257570543458 );(variation,<,0.6139099416774646 );}
-{(company,!=,Google );(value,>,88.79269871841404 );(variation,<,0.6820714463103407 );}
-{(company,=,Microsoft );(value,<,85.69367247145756 );(variation,<,0.6972196935358068 );}
-{(company,=,Microsoft );(value,<,89.02382222543518 );(variation,>=,0.7504849979820363 );}
-{(company,=,Microsoft );(value,>,83.91781571505678 );(variation,>=,0.7990264736567136 );}
-{(company,=,Apple );(value,<=,97.12884228333849 );(variation,>,0.6774650875876836 );}
-{(company,!=,Microsoft );(value,<,83.84073370293618 );(variation,<,0.7053257498937697 );}
-{(company,=,Google );(value,>,85.94123245988597 );(variation,<=,0.7522895532710921 );}
-{(company,=,Apple );(value,<=,93.81326738598648 );(variation,<=,0.7395523012637968 );}
-{(company,!=,Microsoft );(value,>,97.23102497206554 );(variation,<,0.7510586006921662 );}
-{(company,=,Google );(value,>=,99.7285843739291 );(variation,<=,0.6979685741621716 );}
-{(company,!=,Microsoft );(value,<=,94.02824878117346 );(variation,<,0.7600512399040927 );}
-{(company,=,Apple );(value,<,89.12410785529457 );(variation,<,0.7280818497151814 );}
-{(company,=,Apple );(value,>=,87.66812017638787 );(variation,>=,0.663181098942107 );}
-{(company,=,Microsoft );(value,>,93.94206241318778 );(variation,<,0.7623061003267078 );}
-{(company,=,Google );(value,>,88.60962963607237 );(variation,<=,0.6444210467200262 );}
-{(company,=,Apple );(value,<=,83.92345122325604 );(variation,>=,0.6449989679040152 );}
-{(company,=,Google );(value,>,95.9011666775781 );(variation,<=,0.7380936374004292 );}
-{(company,=,Google );(value,<=,84.54505376871458 );(variation,<=,0.6667754762848116 );}
-{(company,!=,Microsoft );(value,<,85.67481695775705 );(variation,<,0.6901477780121771 );}
-{(company,=,Apple );(value,<=,80.42953973785953 );(variation,<,0.6519940288117783 );}
-{(company,=,Apple );(value,<=,99.26024200165244 );(variation,<,0.7285423180034554 );}
-{(company,!=,Apple );(value,>=,84.84136212873258 );(variation,>=,0.7002746834376987 );}
-{(company,=,Apple );(value,>,82.931166023647 );(variation,>=,0.6224217361593565 );}
-{(company,=,Google );(value,>,93.23627413448327 );(variation,<,0.6026688152983651 );}
-{(company,=,Apple );(value,>=,95.39030519307019 );(variation,>=,0.7089914507946894 );}
-{(company,=,Microsoft );(value,>=,88.8077270271443 );(variation,<=,0.6110246327145659 );}
-{(company,=,Microsoft );(value,>=,81.16508683857086 );(variation,<=,0.7110882281185796 );}
-{(company,!=,Apple );(value,<,97.17362628173572 );(variation,>=,0.6278423018900939 );}
-{(company,=,Google );(value,>,84.26885567711169 );(variation,<=,0.618065717464201 );}
-{(company,=,Microsoft );(value,>=,91.2379781208981 );(variation,<=,0.714964398891275 );}
-{(company,!=,Google );(value,>,93.20923943348203 );(variation,>,0.6771232382328074 );}
-{(company,!=,Google );(value,>,83.54181042791296 );(variation,>,0.7622553834212571 );}
-{(company,!=,Apple );(value,>=,85.24594071560946 );(variation,>,0.6224785591646846 );}
-{(company,=,Google );(value,<,89.15389548039204 );(variation,<=,0.638069062627119 );}
-{(company,=,Microsoft );(value,>=,89.27700545604837 );(variation,>=,0.6877784948225646 );}
-{(company,=,Apple );(value,<,85.6680729767118 );(variation,>=,0.7374486738050041 );}
-{(company,!=,Microsoft );(value,<,90.9667669310529 );(variation,>,0.7776225031829845 );}
-{(company,!=,Microsoft );(value,<=,86.03696255230126 );(variation,>=,0.7058275061454018 );}
-{(company,!=,Microsoft );(value,>,84.59179504299215 );(variation,<=,0.6608272865226128 );}
-{(company,=,Apple );(value,>,93.76665774504148 );(variation,>=,0.7303914350821022 );}
-{(company,=,Apple );(value,>,80.55056391632928 );(variation,>=,0.6440291815001575 );}
-{(company,=,Apple );(value,<=,90.98561325291996 );(variation,<,0.6021105582394279 );}
-{(company,!=,Google );(value,>=,98.02094371292633 );(variation,>=,0.6621424078396551 );}
-{(company,=,Microsoft );(value,>=,84.46597865882495 );(variation,>=,0.7398343949951205 );}
-{(company,=,Microsoft );(value,<,93.37398737319522 );(variation,<,0.6021657229220264 );}
-{(company,!=,Microsoft );(value,>,97.22248959987684 );(variation,>,0.7065180368158236 );}
-{(company,=,Google );(value,<,94.90909257263911 );(variation,<=,0.6912554675252243 );}
-{(company,!=,Google );(value,>,99.52951932367071 );(variation,<=,0.7958648893397124 );}
-{(company,=,Apple );(value,<=,93.8519936783275 );(variation,<,0.6911409652713574 );}
-{(company,=,Google );(value,>,82.93374478619468 );(variation,<=,0.6540004833557963 );}
-{(company,=,Microsoft );(value,>=,95.91534937232358 );(variation,>,0.6560817721268644 );}
-{(company,=,Microsoft );(value,<=,91.31059310364516 );(variation,<,0.6874701358435453 );}
-{(company,=,Microsoft );(value,<=,88.72090179132368 );(variation,>,0.6300238490232103 );}
-{(company,=,Apple );(value,>=,99.86596630365597 );(variation,>=,0.7657106348337311 );}
-{(company,=,Apple );(value,>=,92.48293409488883 );(variation,<=,0.7831410829155098 );}
-{(company,=,Google );(value,>,80.05450366186899 );(variation,>=,0.648211156649692 );}
-{(company,=,Apple );(value,>=,97.46103316261335 );(variation,<,0.6685878869800521 );}
-{(company,!=,Google );(value,<,83.30075987357564 );(variation,>,0.7827681546038923 );}
-{(company,=,Microsoft );(value,>=,98.1233020962921 );(variation,<,0.7721192849348228 );}
-{(company,!=,Google );(value,>=,98.70927753358897 );(variation,>,0.7385468063000344 );}
-{(company,=,Apple );(value,>,87.72754270998773 );(variation,<=,0.7756923232893834 );}
-{(company,=,Google );(value,>=,95.49582207646641 );(variation,<,0.6550840705982726 );}
-{(company,=,Google );(value,>=,95.61459272910727 );(variation,<,0.7827632845482119 );}
-{(company,!=,Microsoft );(value,<=,92.00818184346393 );(variation,>=,0.6370527496946609 );}
-{(company,!=,Apple );(value,>,92.8856494653435 );(variation,<=,0.6756907847360822 );}
-{(company,=,Google );(value,>,85.36269874796801 );(variation,>,0.7698347752883372 );}
-{(company,!=,Microsoft );(value,<=,94.24833479639665 );(variation,<=,0.6312569597721873 );}
-{(company,=,Apple );(value,>,88.70474839621014 );(variation,<=,0.7956995615432685 );}
-{(company,=,Google );(value,<,96.14296675557779 );(variation,>=,0.7531006120141737 );}
-{(company,=,Google );(value,>=,81.63327545064507 );(variation,<=,0.7709850832756636 );}
-{(company,!=,Google );(value,>=,97.52059122200934 );(variation,>=,0.6474973067418269 );}
-{(company,=,Apple );(value,<=,92.50190709865528 );(variation,>,0.6607729298015325 );}
-{(company,=,Apple );(value,>,96.68674252628357 );(variation,<,0.6380453540224242 );}
-{(company,=,Google );(value,<=,93.70941915439889 );(variation,>=,0.7741021743441279 );}
-{(company,=,Microsoft );(value,>=,92.1192185583302 );(variation,>,0.6080849888491536 );}
-{(company,=,Microsoft );(value,<,85.93543724160826 );(variation,>,0.6336234449397079 );}
-{(company,=,Google );(value,<,98.72134780730627 );(variation,>,0.7100946184862265 );}
-{(company,=,Microsoft );(value,>=,84.54167025118483 );(variation,>,0.6863068537667971 );}
-{(company,=,Microsoft );(value,<=,98.09212904715638 );(variation,<=,0.6459419604336798 );}
-{(company,=,Microsoft );(value,<,93.27587292905572 );(variation,<,0.6885160527742114 );}
-{(company,=,Apple );(value,<=,90.68701936932962 );(variation,>,0.6151285189680047 );}
-{(company,=,Google );(value,>=,89.85859010952059 );(variation,>=,0.7659236461675787 );}
-{(company,=,Apple );(value,>,98.43908636623098 );(variation,<=,0.7918903287101995 );}
-{(company,=,Google );(value,>,96.34957992825262 );(variation,>=,0.6806799809527377 );}
-{(company,=,Apple );(value,<,80.7873133626636 );(variation,<=,0.7806070460582316 );}
-{(company,=,Apple );(value,>,87.04948718222317 );(variation,>,0.7687147824262845 );}
-{(company,!=,Apple );(value,<,94.22717102339237 );(variation,>=,0.7736139396756786 );}
-{(company,=,Apple );(value,>=,96.2088393721473 );(variation,<=,0.7330172104064102 );}
-{(company,=,Microsoft );(value,>=,93.3608780134582 );(variation,>=,0.6568256345034968 );}
-{(company,=,Apple );(value,>,81.47480528292117 );(variation,>,0.7865431497926022 );}
-{(company,!=,Microsoft );(value,>,83.60824644927808 );(variation,<=,0.610551672597653 );}
-{(company,!=,Microsoft );(value,>,91.67487477535794 );(variation,>=,0.6365617049125752 );}
-{(company,=,Microsoft );(value,>,88.55598841431659 );(variation,>=,0.6184005065261853 );}
-{(company,=,Google );(value,>,89.49528281229146 );(variation,<=,0.7787961473642839 );}
-{(company,=,Google );(value,<,81.40458455197789 );(variation,<,0.6990424797275372 );}
-{(company,=,Microsoft );(value,>=,98.86924512957414 );(variation,<=,0.7844946798694866 );}
-{(company,=,Apple );(value,>=,90.5366824093632 );(variation,<,0.6551393488160422 );}
-{(company,=,Apple );(value,<,83.15169308535448 );(variation,>=,0.6476299152141765 );}
-{(company,=,Google );(value,>,85.92160636627621 );(variation,<=,0.6098982564252954 );}
-{(company,!=,Google );(value,>=,99.8259449959418 );(variation,<,0.6447061134454446 );}
-{(company,=,Google );(value,<=,98.92175418005854 );(variation,>,0.6852560252222171 );}
-{(company,=,Google );(value,<,89.83636882052794 );(variation,<,0.6598807106481152 );}
-{(company,=,Apple );(value,>=,87.60320144201177 );(variation,<,0.7717213002792325 );}
-{(company,=,Google );(value,>=,97.46647571077695 );(variation,>,0.6796597966486174 );}
-{(company,=,Apple );(value,>=,80.75205630433494 );(variation,<=,0.7595810600251024 );}
-{(company,!=,Apple );(value,<=,91.14474381432578 );(variation,<,0.6432081786394869 );}
-{(company,=,Apple );(value,>=,85.95192039171 );(variation,>,0.7927241246058327 );}
-{(company,!=,Apple );(value,>,83.06415969783181 );(variation,<,0.7061458106501015 );}
-{(company,!=,Google );(value,<,91.9997845934245 );(variation,>,0.7186106708381508 );}
-{(company,!=,Apple );(value,>,87.72643970696356 );(variation,>=,0.7993957850250928 );}
-{(company,=,Google );(value,>,88.60868402250857 );(variation,<=,0.7601861488634093 );}
-{(company,!=,Microsoft );(value,>=,96.56241410608968 );(variation,>=,0.6524681065983274 );}
-{(company,!=,Apple );(value,<=,87.80484640365523 );(variation,>,0.6031999275288978 );}
-{(company,=,Microsoft );(value,<=,88.68392261832406 );(variation,<=,0.7469522277142974 );}
-{(company,=,Apple );(value,>,94.03268253373065 );(variation,<=,0.7276173518572784 );}
-{(company,!=,Google );(value,<=,98.55040845779482 );(variation,<=,0.6780757739703916 );}
-{(company,=,Microsoft );(value,>=,93.58609583301521 );(variation,<=,0.7010673862868845 );}
-{(company,=,Microsoft );(value,<=,83.69224123334767 );(variation,<,0.7463995910278292 );}
-{(company,=,Apple );(value,>,99.86493208929892 );(variation,<,0.7519981021031957 );}
-{(company,=,Apple );(value,>=,85.42385115942874 );(variation,>,0.7998968028404709 );}
-{(company,!=,Google );(value,<,83.48302047590751 );(variation,>,0.6755882527426669 );}
-{(company,!=,Google );(value,<,90.47366318915256 );(variation,<,0.685648317012185 );}
-{(company,!=,Microsoft );(value,>,91.62697922384419 );(variation,>=,0.7405316025653574 );}
-{(company,=,Apple );(value,>,86.00961424730137 );(variation,<=,0.687390439603921 );}
-{(company,=,Google );(value,<=,83.15465151228182 );(variation,<=,0.7512175447830636 );}
-{(company,!=,Microsoft );(value,>=,87.20540604296315 );(variation,>,0.6353377599797757 );}
-{(company,!=,Microsoft );(value,<,99.27169832415471 );(variation,>,0.6079661850133843 );}
-{(company,=,Google );(value,<,95.46412461835436 );(variation,<,0.7320795683014616 );}
-{(company,=,Microsoft );(value,>=,83.91283126333401 );(variation,>,0.6011091769505078 );}
-{(company,!=,Microsoft );(value,>=,85.32549265255749 );(variation,>=,0.617353894746632 );}
-{(company,=,Google );(value,<=,82.09020515091498 );(variation,<,0.601722285009132 );}
-{(company,=,Apple );(value,>,83.12289864396891 );(variation,>=,0.7059094403459123 );}
-{(company,=,Google );(value,>=,85.18537765790394 );(variation,>=,0.6905839290492569 );}
-{(company,!=,Apple );(value,<,80.10814706229849 );(variation,<,0.7061579669383982 );}
-{(company,=,Google );(value,>=,87.51148197708787 );(variation,>=,0.7831170057717979 );}
-{(company,=,Apple );(value,<=,88.89852618616645 );(variation,>,0.6851159137213408 );}
-{(company,!=,Google );(value,>=,82.20143325848693 );(variation,>=,0.6929433907216869 );}
-{(company,=,Apple );(value,>,99.19758616569416 );(variation,>=,0.7920209281145715 );}
-{(company,=,Google );(value,<=,82.05200035763151 );(variation,<=,0.6247848461051498 );}
-{(company,!=,Apple );(value,<,84.14458449768104 );(variation,<=,0.6834462795162807 );}
-{(company,!=,Microsoft );(value,>=,96.92192373165675 );(variation,<=,0.7326592436006084 );}
-{(company,=,Microsoft );(value,>,85.46185659551985 );(variation,<,0.7262605468295611 );}
-{(company,!=,Apple );(value,>,85.7786504447839 );(variation,<,0.6125353384144842 );}
-{(company,=,Google );(value,<=,98.09793894496443 );(variation,<,0.6544479309248971 );}
-{(company,=,Apple );(value,>,80.42945849361442 );(variation,<,0.6972169841142559 );}
-{(company,=,Google );(value,<=,87.83741047214644 );(variation,>,0.6256624916864539 );}
-{(company,=,Microsoft );(value,>=,88.31084805375215 );(variation,>,0.7012880692540576 );}
-{(company,=,Google );(value,>,86.79491267727626 );(variation,<=,0.74317642377792 );}
-{(company,=,Apple );(value,<=,81.96913406742249 );(variation,<=,0.7675266735648782 );}
-{(company,=,Apple );(value,<=,94.70959719331162 );(variation,>,0.6143942273171854 );}
-{(company,=,Microsoft );(value,>,89.99410313019983 );(variation,<,0.6831258179888581 );}
-{(company,=,Microsoft );(value,>=,89.9392182014677 );(variation,<=,0.7490656975011634 );}
-{(company,=,Apple );(value,<=,95.36102209479739 );(variation,>=,0.6515338376811555 );}
-{(company,!=,Google );(value,>,94.91799656862071 );(variation,>,0.6493035055020616 );}
-{(company,!=,Apple );(value,>,99.71944958245162 );(variation,>=,0.6544273771275287 );}
-{(company,!=,Google );(value,>=,87.37410795946371 );(variation,>,0.6610491951931842 );}
-{(company,=,Google );(value,<,93.9837857581985 );(variation,<,0.67657250356736 );}
-{(company,=,Microsoft );(value,<,92.96542058724737 );(variation,>,0.6413259575634083 );}
-{(company,=,Microsoft );(value,<,81.85830773885719 );(variation,>=,0.7011862510179688 );}
-{(company,=,Microsoft );(value,<=,98.22367873434278 );(variation,<,0.7971236201664832 );}
-{(company,=,Google );(value,>=,93.98382316378884 );(variation,<,0.7036015355537004 );}
-{(company,=,Google );(drop,>,9.646480703609473 );(variation,<=,0.6561330883419395 );}
-{(company,=,Google );(drop,>,5.662847905265648 );(variation,<=,0.6050563806850465 );}
-{(company,=,Apple );(drop,<,8.098860784895118 );(variation,<=,0.6076952635827606 );}
-{(company,=,Microsoft );(drop,>=,9.290423479876704 );(variation,>,0.736645606732178 );}
-{(company,=,Google );(drop,<=,12.540408922367774 );(variation,<,0.6854976205765523 );}
-{(company,=,Apple );(drop,>=,8.239844585929298 );(variation,>,0.7848212028947821 );}
-{(company,=,Apple );(drop,<=,10.855808574253322 );(variation,>=,0.6504870075870901 );}
-{(company,=,Microsoft );(drop,<,7.761281602859876 );(variation,>=,0.7363352285355811 );}
-{(company,=,Microsoft );(drop,>=,6.919464951227351 );(variation,<=,0.6905073775798789 );}
-{(company,=,Google );(drop,<,5.28804219651316 );(variation,>=,0.7981793735484254 );}
-{(company,=,Apple );(drop,>=,10.516702225469974 );(variation,>=,0.6158989090234428 );}
-{(company,=,Google );(drop,<,13.127309617669706 );(variation,<=,0.6451415962158648 );}
-{(company,!=,Google );(drop,>,10.40931896572372 );(variation,>=,0.7603011081734794 );}
-{(company,=,Microsoft );(drop,<=,14.869753283890512 );(variation,>=,0.6977186435724629 );}
-{(company,=,Apple );(drop,>,9.722159652730731 );(variation,>,0.7395093009792773 );}
-{(company,=,Google );(drop,<,8.3601041580123 );(variation,<=,0.7672604159807717 );}
-{(company,!=,Apple );(drop,<=,5.452684026705188 );(variation,>=,0.6170833136087363 );}
-{(company,=,Microsoft );(drop,<,14.558426202396854 );(variation,>,0.6465286391731748 );}
-{(company,!=,Apple );(drop,>,12.092695478721108 );(variation,<=,0.7337250855123466 );}
-{(company,=,Microsoft );(drop,>=,13.081867192817674 );(variation,<,0.7010247398461285 );}
-{(company,=,Google );(drop,<,14.827042865151022 );(variation,>,0.7426716717102042 );}
-{(company,=,Microsoft );(drop,>,5.854079236229213 );(variation,>=,0.7005243487586875 );}
-{(company,=,Apple );(drop,<=,7.271349893939743 );(variation,<,0.6468428638385941 );}
-{(company,=,Google );(drop,>=,11.63272458169292 );(variation,>=,0.7192448238220941 );}
-{(company,=,Microsoft );(drop,>=,10.668645674986365 );(variation,<,0.6347107253977858 );}
-{(company,=,Google );(drop,>=,7.093394599183968 );(variation,>=,0.7181480536920511 );}
-{(company,=,Apple );(drop,<=,10.982896406792499 );(variation,>,0.7652509167895081 );}
-{(company,=,Google );(drop,>,12.40494054570772 );(variation,>=,0.7692183170541775 );}
-{(company,!=,Microsoft );(drop,>=,5.041367629503972 );(variation,>,0.6161255116765239 );}
-{(company,=,Apple );(drop,>,10.210989683812596 );(variation,>=,0.6881396521015619 );}
-{(company,!=,Apple );(drop,<,7.367599616985582 );(variation,>=,0.7282007321377655 );}
-{(company,!=,Microsoft );(drop,<=,14.603249947864317 );(variation,<,0.7525935297626598 );}
-{(company,!=,Microsoft );(drop,<=,14.043384672718576 );(variation,<,0.6840121135233579 );}
-{(company,=,Apple );(drop,>=,12.6385215290549 );(variation,>,0.7313734813638185 );}
-{(company,!=,Google );(drop,>,10.275050603968433 );(variation,>=,0.7040345000960864 );}
-{(company,=,Google );(drop,<,12.438924111812364 );(variation,>,0.6896179052497817 );}
-{(company,=,Apple );(drop,>,6.325674850742847 );(variation,>,0.6738834115060337 );}
-{(company,=,Apple );(drop,<=,6.212343277298274 );(variation,>=,0.620695928110574 );}
-{(company,=,Microsoft );(drop,>=,10.601265231158564 );(variation,>=,0.6118819131060448 );}
-{(company,=,Microsoft );(drop,<=,11.848923161519629 );(variation,<,0.7741545871979775 );}
-{(company,=,Apple );(drop,<,10.534824083249266 );(variation,<=,0.7694569162323728 );}
-{(company,=,Microsoft );(drop,<=,8.943215156570071 );(variation,>,0.64251807117062 );}
-{(company,=,Apple );(drop,<,14.15860636172066 );(variation,>,0.7369377026596302 );}
-{(company,=,Apple );(drop,>,8.854473891980753 );(variation,>,0.6467398132961558 );}
-{(company,!=,Apple );(drop,<=,8.481258611683934 );(variation,>=,0.7369575733100702 );}
-{(company,=,Microsoft );(drop,>=,8.66854071925921 );(variation,<,0.7091601091116093 );}
-{(company,!=,Apple );(drop,<,6.1259112198141095 );(variation,<,0.7019891408950636 );}
-{(company,!=,Google );(drop,<=,14.63156492668427 );(variation,>,0.7231188915679048 );}
-{(company,=,Google );(drop,<=,11.45383277604597 );(variation,<,0.6886020770345713 );}
-{(company,!=,Microsoft );(drop,<,14.267748988708941 );(variation,>,0.7510219508830266 );}
-{(company,=,Microsoft );(drop,<=,8.44492613918726 );(variation,>=,0.7305220249688007 );}
-{(company,=,Apple );(drop,<=,14.352662759711425 );(variation,>,0.6987767874088188 );}
-{(company,=,Microsoft );(drop,>=,12.161124532300676 );(variation,>=,0.7280993231296207 );}
-{(company,=,Microsoft );(drop,<,9.851649784169423 );(variation,>,0.7264618336304445 );}
-{(company,=,Apple );(drop,>=,9.048502745404521 );(variation,<,0.7694076263180228 );}
-{(company,!=,Google );(drop,>,8.05668691606618 );(variation,>,0.6500752274502369 );}
-{(company,=,Apple );(drop,<=,13.751611129663907 );(variation,>=,0.7492933658712508 );}
-{(company,=,Microsoft );(drop,<=,7.198689889273623 );(variation,>,0.6556346548567702 );}
-{(company,!=,Microsoft );(drop,<,9.345805954391228 );(variation,<=,0.6584997725325269 );}
-{(company,=,Google );(drop,<=,9.654025585935226 );(variation,>,0.7554978742245532 );}
-{(company,=,Microsoft );(drop,>,5.9349587529991235 );(variation,>=,0.6556398950127648 );}
-{(company,=,Apple );(drop,>,9.113259269091335 );(variation,>=,0.6084999329559995 );}
-{(company,!=,Apple );(drop,>=,14.817402240644942 );(variation,>,0.6877612710627925 );}
-{(company,=,Google );(drop,<,8.748033911364388 );(variation,<=,0.7141095046745285 );}
-{(company,=,Microsoft );(drop,>=,5.042587055172155 );(variation,>,0.7629742411300872 );}
-{(company,=,Microsoft );(drop,>=,12.047786394366245 );(variation,>,0.7661765341687774 );}
-{(company,=,Apple );(drop,>=,14.791267504622322 );(variation,<,0.6842264814868843 );}
-{(company,!=,Apple );(drop,>,11.44856654157584 );(variation,<=,0.7541000938472487 );}
-{(company,=,Microsoft );(drop,<,7.978785132744451 );(variation,<,0.690444157983175 );}
-{(company,!=,Microsoft );(drop,>=,10.693265087043628 );(variation,>=,0.7945249645481098 );}
-{(company,=,Google );(drop,<=,13.980931555606253 );(variation,>=,0.600579643148533 );}
-{(company,!=,Apple );(drop,>=,12.893933321981194 );(variation,<=,0.7830187297443303 );}
-{(company,=,Microsoft );(drop,<=,14.187782013606885 );(variation,>=,0.6838395748721335 );}
-{(company,=,Microsoft );(drop,>=,5.792875336832823 );(variation,>=,0.7791277920088904 );}
-{(company,=,Google );(drop,<=,12.561463047345825 );(variation,<,0.6625084349919281 );}
-{(company,=,Google );(drop,<=,12.618170259807247 );(variation,<,0.6908063793865958 );}
-{(company,=,Microsoft );(drop,>,7.970057766245159 );(variation,<,0.7112212042873369 );}
-{(company,!=,Google );(drop,<=,11.325623109639182 );(variation,>,0.778714357698225 );}
-{(company,=,Google );(drop,<,13.032752013510617 );(variation,>,0.7819526557608651 );}
-{(company,!=,Microsoft );(drop,<=,5.014816561021637 );(variation,>=,0.7177231261340773 );}
-{(company,=,Apple );(drop,<,8.122380332666001 );(variation,<,0.6862621504498951 );}
-{(company,!=,Microsoft );(drop,>,12.037644355816868 );(variation,<,0.7765159693029325 );}
-{(company,=,Microsoft );(drop,<,8.236443145910927 );(variation,>=,0.6564334371695587 );}
-{(company,=,Microsoft );(drop,>=,9.382956352675372 );(variation,>,0.7575359756466609 );}
-{(company,=,Microsoft );(drop,<=,10.683598705227325 );(variation,>,0.7051174507225066 );}
-{(company,=,Apple );(drop,<=,6.4737029101832775 );(variation,>=,0.6684641473446302 );}
-{(company,=,Google );(drop,<=,13.728381347697635 );(variation,>,0.669138811708339 );}
-{(company,=,Microsoft );(drop,<=,5.177255340243553 );(variation,>=,0.6212274187994065 );}
-{(company,=,Google );(drop,<=,9.78562830901198 );(variation,>=,0.6367296620073268 );}
-{(company,=,Apple );(drop,<,14.325156661811008 );(variation,>,0.727649130176146 );}
-{(company,=,Apple );(drop,<,11.928173276332735 );(variation,<,0.7671542584694687 );}
-{(company,!=,Microsoft );(drop,<,12.650457337985388 );(variation,<=,0.6324254370268944 );}
-{(company,=,Google );(drop,>,5.856800198077189 );(variation,<=,0.7370173236317534 );}
-{(company,!=,Google );(drop,<=,9.191728234395828 );(variation,>=,0.7163167427377141 );}
-{(company,=,Apple );(drop,>=,7.945293642890833 );(variation,<,0.7586038614302292 );}
-{(company,=,Apple );(drop,<,9.987955868232305 );(variation,<=,0.7695493636461165 );}
-{(company,=,Google );(drop,>=,12.355513231092193 );(variation,>=,0.7836185112935209 );}
-{(company,=,Google );(drop,<,7.046315412718443 );(variation,<=,0.6776653229369528 );}
-{(company,=,Apple );(drop,<,6.8717914534446365 );(variation,<,0.6955787816865621 );}
-{(company,=,Apple );(drop,<,10.893485410972069 );(variation,>,0.7889076372809792 );}
-{(company,=,Microsoft );(drop,<,13.856552111164795 );(variation,>,0.6880581079834126 );}
-{(company,=,Microsoft );(drop,<,10.273393692784575 );(variation,<,0.7784359285581203 );}
-{(company,=,Google );(drop,>,13.405031825674808 );(variation,>=,0.6193236875740376 );}
-{(company,=,Microsoft );(drop,<=,9.443269013313504 );(variation,>,0.6920278409521071 );}
-{(company,!=,Apple );(drop,<=,6.778126072816403 );(variation,<,0.6968754185705065 );}
-{(company,=,Apple );(drop,>=,8.472858873741139 );(variation,>=,0.766607368751487 );}
-{(company,!=,Apple );(drop,>=,7.687559922011036 );(variation,<=,0.6667465176210834 );}
-{(company,=,Apple );(drop,>=,12.721853485415075 );(variation,>=,0.7937926974236512 );}
-{(company,=,Apple );(drop,>,6.148073169328908 );(variation,>=,0.6444279894605311 );}
-{(company,!=,Microsoft );(drop,<=,14.633707533784106 );(variation,<=,0.7840106802450333 );}
-{(company,=,Apple );(drop,<,5.778396837834816 );(variation,>,0.6996467088151016 );}
-{(company,=,Google );(drop,>,10.414010374230067 );(variation,>=,0.6406620745696991 );}
-{(company,=,Microsoft );(drop,>=,6.177756084414411 );(variation,>,0.7698828284384809 );}
-{(company,!=,Google );(drop,<=,11.069720965857154 );(variation,<=,0.6334258135403504 );}
-{(company,!=,Microsoft );(drop,>,12.36732921947565 );(variation,>,0.7470655327025858 );}
-{(company,=,Apple );(drop,<=,5.733305412685617 );(variation,>,0.7741184553665417 );}
-{(company,=,Apple );(drop,>=,7.348408375434811 );(variation,<=,0.6466924331433892 );}
-{(company,=,Microsoft );(drop,<=,9.296736903011446 );(variation,>,0.6761859598164245 );}
-{(company,!=,Google );(drop,>,11.395639114652493 );(variation,<,0.7321458664374803 );}
-{(company,=,Apple );(drop,>,9.822595322792473 );(variation,<,0.6982737901401437 );}
-{(company,!=,Google );(drop,<=,13.311318426895975 );(variation,>,0.712650829597502 );}
-{(company,!=,Google );(drop,<,13.935701231876683 );(variation,<=,0.7152011512155771 );}
-{(company,!=,Microsoft );(drop,>=,11.54131956155562 );(variation,>=,0.6977623760923429 );}
-{(company,=,Microsoft );(drop,>=,11.778673942045614 );(variation,>=,0.63103904108488 );}
-{(company,=,Apple );(drop,<=,8.067288218091006 );(variation,>=,0.6437355737719287 );}
-{(company,=,Google );(drop,>=,8.746088052870496 );(variation,>,0.6457391409246945 );}
-{(company,=,Microsoft );(drop,<=,6.314885083104861 );(variation,>,0.726723825350641 );}
-{(company,!=,Google );(drop,<=,12.91688525527289 );(variation,<,0.7221277525816107 );}
-{(company,=,Google );(drop,<,8.340585098339094 );(variation,<,0.6639783841033726 );}
-{(company,!=,Microsoft );(drop,>,8.293454897526324 );(variation,>,0.6589335735051679 );}
-{(company,=,Apple );(drop,>=,8.797276605432081 );(variation,>=,0.6254785333954469 );}
-{(company,=,Apple );(drop,<,10.880068969547088 );(variation,>,0.7085282572967093 );}
-{(company,!=,Google );(drop,>,10.378572680856998 );(variation,>,0.7667736746511556 );}
-{(company,=,Apple );(drop,<,6.916632645246969 );(variation,>=,0.6447685076142943 );}
-{(company,=,Google );(drop,>,5.018756727451958 );(variation,<=,0.6281936630492017 );}
-{(company,!=,Microsoft );(drop,<=,5.0543931105284345 );(variation,<=,0.7957513547520906 );}
-{(company,=,Microsoft );(drop,>,9.61914168436195 );(variation,>,0.7022839663409925 );}
-{(company,=,Google );(drop,<=,8.353977694566659 );(variation,<,0.6787468317223809 );}
-{(company,!=,Google );(drop,<=,10.196919591965028 );(variation,>=,0.6665959059637302 );}
-{(company,=,Google );(drop,>=,6.52665727457798 );(variation,<,0.7239933970405485 );}
-{(company,=,Apple );(drop,<,8.076780396542734 );(variation,<=,0.6789224629984442 );}
-{(company,!=,Google );(drop,<,8.374624446213458 );(variation,<=,0.6788256899890471 );}
-{(company,=,Google );(drop,<=,7.939669239138859 );(variation,>,0.7903414532205815 );}
-{(company,=,Microsoft );(drop,>,14.826783949032992 );(variation,<=,0.7578040760647924 );}
-{(company,=,Microsoft );(drop,<=,8.271417622669217 );(variation,<=,0.725615762568108 );}
-{(company,!=,Google );(drop,<,7.171227092766967 );(variation,>=,0.734305918930547 );}
-{(company,=,Apple );(drop,>=,8.042177877350742 );(variation,>,0.7229416535531291 );}
-{(company,=,Google );(drop,>,11.92373599369537 );(variation,>=,0.7135899316018971 );}
-{(company,!=,Apple );(drop,>,5.65109541317502 );(variation,>,0.7223836484591001 );}
-{(company,=,Google );(drop,>=,13.230258692714049 );(variation,>,0.6849571934846208 );}
-{(company,=,Apple );(drop,<,13.501323506549113 );(variation,>=,0.6769221608517949 );}
-{(company,!=,Microsoft );(drop,<=,12.90962819555796 );(variation,<=,0.6252824200525722 );}
-{(company,=,Google );(drop,>,6.591100923719642 );(variation,>=,0.7277740784190018 );}
-{(company,=,Apple );(drop,<=,14.540228802693957 );(variation,<,0.6807213303856863 );}
-{(company,!=,Microsoft );(drop,>,7.855116318109106 );(variation,>=,0.7750782509104821 );}
-{(company,!=,Apple );(drop,>=,8.7157669349743 );(variation,<=,0.6373195467398304 );}
-{(company,=,Google );(drop,<,7.487430186646683 );(variation,<=,0.7869721149490125 );}
-{(company,=,Google );(drop,>=,10.510622313734252 );(variation,<,0.7596772584597093 );}
-{(company,=,Apple );(drop,<=,12.016945569116398 );(variation,>=,0.7178716736754631 );}
-{(company,=,Apple );(drop,<=,13.891325647437347 );(variation,<=,0.6716840242973408 );}
-{(company,!=,Google );(drop,<=,10.672389519168272 );(variation,<=,0.634075454182946 );}
-{(company,=,Apple );(drop,>=,11.519881034267579 );(variation,<,0.6584965473327221 );}
-{(company,=,Apple );(drop,<,9.55894039738504 );(variation,>=,0.7726769744921668 );}
-{(company,=,Apple );(drop,>=,6.073644547731721 );(variation,>,0.7809364417239069 );}
-{(company,!=,Apple );(drop,<,13.788001083337427 );(variation,>=,0.7207176086148953 );}
-{(company,=,Microsoft );(drop,>=,11.600906127384768 );(variation,>,0.6830410948002614 );}
-{(company,!=,Google );(drop,>=,10.503497219157866 );(variation,>=,0.7037327545171478 );}
-{(company,=,Microsoft );(drop,<,10.497056329062254 );(variation,>,0.7364951523114445 );}
-{(company,!=,Apple );(drop,<,6.55286971529361 );(variation,<,0.7483345479697349 );}
-{(company,!=,Microsoft );(drop,<=,8.584276758630692 );(variation,>=,0.6193594686386162 );}
-{(company,=,Google );(drop,<,5.480636170805128 );(variation,<,0.6669568248970186 );}
-{(company,=,Google );(drop,<,6.706950600387956 );(variation,<=,0.7469829797551278 );}
-{(company,=,Microsoft );(drop,>=,11.27939518937092 );(variation,>,0.6331319726575223 );}
-{(company,!=,Microsoft );(drop,<,13.369115560636901 );(variation,<=,0.7432548735319366 );}
-{(company,=,Microsoft );(drop,>,14.631578560552803 );(variation,<=,0.7603187505280802 );}
-{(company,=,Apple );(drop,<=,11.462012636990568 );(variation,>=,0.6804403065973 );}
-{(company,=,Google );(drop,<,10.94690369922084 );(variation,>=,0.6783100505666059 );}
-{(company,=,Google );(drop,>,12.397132590237653 );(variation,<=,0.6789674334395738 );}
-{(company,=,Google );(drop,<=,13.83793306192177 );(variation,<,0.6118127224688386 );}
-{(company,!=,Microsoft );(drop,>=,8.998892581644096 );(variation,<,0.6259202652318108 );}
-{(company,=,Microsoft );(drop,<=,11.315719253742085 );(variation,<,0.6506196444596326 );}
-{(company,=,Apple );(drop,>=,14.940469280956222 );(variation,<=,0.7542314250734993 );}
-{(company,!=,Microsoft );(drop,<=,6.8059615580837765 );(variation,>,0.7822713945454396 );}
-{(company,=,Apple );(drop,>,5.23197190694998 );(variation,>=,0.7549723102413657 );}
-{(company,=,Microsoft );(drop,<=,14.590251067604003 );(variation,>=,0.700356187661701 );}
-{(company,=,Apple );(drop,>=,9.74422161834749 );(variation,<,0.7303261300671908 );}
-{(company,!=,Google );(drop,<=,10.267023362457067 );(variation,<,0.6511160959993699 );}
-{(company,!=,Microsoft );(drop,<,10.033806626657958 );(variation,<,0.6816245732161885 );}
-{(company,!=,Google );(drop,>,14.80109065977437 );(variation,<,0.657754984991451 );}
-{(company,=,Microsoft );(drop,>,11.12295855191379 );(variation,<=,0.7461566586993555 );}
-{(company,!=,Apple );(drop,>=,8.33887281684671 );(variation,>,0.7157078032364667 );}
-{(company,!=,Google );(drop,>,7.888387265438394 );(variation,<=,0.7451379243492267 );}
-{(company,=,Microsoft );(drop,<=,14.030522444883479 );(variation,<,0.7520772226051551 );}
-{(company,!=,Apple );(drop,<=,5.816956428901482 );(variation,<,0.7801168092932622 );}
-{(company,=,Microsoft );(drop,>,10.827356479622766 );(variation,<,0.6301561548143716 );}
-{(company,=,Microsoft );(drop,>,9.272940771001181 );(variation,<=,0.6919458101842828 );}
-{(company,!=,Google );(drop,<,13.712710404966495 );(variation,<=,0.7462252844403419 );}
-{(company,=,Google );(drop,<=,5.029577571892039 );(variation,<=,0.7687439223363722 );}
-{(company,=,Apple );(drop,>=,6.6078693837739095 );(variation,<,0.6968864769221188 );}
-{(company,=,Microsoft );(drop,>=,10.699572608435963 );(variation,>,0.660021963020026 );}
-{(value,>,90.19040228802177 );(drop,>,7.407535741948691 );(variation,<=,0.6876342197738557 );}
-{(value,>=,83.5181104656129 );(drop,>,9.143103910135455 );(variation,>=,0.6243161188073125 );}
-{(value,>=,82.45361479885877 );(drop,>,11.147834232027925 );(variation,>=,0.7612437049414965 );}
-{(value,>,87.82285787275084 );(drop,>=,11.555209124942142 );(variation,>=,0.6513935287730047 );}
-{(value,>,92.18642506538387 );(drop,<,6.81651487967687 );(variation,<=,0.6170253338062045 );}
-{(value,<=,84.50465233819732 );(drop,<=,14.804799961705434 );(variation,>=,0.6805225223400214 );}
-{(value,>=,85.2603659009425 );(drop,<=,12.060482521763149 );(variation,>=,0.6066131980513974 );}
-{(value,>=,88.54792947632642 );(drop,>=,6.307692028212076 );(variation,>,0.7301761787943692 );}
-{(value,<,93.22768746524493 );(drop,<=,6.646579751317728 );(variation,>,0.7757434393532492 );}
-{(value,<=,81.89892188862022 );(drop,>,14.924654013366407 );(variation,>=,0.6871409963610264 );}
-{(value,<,94.06031904586845 );(drop,>,6.148140666466723 );(variation,<,0.6574457128862257 );}
-{(value,>,87.7573374825294 );(drop,<=,10.537991905475739 );(variation,>=,0.7462102785313094 );}
-{(value,<=,98.5539268831965 );(drop,<=,6.046486061204232 );(variation,<,0.732180864321575 );}
-{(value,<,91.65863999803533 );(drop,>=,8.402124001343225 );(variation,<,0.7135852727142045 );}
-{(value,<=,88.01082336879826 );(drop,>,13.168378977596163 );(variation,>,0.6860604960807176 );}
-{(value,>=,87.58895542543183 );(drop,>,10.387302247427629 );(variation,>,0.6179034767500045 );}
-{(value,>=,93.9107105975687 );(drop,>=,5.107633789922708 );(variation,>=,0.6007674057234142 );}
-{(value,>=,91.6830677364289 );(drop,>,8.533436018288537 );(variation,<,0.6645470812524035 );}
-{(value,>,91.71777071517427 );(drop,<=,7.5722647867813695 );(variation,>=,0.7082440327614908 );}
-{(value,<=,88.62500161061882 );(drop,>,9.655370663218221 );(variation,<,0.6523941085484016 );}
-{(value,<,97.72378705879247 );(drop,>,6.296501140647601 );(variation,>,0.6082453978549337 );}
-{(value,>,84.59554660646118 );(drop,<=,10.685071993612965 );(variation,>,0.6035849031822114 );}
-{(value,>,90.5728075991388 );(drop,>=,10.693656796178477 );(variation,>,0.7599387037442005 );}
-{(value,<,99.85337248523734 );(drop,<=,11.696936277759447 );(variation,<,0.704627852928785 );}
-{(value,>=,85.82685448366851 );(drop,<=,14.793594627257828 );(variation,>,0.6318962731766666 );}
-{(value,>=,89.32207344035137 );(drop,<=,14.377157798121912 );(variation,<=,0.7922018415683112 );}
-{(value,<,87.69726638380368 );(drop,<,8.83137389789818 );(variation,<=,0.7614495003376565 );}
-{(value,>=,82.05715235579747 );(drop,<,13.006460407347477 );(variation,>,0.7562640041845944 );}
-{(value,>,82.81476127777684 );(drop,<=,6.5893549337074635 );(variation,<=,0.776679635012015 );}
-{(value,>=,83.4669795221111 );(drop,<=,11.842979107167793 );(variation,>=,0.69621114422281 );}
-{(value,<,94.15091243531405 );(drop,>=,12.025416684884604 );(variation,>=,0.709922945024617 );}
-{(value,>=,91.68907210615838 );(drop,>,11.777769747898702 );(variation,<=,0.6109291802600167 );}
-{(value,<,85.23872920671413 );(drop,<,6.141035489437804 );(variation,>,0.6948454554042376 );}
-{(value,<,83.4603448827307 );(drop,>,7.324878678053908 );(variation,>=,0.7412848513489885 );}
-{(value,<,84.29511698764114 );(drop,>,12.133549349477068 );(variation,>,0.6518544035708339 );}
-{(value,<,94.26683417006367 );(drop,<,5.332763585184306 );(variation,>,0.7116137277465991 );}
-{(value,>,93.96310639041602 );(drop,>,13.011861570707309 );(variation,>,0.7409943966719648 );}
-{(value,<,94.73792331112996 );(drop,>,13.873544420975634 );(variation,>=,0.6347756710581127 );}
-{(value,<,81.63528635310367 );(drop,<,13.655509895569596 );(variation,<=,0.6554605903312825 );}
-{(value,>=,86.8616196703507 );(drop,>,9.735068375924566 );(variation,>=,0.7016140616366742 );}
-{(value,<,97.58781537982242 );(drop,>,13.100867110917603 );(variation,>=,0.6647574658711294 );}
-{(value,>,89.8584346074631 );(drop,>=,13.981563259040987 );(variation,<,0.7291506900443789 );}
-{(value,>=,91.72015071764686 );(drop,<=,5.985139897986861 );(variation,>,0.79714631272898 );}
-{(value,<,89.40299601945634 );(drop,>,14.945464270184116 );(variation,>=,0.6198070961644009 );}
-{(value,>=,86.17653379246958 );(drop,<,5.627952338655522 );(variation,>,0.710428531938371 );}
-{(value,<,95.86995533963606 );(drop,<=,9.978891662254703 );(variation,<=,0.638511928971189 );}
-{(value,>,96.17109534923779 );(drop,>,10.103503240725109 );(variation,<=,0.772699688964855 );}
-{(value,>,80.63444448348913 );(drop,<=,8.498852045616644 );(variation,<,0.7981612571589343 );}
-{(value,>,80.27809955386903 );(drop,<=,6.12422102762808 );(variation,<=,0.7386236491119175 );}
-{(value,>,93.10490829725636 );(drop,<=,12.09019751941129 );(variation,<=,0.7279526814369932 );}
-{(value,>=,90.44017993070865 );(drop,>,6.2304992819150895 );(variation,<=,0.7341454467221822 );}
-{(value,>,91.03746668403419 );(drop,>,6.7194074923932225 );(variation,>=,0.708628009391789 );}
-{(value,>,98.20690889282196 );(drop,<,5.034284078387375 );(variation,<=,0.6809011733066982 );}
-{(value,>=,94.32518733605481 );(drop,<=,12.70595914622497 );(variation,>,0.7360964311502343 );}
-{(value,<=,80.18123013714938 );(drop,<=,10.019248680178789 );(variation,>=,0.6988529376940459 );}
-{(value,>,91.06549156164685 );(drop,<,7.435165955998561 );(variation,>=,0.7256300867109851 );}
-{(value,>,89.67262314182173 );(drop,>,14.64219840456723 );(variation,<,0.631887210881802 );}
-{(value,<=,90.99868896050631 );(drop,>=,6.396541273645723 );(variation,<=,0.6519716488795742 );}
-{(value,<=,91.12075823516798 );(drop,>,13.251041594182254 );(variation,<,0.7782099963305508 );}
-{(value,>=,87.97064813262553 );(drop,<=,13.908435278385996 );(variation,<=,0.7881773510313723 );}
-{(value,>=,92.78043734310046 );(drop,>,7.927530378197593 );(variation,<=,0.7850896992445617 );}
-{(value,<,91.34814617230404 );(drop,>,14.555855888617083 );(variation,<=,0.6406631356904335 );}
-{(value,>,84.09032429093413 );(drop,>=,5.706761802442369 );(variation,<=,0.7364622158650103 );}
-{(value,<=,84.88459264547798 );(drop,<=,14.947489870643286 );(variation,<=,0.6324601886969627 );}
-{(value,>,90.92697336049986 );(drop,<,5.224109879260981 );(variation,<,0.6023124980088865 );}
-{(value,<,95.7924657432714 );(drop,<,14.678305317825938 );(variation,>,0.6864557172406536 );}
-{(value,<,86.9330496344424 );(drop,>=,6.501498859124922 );(variation,<,0.7867853921749438 );}
-{(value,<,96.1585244850578 );(drop,<,9.962756622629884 );(variation,>=,0.699250316445329 );}
-{(value,<,80.7826557846382 );(drop,>,5.429449155514824 );(variation,<=,0.652117505290564 );}
-{(value,>,98.96738120868905 );(drop,<,6.87050918598994 );(variation,<=,0.6184664427931318 );}
-{(value,<,97.2940461641469 );(drop,<,11.60222204001641 );(variation,>,0.6736578063287343 );}
-{(value,<,94.73128624311028 );(drop,<,14.378185509819945 );(variation,<=,0.6324906844628069 );}
-{(value,>=,90.96911907300057 );(drop,>,10.371216748009214 );(variation,>=,0.7421146248582253 );}
-{(value,>=,88.92953473311684 );(drop,>,11.814585457286675 );(variation,<=,0.7326623664191647 );}
-{(value,>=,84.0029282203905 );(drop,<,7.076958143190999 );(variation,>,0.6650967198158299 );}
-{(value,>=,85.00521265739731 );(drop,>,12.697605529811172 );(variation,<,0.6545042760679223 );}
-{(value,>,96.72540425102906 );(drop,>=,9.14081813063235 );(variation,>=,0.7480722442033181 );}
-{(value,<=,93.79529854125536 );(drop,>=,7.690605812016357 );(variation,<,0.6549898174966753 );}
-{(value,<=,87.47253235457535 );(drop,<=,5.621739745383997 );(variation,>=,0.6683403631943359 );}
-{(value,<=,94.90961581053624 );(drop,<,10.821972893841897 );(variation,<=,0.777718228183095 );}
-{(value,<=,95.16335133356517 );(drop,<=,13.843682115729239 );(variation,>,0.7953283581860953 );}
-{(value,<,94.52071737862775 );(drop,<,10.000670600003865 );(variation,>,0.683643246690396 );}
-{(value,>=,99.44026355498849 );(drop,<,12.271717867673688 );(variation,<=,0.7641665146703476 );}
-{(value,>,87.49121273159139 );(drop,>=,12.741704570819511 );(variation,>,0.753307291698752 );}
-{(value,>=,83.26436397779547 );(drop,<,11.1111167966943 );(variation,<=,0.6220427922725796 );}
-{(value,<=,84.74124411677222 );(drop,>=,7.98803011124317 );(variation,<,0.790453155491626 );}
-{(value,<=,84.02609937738471 );(drop,>,7.525124569452099 );(variation,>,0.7710545266038131 );}
-{(value,<=,85.18066965638286 );(drop,>,8.38304160878458 );(variation,<,0.7673394770742672 );}
-{(value,<=,91.8161323957059 );(drop,<=,14.555228833709924 );(variation,>,0.7555810638846103 );}
-{(value,<=,99.51587269853188 );(drop,>,13.471735148440468 );(variation,<,0.7385363124419005 );}
-{(value,>=,84.5252672351449 );(drop,<=,7.245226348350881 );(variation,<,0.7499096923486743 );}
-{(value,>,93.56986703415456 );(drop,>=,12.526214364710185 );(variation,>=,0.6980701975264059 );}
-{(value,>=,82.97223472000489 );(drop,>=,10.673935307642736 );(variation,<=,0.720297341843714 );}
-{(value,>,90.10543082318299 );(drop,<,5.322200581848081 );(variation,>=,0.7181427228492909 );}
-{(value,<=,97.18819000186491 );(drop,>=,9.680704665976467 );(variation,>,0.7581616106794205 );}
-{(value,<,94.59958485183772 );(drop,<,5.62714118076839 );(variation,>,0.7139102213271097 );}
-{(value,<,85.15610879422078 );(drop,<=,11.051500399566443 );(variation,>,0.7384480096537638 );}
-{(value,<,81.19764484427543 );(drop,<=,10.29784755699849 );(variation,>,0.7728364630932708 );}
-{(value,<=,87.8061719960037 );(drop,>=,7.137531057120638 );(variation,<,0.712664612597321 );}
-{(value,<,82.35147051529854 );(drop,<,8.272353965197201 );(variation,<=,0.6091457041221042 );}
-{(value,<,93.27974052995 );(drop,>=,7.982996886207847 );}
-{(value,>,98.51256792029517 );(drop,<,13.000555466611914 );}
-{(value,>,95.36412774623479 );(drop,<=,6.626842029403434 );}
-{(value,>,86.07109422547754 );(drop,>,14.924819903129372 );}
-{(value,>=,94.60312774400948 );(drop,<=,9.568919455073614 );}
-{(value,>=,84.29624830907731 );(drop,<=,11.606185853252999 );}
-{(value,>=,89.83366298020799 );(drop,<=,7.878485803099022 );}
-{(value,>=,93.124870915608 );(drop,>,9.898430976104825 );}
-{(value,>=,82.18281669714985 );(drop,>,7.412924604001275 );}
-{(value,<=,90.26530165981495 );(drop,>=,10.45982973144201 );}
-{(value,>,83.92894766208846 );(drop,>,10.326954902351076 );}
-{(value,>,90.15297436227767 );(drop,<=,7.08030886553884 );}
-{(value,>,82.02289023187421 );(drop,>,7.709071002008651 );}
-{(value,<,91.10293904370674 );(drop,>=,8.142878445627165 );}
-{(value,<=,95.69769696187666 );(drop,<,7.820685080872634 );}
-{(value,>=,83.7009383846925 );(drop,<,13.0149880726072 );}
-{(value,>=,86.97227822960049 );(drop,>=,5.843915599588967 );}
-{(value,>,89.77011572124356 );(drop,<,12.244090271800543 );}
-{(value,<=,97.0610807096458 );(drop,<=,14.99608222654081 );}
-{(value,<,92.58998345111092 );(drop,>,12.072835757075111 );}
-{(value,>=,85.42359888342926 );(drop,>,8.23905353983383 );}
-{(value,>,92.90081468937638 );(drop,<=,13.340796420355053 );}
-{(value,>=,99.00211128284681 );(drop,<=,12.718870981318865 );}
-{(value,<=,94.35142667889653 );(drop,>,6.2793988338585045 );}
-{(value,>,84.25641900256707 );(drop,>,9.442065455179524 );}
-{(value,>=,86.33832783101181 );(drop,>=,5.071325180279558 );}
-{(value,>,87.65863321996058 );(drop,<=,8.743580150753342 );}
-{(value,>=,82.35628748877922 );(drop,>,8.177506858334507 );}
-{(value,>=,99.05716517477379 );(drop,<,13.681651970109609 );}
-{(value,>=,86.2863199835162 );(drop,<=,14.63424533956976 );}
-{(value,<,97.31439463165265 );(drop,<,6.790482303362717 );}
-{(value,>=,83.79433779960394 );(drop,>=,13.126494868285368 );}
-{(value,<=,83.74329588280513 );(drop,<,10.963647007856544 );}
-{(value,<,90.30060702665489 );(drop,>=,9.260593183191435 );}
-{(value,>,84.44273680601202 );(drop,>,11.52868783805157 );}
-{(value,>=,94.8093803503826 );(drop,<,5.1866402714806235 );}
-{(value,>=,94.95981183242608 );(drop,<,6.574693557547957 );}
-{(value,>=,98.09285547923388 );(drop,>=,12.762403692885364 );}
-{(value,>=,90.50411092032898 );(drop,<=,6.6192036474644205 );}
-{(value,>,90.15050340082705 );(drop,<=,6.391367235277539 );}
-{(value,<,80.48617745445662 );(drop,>,11.202042721425753 );}
-{(value,>=,94.60280503268785 );(drop,<=,8.861184521131596 );}
-{(value,<=,98.773251982534 );(drop,<,8.719038982164736 );}
-{(value,>=,86.39653155225878 );(drop,>=,8.823960535201426 );}
-{(value,>=,99.55618469905399 );(drop,>=,7.170876502301752 );}
-{(value,<=,96.32550812708196 );(drop,>,5.4561884708738715 );}
-{(value,>=,81.8946698957028 );(drop,>,8.734618509920193 );}
-{(value,>,90.69127710715317 );(drop,<,12.316940363106774 );}
-{(value,<,91.93448838128869 );(drop,>=,8.975945574101008 );}
-{(value,>,94.73777084975973 );(drop,>=,5.0366331119328756 );}
-{(value,<=,94.16103317275089 );(drop,<,14.959099745909928 );}
-{(value,>,96.23496190127813 );(drop,<=,9.586157845023106 );}
-{(value,>=,88.38971508111366 );(drop,<,10.911055878376239 );}
-{(value,<=,93.5613431813361 );(drop,<,8.590290297652407 );}
-{(value,<=,82.19065910800884 );(drop,>,8.607036765034728 );}
-{(value,<,80.70300473617007 );(drop,>,12.725350006486831 );}
-{(value,<=,86.86762134618372 );(drop,>,14.767254591338911 );}
-{(value,>,96.02202098951467 );(drop,>,6.655493586588575 );}
-{(value,<,83.86530109475477 );(drop,>,5.355370681113031 );}
-{(value,<=,86.44148289196633 );(drop,>,7.31095630312393 );}
-{(value,>,93.32963668191351 );(drop,<=,9.681140975672715 );}
-{(value,>=,97.2170005870511 );(drop,>=,10.01548421541771 );}
-{(value,<=,80.59605773017839 );(drop,>,6.993049997785511 );}
-{(value,>=,83.67073883460283 );(drop,>,9.091207076861869 );}
-{(value,>=,91.33763440555786 );(drop,<,11.478967448534695 );}
-{(value,<=,81.48874654333083 );(drop,>,14.371486339081013 );}
-{(value,>,95.79185424102735 );(drop,>=,14.37399965541118 );}
-{(value,>=,83.10149885751811 );(drop,<=,10.178852718628388 );}
-{(value,>,93.81318612221456 );(drop,>=,5.797433547270439 );}
-{(value,<=,99.67541216527493 );(drop,<,6.0968688450345585 );}
-{(value,<=,94.30415017151623 );(drop,>=,13.037724252885983 );}
-{(value,<=,93.03079559538403 );(drop,<,12.386679789840532 );}
-{(value,>,99.08192354141059 );(drop,>,13.922055693376876 );}
-{(value,<=,97.39712394350582 );(drop,>=,12.340912519055433 );}
-{(value,>=,87.09614335723775 );(drop,>,5.2044306330618255 );}
-{(value,<,89.67314290520756 );(drop,>,13.871146765059155 );}
-{(value,<,81.64018299200734 );(drop,>,5.865567422674026 );}
-{(value,<,99.32344762792167 );(drop,<=,12.927644515245653 );}
-{(value,>=,98.62080424146629 );(drop,<,8.66937367455616 );}
-{(value,>,95.11201858580064 );(drop,>=,12.521761527440564 );}
-{(value,>,98.36665450252202 );(drop,>,12.980284419460414 );}
-{(value,<=,88.63412744175987 );(drop,<,11.087087128643397 );}
-{(value,<=,82.43518117155381 );(drop,<,14.019345832801974 );}
-{(value,>=,85.79391914504976 );(drop,>=,5.20767886075602 );}
-{(value,<=,98.98787717408021 );(drop,<,5.646136066023738 );}
-{(value,>,92.09430019384428 );(drop,<,14.762012605350485 );}
-{(value,<=,99.60963813009197 );(drop,<=,12.479181713978226 );}
-{(value,>,96.92565386050015 );(drop,>=,14.100536454639677 );}
-{(value,>=,80.98357904895595 );(drop,>=,6.225943456959381 );}
-{(value,>,85.03129866366407 );(drop,>,9.180096808694781 );}
-{(value,>=,83.73272397179551 );(drop,<,14.062278625379651 );}
-{(value,<,84.67236222079909 );(drop,>,8.321971613895759 );}
-{(value,<=,88.17266053814338 );(drop,<,7.583396283060503 );}
-{(value,>,95.3518136628506 );(drop,>=,11.575286058551885 );}
-{(value,>=,93.79821088062161 );(drop,<=,13.895103380475685 );}
-{(value,<,97.60204238020307 );(drop,>,11.157470272409498 );}
-{(value,>=,96.83932642791808 );(drop,<,11.797469092654286 );}
-{(value,>=,92.25498750753256 );(drop,<,6.849134403050287 );}
-{(value,>,88.11774856970298 );(drop,<,9.640206304208393 );}
-{(value,<,85.25463342925659 );(drop,>=,6.4611111368148775 );}
+{(company,=,Apple );(value,<=,94.76650699357951 );(drop,>=,10.67525543329003 );}
+{(company,=,Apple );(value,<,85.77108576212316 );(drop,>,5.754499354847314 );}
+{(company,!=,Google );(value,>,96.45922450348445 );(drop,>=,7.058808042362098 );}
+{(company,=,Microsoft );(value,<=,93.99308521407148 );(drop,<=,8.07008477342484 );}
+{(company,!=,Google );(value,>,81.35355114963673 );(drop,<=,12.328979519583761 );}
+{(company,=,Microsoft );(value,<,81.61877267210436 );(drop,<,10.380052146942859 );}
+{(company,!=,Microsoft );(value,>,87.02853818317516 );(drop,>,8.818472945970498 );}
+{(company,!=,Apple );(value,>,81.51026220299381 );(drop,<,12.470215921797827 );}
+{(company,!=,Google );(value,<=,93.24758345673764 );(drop,>,11.7285719965505 );}
+{(company,=,Google );(value,>=,91.09719105428482 );(drop,>,12.676306827609213 );}
+{(company,=,Apple );(value,>,95.43388238961643 );(drop,<,6.736555418914447 );}
+{(company,!=,Microsoft );(value,>,86.23593737950036 );(drop,>,9.616717645721113 );}
+{(company,=,Apple );(value,>=,92.3668100269351 );(drop,<,7.291105522669757 );}
+{(company,=,Apple );(value,<=,82.06752869899705 );(drop,<=,13.019333358936079 );}
+{(company,=,Apple );(value,<,95.0337849770035 );(drop,<=,7.049126968709395 );}
+{(company,!=,Microsoft );(value,>=,92.44079878023766 );(drop,>,10.479966094463332 );}
+{(company,=,Microsoft );(value,>,86.40851391192818 );(drop,<=,12.01979956099481 );}
+{(company,=,Google );(value,>=,88.92074674334073 );(drop,>,7.3241755257893 );}
+{(company,!=,Apple );(value,<=,97.10856655444583 );(drop,>=,6.700649105902544 );}
+{(company,!=,Google );(value,<,91.04300203722373 );(drop,<=,5.50214293042573 );}
+{(company,=,Apple );(value,>,97.25663819538958 );(drop,>=,12.880582550762762 );}
+{(company,=,Microsoft );(value,>,85.39519214559428 );(drop,<=,13.750546266955574 );}
+{(company,!=,Microsoft );(value,>,92.9639977947308 );(drop,>,9.702863674375479 );}
+{(company,=,Microsoft );(value,>=,84.04566991516397 );(drop,<=,12.741035681521964 );}
+{(company,!=,Apple );(value,<=,97.5297692863139 );(drop,<,11.465462070403285 );}
+{(company,=,Google );(value,<,98.00128392912316 );(drop,<=,5.9319725750434475 );}
+{(company,=,Microsoft );(value,<,93.2338950632382 );(drop,>=,12.843144545071132 );}
+{(company,=,Apple );(value,>=,90.68847027729687 );(drop,>,14.339060439488774 );}
+{(company,=,Microsoft );(value,<=,97.00027466768096 );(drop,>=,8.187926715929267 );}
+{(company,!=,Microsoft );(value,>,83.83838803248783 );(drop,>=,9.182125538373223 );}
+{(company,!=,Google );(value,<=,90.68697376506086 );(drop,>=,7.049501210269241 );}
+{(company,!=,Google );(value,>,93.73310153723102 );(drop,>,8.531717225828853 );}
+{(company,!=,Google );(value,<,90.8072911553127 );(drop,<,6.987728807172732 );}
+{(company,=,Google );(value,<=,82.4409352808527 );(drop,<=,10.01117155692438 );}
+{(company,=,Microsoft );(value,<,82.69873935702215 );(drop,>=,9.033090889941775 );}
+{(company,=,Google );(value,<=,84.25858646587123 );(drop,<,9.726050817424827 );}
+{(company,!=,Microsoft );(value,<,94.36800836917868 );(drop,>,5.787666802267219 );}
+{(company,!=,Microsoft );(value,>=,92.56394526724715 );(drop,>=,7.698486789120094 );}
+{(company,!=,Apple );(value,>,91.22006003873318 );(drop,<=,9.229336575652951 );}
+{(company,=,Apple );(value,<,84.6404834320465 );(drop,<=,12.373107111980733 );}
+{(company,=,Microsoft );(value,<,81.07045849427783 );(drop,>,8.21709841164175 );}
+{(company,!=,Microsoft );(value,>=,92.0528015467231 );(drop,>,8.38039024179471 );}
+{(company,=,Apple );(value,<,97.2371989078919 );(drop,<=,11.89435006306338 );}
+{(company,=,Apple );(value,<,85.51346419776316 );(drop,>=,11.948447312658205 );}
+{(company,=,Apple );(value,<,81.00777114740963 );(drop,<=,7.16949237843189 );}
+{(company,!=,Apple );(value,>=,84.70284335183324 );(drop,>=,14.773486330949229 );}
+{(company,=,Google );(value,>,84.55209094067669 );(drop,<=,7.649743395668977 );}
+{(company,!=,Apple );(value,>=,82.64798731876787 );(drop,<=,11.421706387060492 );}
+{(company,!=,Microsoft );(value,<=,97.00906692222745 );(drop,>,14.723002094216163 );}
+{(company,=,Microsoft );(value,>,99.14435730592587 );(drop,<=,6.237108791503357 );}
+{(company,=,Microsoft );(value,>,86.79280223493174 );(drop,>,5.4734398582092725 );}
+{(company,=,Apple );(value,<,82.161283576988 );(drop,>,14.079869272420394 );}
+{(company,=,Apple );(value,<,83.87697229560001 );(drop,<=,13.787619981384045 );}
+{(company,=,Google );(value,<,83.74122267505464 );(drop,>,13.627763998184985 );}
+{(company,=,Google );(value,>=,92.32047023298561 );(drop,<=,12.044978351870194 );}
+{(company,=,Google );(value,>,83.45593763102374 );(drop,>=,5.510757371069639 );}
+{(company,=,Apple );(value,<,84.53535420707871 );(drop,<,9.698270628220767 );}
+{(company,=,Google );(value,<=,93.78777485611977 );(drop,<,11.56614798506537 );}
+{(company,=,Apple );(value,<=,96.87862210080614 );(drop,<,10.494673771992584 );}
+{(company,=,Google );(value,<=,98.11478501300239 );(drop,>,7.836582304829345 );}
+{(company,=,Apple );(value,<,85.70082180929853 );(drop,<,5.56967862922635 );}
+{(company,!=,Google );(value,>,87.66657733491323 );(drop,>,9.874595322596878 );}
+{(company,=,Microsoft );(value,<=,82.95097099209589 );(drop,<,10.183800756538083 );}
+{(company,!=,Apple );(value,<=,80.75906665999021 );(drop,<,10.018305942244723 );}
+{(company,=,Microsoft );(value,<=,98.12507031584647 );(drop,>,6.743240191721071 );}
+{(company,=,Google );(value,>=,98.36716898926599 );(drop,>=,8.43151650195633 );}
+{(company,=,Google );(value,<=,96.29983780922817 );(drop,<,5.0620679743021295 );}
+{(company,=,Google );(value,<,91.55202585571458 );(drop,<,13.25584216166421 );}
+{(company,!=,Google );(value,<,95.91562092987758 );(drop,>,9.729476830281026 );}
+{(company,=,Microsoft );(value,>,81.81035112134178 );(drop,<=,8.431172895785313 );}
+{(company,!=,Microsoft );(value,>,96.52214217506112 );(drop,>=,13.439336862977306 );}
+{(company,=,Google );(value,>,84.3880800956787 );(drop,>=,14.805889307806078 );}
+{(company,!=,Apple );(value,<=,84.36046145380418 );(drop,>,11.5687167114356 );}
+{(company,=,Google );(value,<,91.29116538938521 );(drop,>,13.278375837717427 );}
+{(company,=,Microsoft );(value,<=,90.3050250241216 );(drop,<,10.140856711876241 );}
+{(company,=,Apple );(value,>,88.05368575376328 );(drop,>=,5.609868719150921 );}
+{(company,=,Google );(value,>=,87.2776064581168 );(drop,>=,8.955150381106318 );}
+{(company,!=,Google );(value,<,95.75517734928265 );(drop,>,9.716434133305583 );}
+{(company,=,Apple );(value,<=,83.17762656803363 );(drop,<=,12.558631060949264 );}
+{(company,=,Microsoft );(value,<=,85.055881395271 );(drop,>=,9.09799405912348 );}
+{(company,=,Google );(value,<,84.35396118154704 );(drop,<,8.520492161626764 );}
+{(company,=,Microsoft );(value,<,87.1281592617872 );(drop,<=,6.105041339352652 );}
+{(company,!=,Apple );(value,<,82.74024206577914 );(drop,<,7.63028102471379 );}
+{(company,=,Apple );(value,<=,88.65456927398098 );(drop,<,10.770143946692274 );}
+{(company,=,Google );(value,<=,83.44472897709225 );(drop,<,13.789258202046716 );}
+{(company,=,Apple );(value,<=,88.3502441707535 );(drop,>,12.924207710512228 );}
+{(company,=,Google );(value,>,92.56922252491346 );(drop,>=,7.1226161797353535 );}
+{(company,=,Microsoft );(value,<,93.65149438035407 );(drop,>=,6.199277021786975 );}
+{(company,!=,Google );(value,<,81.25166519633709 );(drop,>=,11.69367273342979 );}
+{(company,=,Apple );(value,<=,91.30692744180078 );(drop,<,6.085575449969718 );}
+{(company,=,Google );(value,>,99.12898678074853 );(drop,>,13.753094918520496 );}
+{(company,=,Google );(value,<=,94.8389232333142 );(drop,<,12.233192251543963 );}
+{(company,=,Apple );(value,<=,82.22849099934956 );(drop,>,12.349846320400557 );}
+{(company,=,Microsoft );(value,<,88.75109724639609 );(drop,>=,12.598384001554635 );}
+{(company,=,Google );(value,>=,86.6589473696352 );(drop,>,5.992987941562232 );}
+{(company,!=,Microsoft );(value,>=,89.57990637894585 );(drop,<,14.084283874642733 );}
+{(company,=,Microsoft );(value,>=,93.48418571093289 );(drop,<=,14.867790741992765 );}
+{(company,=,Apple );(value,>=,96.79429823842845 );(drop,<=,5.212827958727146 );}
+{(company,!=,Microsoft );(value,<,89.14016066714558 );(drop,<=,12.316819583588675 );}
+{(company,!=,Apple );(value,<=,89.52205482221507 );(drop,<=,11.517942706675406 );}
+{(company,=,Apple );(value,>,85.19133038280394 );(drop,>,6.4635128043105965 );}
+{(company,=,Apple );(value,>,82.01817587904924 );(drop,>=,8.252029703918701 );}
+{(company,!=,Apple );(value,<=,89.09168850684722 );(drop,>=,6.370254645080609 );}
+{(company,=,Microsoft );(value,<=,82.99878958731821 );(drop,<=,5.365490631230829 );}
+{(company,=,Apple );(value,<,85.80711244346215 );(drop,>=,9.677327044073312 );}
+{(company,!=,Microsoft );(value,>=,90.87923817728608 );(drop,>=,14.618426340145366 );}
+{(company,=,Apple );(value,>=,96.19668018528364 );(drop,<=,9.355368045437448 );}
+{(company,=,Google );(value,<=,82.57758213424967 );(drop,>=,13.03770674902042 );}
+{(company,!=,Google );(value,<,97.29544383791232 );(drop,>=,7.923304148600559 );}
+{(company,=,Google );(value,>,90.35599512923628 );(drop,>=,7.452973420285671 );}
+{(company,!=,Google );(value,>,83.86997431340554 );(drop,<,6.6608837615119265 );}
+{(company,=,Apple );(value,<,90.96176506813015 );(drop,<=,9.86719005404255 );}
+{(company,=,Google );(value,<,82.88517319750727 );(drop,>=,10.271775193088562 );}
+{(company,=,Microsoft );(value,>=,89.89374064744644 );(drop,<,5.5018939002489216 );}
+{(company,=,Microsoft );(value,>,84.82768309800193 );(drop,>=,13.892129187969172 );}
+{(company,=,Microsoft );(value,<,81.42845434057908 );(drop,>=,6.910017175628775 );}
+{(company,=,Google );(value,>=,97.60557625549984 );(drop,>=,14.731040178589787 );}
+{(company,=,Apple );(value,>=,99.16162141896855 );(drop,<=,13.254838755159682 );}
+{(company,=,Microsoft );(value,>=,99.92606319282643 );(drop,<=,8.447864549506079 );}
+{(company,=,Google );(value,>=,94.91160205781267 );(drop,<,13.469330889136055 );}
+{(company,=,Apple );(value,<,89.06758763596068 );(drop,<=,10.212687740759584 );}
+{(company,=,Google );(value,<=,86.69181708067723 );(drop,>=,12.218884179415216 );}
+{(company,!=,Microsoft );(value,>,86.70501969772636 );(drop,<,10.504461650394965 );}
+{(company,!=,Microsoft );(value,>,92.33460987680778 );(drop,<,10.809163224535872 );}
+{(company,=,Google );(value,<,89.32881135271572 );(drop,<,8.219772852590408 );}
+{(company,!=,Microsoft );(value,>=,92.38936543555164 );(drop,<,13.894150357111798 );}
+{(company,=,Apple );(value,>,87.29079163761398 );(drop,>=,12.268918744216535 );}
+{(company,=,Google );(value,<,86.45399254616345 );(drop,>,13.709314942446882 );}
+{(company,!=,Microsoft );(value,<,93.69859905878579 );(drop,<=,9.187889487132411 );}
+{(company,=,Apple );(value,>=,87.73209348583177 );(drop,<,8.857752148781895 );}
+{(company,=,Google );(value,>=,98.05139729348517 );(drop,>,11.247960000870021 );}
+{(company,=,Microsoft );(value,>=,90.80488716552998 );(drop,<=,8.761925229097969 );}
+{(company,=,Microsoft );(value,<=,89.92145962703039 );(drop,>,14.504194192149642 );}
+{(company,=,Apple );(value,>,80.21138778738388 );(drop,<=,8.06591643067853 );}
+{(company,=,Google );(value,>,96.51810038977422 );(drop,<,13.795261160493023 );}
+{(company,=,Microsoft );(value,<=,82.57234346787372 );(drop,>=,12.04013740810441 );}
+{(company,=,Google );(value,>,81.72333870383314 );(drop,>=,12.9183568152725 );}
+{(company,=,Microsoft );(value,>,80.7814453048394 );(drop,<,7.682679686891913 );}
+{(company,=,Microsoft );(value,>,95.79254970575946 );(drop,>=,11.082851702716304 );}
+{(company,!=,Apple );(value,>,90.96657109428233 );(drop,>,11.195710006887737 );}
+{(company,=,Apple );(value,<=,91.73404767880093 );(drop,>=,8.483639128903015 );}
+{(company,=,Google );(value,>,91.33947177838749 );(drop,>,7.591178153896569 );}
+{(company,!=,Microsoft );(value,>,87.9232039564954 );(drop,<=,13.912139176229726 );}
+{(company,!=,Microsoft );(value,>,93.4615174135088 );(drop,<=,12.952081118056585 );}
+{(company,=,Microsoft );(value,<,80.09337345423688 );(drop,<=,7.404638586491927 );}
+{(company,!=,Google );(value,>,88.67559497496605 );(drop,<,6.717028928469102 );}
+{(company,=,Google );(value,>=,95.88316687118825 );(drop,>=,8.503819535976673 );}
+{(company,=,Google );(value,<,96.76409206120455 );(drop,>,5.019730421573284 );}
+{(company,=,Apple );(value,<=,84.01219104804458 );(drop,>=,9.63668321058446 );}
+{(company,=,Google );(value,>,83.3577909826904 );(drop,<,6.896992196664806 );}
+{(company,=,Google );(value,<,81.59361229238631 );(drop,<,11.31717499554216 );}
+{(company,=,Google );(value,<,93.72521676098582 );(drop,<,11.377795099899616 );}
+{(company,=,Microsoft );(value,<=,84.40115493853723 );(drop,>=,9.545025797446032 );}
+{(company,=,Google );(value,>,89.84090503201628 );(drop,<=,10.717409881625597 );}
+{(company,!=,Microsoft );(value,<=,94.35912216552288 );(drop,>,8.603022483590799 );}
+{(company,=,Apple );(value,<,88.88492725100426 );(drop,<=,9.965870935340924 );}
+{(company,=,Microsoft );(value,<,90.72841530269129 );(drop,<=,9.506178988633781 );}
+{(company,=,Microsoft );(value,<,95.82579360395953 );(drop,>,13.448104733579004 );}
+{(company,!=,Apple );(value,>,85.32820271105982 );(drop,>,9.204489254339496 );}
+{(company,!=,Microsoft );(value,<,91.97552571057444 );(drop,>,9.94656460170873 );}
+{(company,=,Google );(value,<,95.74522471941953 );(drop,>=,7.713575746316403 );}
+{(company,=,Apple );(value,>=,97.4446374751991 );(drop,<=,13.895301664395806 );}
+{(company,=,Google );(value,<=,82.79658320499539 );(drop,<,5.213371969586113 );}
+{(company,=,Google );(value,<=,88.54275430438979 );(drop,>,12.490161660965692 );}
+{(company,=,Apple );(value,<,93.36785223322761 );(drop,<=,11.674718499527666 );}
+{(company,=,Microsoft );(value,>=,94.72925824157055 );(drop,>=,12.643690508484504 );}
+{(company,=,Google );(value,>,90.12466976436488 );(drop,>=,9.768997025577654 );}
+{(company,=,Apple );(value,>=,93.3118281879328 );(drop,<=,9.537748117512123 );}
+{(company,!=,Microsoft );(value,<=,81.03471271650135 );(drop,>,8.033447967280214 );}
+{(company,=,Google );(value,<=,97.71847602043928 );(drop,<=,13.306747686373217 );}
+{(company,!=,Microsoft );(value,<=,81.79039983004459 );(drop,>=,5.7591032303138 );}
+{(company,=,Google );(value,<,89.98270114035782 );(drop,>=,6.739905513822365 );}
+{(company,=,Microsoft );(value,<=,83.261081888707 );(drop,<=,11.321355549861218 );}
+{(company,=,Microsoft );(value,<=,95.70026247668513 );(drop,<=,13.40572948704704 );}
+{(company,=,Apple );(value,<=,99.3565767005538 );(drop,>,13.459850251484692 );}
+{(company,!=,Microsoft );(value,<,92.9858277292829 );(drop,>,7.033782157531835 );}
+{(company,=,Google );(value,<,93.74620250330807 );(drop,>=,7.721870244519612 );}
+{(company,!=,Microsoft );(value,>=,84.17266922538751 );(drop,<,14.160978037690473 );}
+{(company,=,Google );(value,<=,95.45095085218458 );(drop,<,5.788450601778974 );}
+{(company,=,Microsoft );(value,<,83.43280664230976 );(drop,<,7.552170213036166 );}
+{(company,=,Microsoft );(value,<=,80.91621228900034 );(drop,<,7.036685556579476 );}
+{(company,=,Apple );(value,<=,91.10263034457466 );(drop,>=,5.886941435610662 );}
+{(company,=,Microsoft );(value,<,81.66739503025089 );(drop,>=,11.416734424207238 );}
+{(company,!=,Apple );(value,>,98.6652397287618 );(drop,<,9.43622770473271 );}
+{(company,!=,Microsoft );(value,<=,86.73473791620289 );(drop,<=,10.312937735353422 );}
+{(company,=,Google );(value,>,91.5175899472286 );(drop,<,13.538088941278644 );}
+{(company,!=,Apple );(value,>,85.82594069496083 );(drop,<=,13.44271514678503 );}
+{(company,=,Apple );(value,<=,87.0032766923157 );(drop,<,10.931748575939144 );}
+{(company,!=,Apple );(value,<,81.07687800606627 );(drop,<=,10.305501076150524 );}
+{(company,!=,Apple );(value,>,94.04847050312792 );(drop,<,10.436969389394992 );}
+{(company,!=,Apple );(value,>,83.01618670536828 );(drop,<=,7.230453251433629 );}
+{(company,=,Apple );(value,>,97.80294996713502 );(drop,<,11.04150322458265 );}
+{(company,!=,Google );(value,<=,80.57642404109008 );(drop,<=,11.733575480343692 );}
+{(company,=,Google );(value,>=,95.64442792057753 );(drop,<,8.902279513541307 );}
+{(company,=,Apple );(value,>,84.81392823793212 );(drop,<=,5.801359559945036 );}
+{(company,!=,Apple );(value,>,90.30630913109306 );(drop,<,10.470743779591434 );}
+{(company,=,Apple );(value,<=,93.82566806367636 );(drop,>=,13.852376890413996 );}
+{(company,=,Apple );(value,<=,96.56583406666203 );(drop,<=,9.715599461623762 );}
+{(company,=,Google );(value,<,86.3853448998704 );(drop,>=,7.8215494019286815 );}
+{(company,=,Google );(value,<,98.13389983978847 );(drop,>=,6.336270804365311 );}
+{(company,=,Microsoft );(value,>,97.19683827616899 );(drop,<=,13.050922046373396 );}
+{(company,!=,Microsoft );(value,<=,82.24391243965631 );(drop,<,10.6699057207634 );}
+{(company,!=,Google );(value,>=,95.10733332375962 );(drop,>,6.97413511154641 );}
+{(company,=,Apple );(value,>,94.3925832654295 );(drop,<=,5.765828704869563 );}
+{(company,!=,Microsoft );(value,>,85.4124866004543 );(drop,>,7.475117619172721 );}
+{(company,=,Apple );(value,>=,80.52407302617439 );(drop,<,14.598463277554604 );}
+{(company,=,Microsoft );(value,>=,98.09473344732241 );(drop,>,10.167205416281138 );}
+{(company,=,Apple );(value,<,93.28477833248459 );(drop,<,11.353747095690945 );}
+{(company,=,Microsoft );(value,<=,88.2150403042011 );(drop,>=,13.761671198637655 );}
+{(company,=,Microsoft );(value,>,91.28169197664057 );(drop,>,6.622084584963418 );}
+{(company,=,Apple );(value,<=,87.40724675485073 );(drop,<=,5.587365458984071 );}
+{(company,=,Apple );(value,<,92.62979409006712 );(drop,<=,7.777071170233181 );}
+{(company,!=,Microsoft );(value,>,83.56351653462657 );(drop,<=,5.222407292589345 );}
+{(company,=,Google );(value,<=,80.40126680983374 );(drop,>,13.10117117426028 );}
+{(company,=,Google );(value,>,88.789360867307 );(drop,<=,6.462933787279735 );}
+{(company,=,Apple );(value,<,84.11642042039058 );(drop,>,6.2945025489058235 );}
+{(company,=,Apple );(value,>,82.64513052719393 );(drop,>,10.102515610319116 );}
+{(company,=,Google );(value,<=,85.14209969864358 );(drop,>,9.232412986122773 );}
+{(company,!=,Google );(value,>=,81.84908270482467 );(drop,>=,5.272565554469368 );}
+{(company,!=,Microsoft );(value,>,90.05748402372602 );(drop,<=,10.230037868592495 );}
+{(company,!=,Apple );(value,>,80.79998425534029 );(drop,>=,12.914862028094097 );}
+{(company,!=,Google );(value,<=,92.75861690653113 );(drop,<=,11.76596345498741 );}
+{(company,=,Google );(value,>,83.61301247275938 );(drop,>=,11.474969446407304 );}
+{(company,=,Google );(value,>,85.71282518062705 );(drop,<,7.466344818398216 );}
+{(company,=,Microsoft );(value,<=,98.74797995777496 );(drop,>,6.022086913739946 );}
+{(company,=,Google );(value,>,96.92811804211209 );(drop,<=,7.592674537995356 );}
+{(company,!=,Google );(value,>=,98.18332978287562 );(drop,<,14.944119937008042 );}
+{(company,=,Microsoft );(value,>,86.74068067377108 );(drop,<=,6.237875018673878 );}
+{(company,!=,Microsoft );(value,<=,94.18439503199315 );(drop,>=,12.958188021232782 );}
+{(company,=,Microsoft );(value,>=,99.80961332060053 );(drop,>=,10.224259809428435 );}
+{(company,=,Microsoft );(value,<=,90.28279583428068 );(drop,>,11.947652335365838 );}
+{(company,=,Apple );(value,<=,97.42687508996252 );(drop,>,8.721970407581757 );}
+{(company,!=,Apple );(value,<=,92.46163825036689 );(drop,>,6.050792795246034 );}
+{(company,!=,Microsoft );(value,>,89.25006715826507 );(drop,<,5.145069347388992 );}
+{(company,=,Microsoft );(value,>=,97.9010917308637 );(drop,>=,14.137147475107279 );}
+{(company,=,Google );(value,<=,94.56524558922854 );(drop,<=,5.776225779873339 );}
+{(company,=,Microsoft );(value,>=,94.77692334234868 );(drop,<,7.280891146455755 );}
+{(company,=,Microsoft );(value,>=,98.81653645284973 );(drop,<=,8.906949052714939 );}
+{(company,=,Microsoft );(value,<,83.11918040062633 );(drop,<,6.782884744332959 );}
+{(company,!=,Apple );(value,>,97.37212476216226 );(drop,<=,11.48252249842659 );}
+{(company,!=,Microsoft );(value,>=,96.96105906926056 );(drop,>,5.858194901790988 );}
+{(company,=,Google );(value,>,92.28550728250451 );(drop,>,10.91880150903633 );}
+{(company,=,Apple );(value,>,87.21730544647164 );(drop,>=,6.95462403274942 );}
+{(company,=,Microsoft );(value,>=,81.89673121454291 );(drop,<,10.764310033851718 );}
+{(company,=,Google );(value,<,99.98983958296293 );(drop,>=,5.6283650832314365 );}
+{(company,=,Microsoft );(value,>,80.06792819827623 );(drop,>=,9.000455570411713 );}
+{(company,!=,Apple );(value,<,96.33557975917601 );(drop,>=,14.465622570245966 );}
+{(company,!=,Google );(value,<=,94.98288619151933 );(drop,<=,13.070593349421618 );}
+{(company,=,Microsoft );(value,>,95.4404967469731 );(drop,>=,14.472641159628573 );}
+{(company,!=,Microsoft );(value,<,97.29800686896354 );(drop,<=,8.194788317783054 );}
+{(company,=,Microsoft );(value,<,95.87546756719107 );(drop,<,7.433566560616941 );}
+{(company,=,Microsoft );(value,<=,88.46758511700676 );(drop,<=,9.32259594645604 );}
+{(company,!=,Apple );(value,>=,91.73438286694494 );(drop,>,7.0919367414687216 );}
+{(company,=,Apple );(value,<,87.13119508376772 );(drop,>=,9.265210961477846 );}
+{(company,=,Microsoft );(value,<=,95.00492569573655 );(drop,<,6.987079914813666 );}
+{(company,=,Google );(value,>=,92.0550926137054 );(drop,>=,13.848148615069054 );}
+{(company,=,Microsoft );(value,>,83.91564221064182 );(drop,>,8.640917077661651 );}
+{(company,=,Microsoft );(value,>=,96.2587679970326 );(drop,<=,13.439501398304582 );}
+{(company,!=,Google );(value,>=,86.86750473882618 );(drop,<=,6.720224991525865 );}
+{(company,!=,Apple );(value,<=,81.02667277696662 );(drop,>,12.358514760926033 );}
+{(company,!=,Microsoft );(value,>,86.65414216925473 );(drop,<,6.082372307671864 );}
+{(company,!=,Apple );(value,>=,85.8768056878022 );(drop,>=,12.973384064486696 );}
+{(company,=,Apple );(value,<,95.53936930221957 );(drop,<,12.673776229442202 );}
+{(company,=,Microsoft );(value,>=,82.25124022800134 );(drop,>=,13.660325739601731 );}
+{(company,=,Microsoft );(value,<,88.94669898267874 );(drop,>,14.444615078362512 );}
+{(company,!=,Google );(value,<,96.03574175051222 );(drop,<,10.402597301056211 );}
+{(company,!=,Microsoft );(value,>,80.07458650018128 );(drop,>,9.954942080993757 );}
+{(company,=,Google );(value,<=,88.28613178003746 );(drop,>,7.067218125450855 );}
+{(company,=,Microsoft );(value,>,98.22530426494336 );(drop,>=,5.705556107020212 );}
+{(company,=,Apple );(value,>=,84.31044579479261 );(drop,<,12.943668415281907 );}
+{(company,!=,Google );(value,>=,92.1599269485624 );(drop,>=,11.818201543883438 );}
+{(company,=,Microsoft );(value,>,84.36240798632697 );(drop,<=,7.528659410780806 );}
+{(company,=,Microsoft );(value,<,80.34971915339622 );(drop,<=,11.33081801806884 );}
+{(company,=,Apple );(value,>,96.56387414437705 );(drop,>=,5.777704128136772 );}
+{(company,=,Google );(value,>=,90.80422247759408 );(drop,>,12.277432502395518 );}
+{(company,!=,Microsoft );(value,<=,82.7045288370588 );(drop,<,11.098680845493778 );}
+{(company,!=,Microsoft );(value,<=,95.89649686084803 );(drop,<,7.906562163883909 );}
+{(company,=,Google );(value,>,98.1188720587097 );(drop,<=,14.244940501883436 );}
+{(company,=,Apple );(value,<=,98.81197275794082 );(drop,<=,10.19038587174744 );}
+{(company,=,Microsoft );(value,>=,95.75758495340241 );(drop,>=,9.901428742377306 );}
+{(company,=,Google );(value,>,89.63414702714792 );(drop,>=,7.328500009021706 );}
+{(company,=,Apple );(value,>=,83.14795123132586 );(drop,>=,9.260482293742589 );}
+{(company,!=,Google );(value,<=,85.08270111819421 );(drop,>,12.916620427932228 );}
+{(company,=,Microsoft );(value,>=,96.26334639434995 );(drop,<,7.807377773262801 );}
+{(company,=,Google );(value,<,92.93109087445364 );(drop,>,13.687335573139256 );}
+{(company,=,Apple );(value,>=,92.41431446179908 );(drop,>=,6.8789244634037185 );}
+{(company,=,Apple );(value,<,99.86681947944437 );(drop,>,9.246926227891404 );}
+{(company,=,Google );(value,<,87.45398587066347 );(drop,<=,8.748833842793506 );}
+{(company,=,Apple );(value,>,82.90497683391173 );(drop,>=,11.41236577338436 );}
+{(company,=,Apple );(value,>,86.34232137128699 );(drop,<,7.688731333171185 );}
+{(company,!=,Google );(value,<=,97.56455870393333 );(drop,<,10.25801580242222 );}
+{(company,=,Apple );(value,<,83.807071720486 );(drop,>=,9.423287126973197 );}
+{(company,=,Apple );(value,<,99.50260272695431 );(drop,<,13.139295001734887 );}
+{(company,=,Microsoft );(value,<,89.333953438794 );(drop,>,11.295943433156127 );}
+{(company,=,Microsoft );(value,>=,95.74459259343901 );(drop,<=,8.313486955862455 );}
+{(company,!=,Microsoft );(value,>=,88.57378773729468 );(drop,>,5.283145550718121 );}
+{(company,=,Microsoft );(value,<,97.30642782856445 );(drop,>=,10.400359332914224 );}
+{(company,=,Apple );(value,<,86.82538309954877 );(drop,>,5.740377478971805 );}
+{(company,=,Google );(value,<=,98.38655048259892 );(drop,<=,8.90395035331148 );}
+{(company,=,Google );(value,<,87.31777196410435 );(drop,<,9.685918511748488 );}
+{(company,=,Microsoft );(value,<,91.6689583625735 );(variation,<,0.6259617807788641 );}
+{(company,!=,Microsoft );(value,<=,85.81236140768202 );(variation,<=,0.7735725302681431 );}
+{(company,!=,Google );(value,<=,82.45962754900278 );(variation,<,0.7151573051460248 );}
+{(company,=,Apple );(value,<,86.43394523135284 );(variation,<,0.6056293789987343 );}
+{(company,=,Apple );(value,<,98.24297624138603 );(variation,<,0.7665491236867896 );}
+{(company,=,Microsoft );(value,<=,87.70110839691078 );(variation,<,0.7391499178997023 );}
+{(company,!=,Apple );(value,<,86.58042620134262 );(variation,>,0.7338043023496967 );}
+{(company,=,Google );(value,>,84.93567626233954 );(variation,>=,0.6890897676682604 );}
+{(company,!=,Apple );(value,<=,94.49759792852029 );(variation,<=,0.7134416418703602 );}
+{(company,=,Microsoft );(value,<,84.21748254965824 );(variation,<,0.635587778306338 );}
+{(company,!=,Microsoft );(value,>,81.28730593116815 );(variation,>=,0.7722919064353648 );}
+{(company,=,Google );(value,<=,96.68893846472217 );(variation,<,0.7683653612674346 );}
+{(company,=,Apple );(value,>,96.821419800819 );(variation,>,0.640792527102064 );}
+{(company,=,Microsoft );(value,>,97.0142326411744 );(variation,<=,0.6679112134577446 );}
+{(company,=,Microsoft );(value,<,98.69915656368809 );(variation,>,0.7049617048182513 );}
+{(company,=,Microsoft );(value,<,87.82274445683076 );(variation,>=,0.751000849070901 );}
+{(company,=,Apple );(value,<,89.01580613780531 );(variation,<,0.6962488880067347 );}
+{(company,!=,Google );(value,>=,87.86356931152329 );(variation,<,0.7406619214396488 );}
+{(company,=,Microsoft );(value,<=,96.9535634181163 );(variation,>,0.7550133221611004 );}
+{(company,=,Microsoft );(value,>,97.5231852249433 );(variation,<=,0.7547792726699658 );}
+{(company,=,Google );(value,<=,82.06568753766206 );(variation,<,0.6428551920020427 );}
+{(company,!=,Google );(value,<,89.30700532189496 );(variation,<=,0.6734913735019452 );}
+{(company,=,Google );(value,>,87.00050777083945 );(variation,>,0.6424675515518327 );}
+{(company,!=,Google );(value,>,82.80852330375996 );(variation,<=,0.6672025757079352 );}
+{(company,=,Google );(value,<=,96.49458756725042 );(variation,<,0.6818971045843767 );}
+{(company,=,Apple );(value,<=,90.04817109332969 );(variation,<,0.7638718846650999 );}
+{(company,=,Google );(value,>,90.64020433244134 );(variation,>,0.7178515563858683 );}
+{(company,=,Apple );(value,>=,88.47532495480112 );(variation,<=,0.619427105911588 );}
+{(company,=,Google );(value,<,83.53689157860863 );(variation,<=,0.6273405551183375 );}
+{(company,=,Apple );(value,<=,85.1932638842876 );(variation,>=,0.7542706371559597 );}
+{(company,=,Apple );(value,<,87.80151368301621 );(variation,>=,0.7405121526799893 );}
+{(company,!=,Apple );(value,>=,91.40405698957622 );(variation,<,0.6497759241308919 );}
+{(company,=,Google );(value,<=,97.92750386783979 );(variation,<=,0.7153378551018303 );}
+{(company,=,Apple );(value,>=,92.97062551959732 );(variation,>,0.7922688169548204 );}
+{(company,=,Google );(value,<,81.78999333128948 );(variation,>=,0.6769332629690914 );}
+{(company,=,Microsoft );(value,>=,96.9005556113739 );(variation,<=,0.6263247570549011 );}
+{(company,=,Google );(value,<,98.98629465490903 );(variation,<,0.7390227420415549 );}
+{(company,=,Microsoft );(value,>=,91.68282104483067 );(variation,>,0.6546643545386925 );}
+{(company,=,Microsoft );(value,<,94.53610254025374 );(variation,>=,0.6084153498459376 );}
+{(company,=,Apple );(value,>,81.21532302531537 );(variation,<=,0.7345191573499489 );}
+{(company,!=,Google );(value,>,95.48914643450706 );(variation,<,0.6429738269643194 );}
+{(company,=,Apple );(value,>,91.31247941884833 );(variation,>=,0.7772922667324584 );}
+{(company,=,Apple );(value,>,91.75013427709177 );(variation,>=,0.7260762266285148 );}
+{(company,=,Microsoft );(value,>=,98.47885158801449 );(variation,<=,0.7628764072100374 );}
+{(company,=,Microsoft );(value,<=,82.82050996143577 );(variation,>=,0.6825957434621562 );}
+{(company,!=,Google );(value,>=,96.69920820292404 );(variation,>,0.6995013393480691 );}
+{(company,=,Google );(value,>=,82.60714199741804 );(variation,<,0.7491464344313064 );}
+{(company,=,Microsoft );(value,<=,80.9728831722431 );(variation,>,0.7451502697571859 );}
+{(company,=,Apple );(value,<,97.79590345912969 );(variation,<=,0.6235493331711914 );}
+{(company,!=,Apple );(value,<=,89.93610344558543 );(variation,<,0.6754174360978598 );}
+{(company,=,Apple );(value,>=,85.26911861407329 );(variation,>=,0.7185727226504756 );}
+{(company,=,Microsoft );(value,>=,99.2187900275359 );(variation,<,0.7974329043739471 );}
+{(company,=,Microsoft );(value,<=,83.10332204339491 );(variation,<,0.6727063439354838 );}
+{(company,=,Microsoft );(value,<=,80.39247213406966 );(variation,>=,0.7164209260218499 );}
+{(company,=,Google );(value,<=,89.94846004277147 );(variation,<,0.6819850078659496 );}
+{(company,!=,Google );(value,<=,84.62514982985253 );(variation,<,0.7404589890850446 );}
+{(company,=,Apple );(value,<,98.76007321837142 );(variation,<,0.6713418423747499 );}
+{(company,=,Microsoft );(value,<,80.88569465207881 );(variation,>=,0.7478117742168033 );}
+{(company,=,Microsoft );(value,>,85.62794752944792 );(variation,<=,0.6757046390889792 );}
+{(company,=,Microsoft );(value,>=,90.99707856760047 );(variation,<=,0.7194844122533168 );}
+{(company,=,Google );(value,<=,99.09063087347604 );(variation,<=,0.6588308022412858 );}
+{(company,=,Microsoft );(value,<,85.64787764580412 );(variation,>=,0.7816591632909334 );}
+{(company,!=,Microsoft );(value,>=,91.5825109975071 );(variation,<,0.7931461118792256 );}
+{(company,=,Google );(value,>,91.06372462673336 );(variation,>=,0.6338655284075516 );}
+{(company,=,Google );(value,<,90.19031831192395 );(variation,<,0.7397716075416965 );}
+{(company,=,Apple );(value,<=,80.54138231338563 );(variation,<=,0.7341296435741056 );}
+{(company,=,Microsoft );(value,<,88.1616173216577 );(variation,<=,0.7173403352309291 );}
+{(company,=,Apple );(value,>=,84.7990116308516 );(variation,>,0.610613469322374 );}
+{(company,=,Google );(value,<,96.59765458426338 );(variation,>=,0.6985263967324583 );}
+{(company,=,Apple );(value,>,95.5693452355551 );(variation,>,0.7188843074434301 );}
+{(company,!=,Microsoft );(value,>=,93.81145718042771 );(variation,>,0.7374208507484545 );}
+{(company,!=,Microsoft );(value,>,93.29281337027311 );(variation,>,0.6112777086935622 );}
+{(company,=,Apple );(value,<=,84.22808019160395 );(variation,<,0.626327791067872 );}
+{(company,!=,Google );(value,<=,93.6617431968778 );(variation,<=,0.7952222498636836 );}
+{(company,=,Apple );(value,>=,93.15249262032529 );(variation,>,0.7351760522037134 );}
+{(company,=,Microsoft );(value,<=,98.68732715876328 );(variation,<=,0.6071146506979528 );}
+{(company,!=,Google );(value,<=,86.94428107153487 );(variation,<=,0.6984614971478773 );}
+{(company,=,Apple );(value,>=,95.4128407691476 );(variation,>,0.653592400682731 );}
+{(company,=,Microsoft );(value,<,81.84991609283638 );(variation,>,0.6493626266095033 );}
+{(company,!=,Microsoft );(value,<=,89.00121144533287 );(variation,<,0.7630910193350934 );}
+{(company,=,Microsoft );(value,<,83.38063925153293 );(variation,>=,0.7919324015667388 );}
+{(company,=,Apple );(value,<,86.23722383767435 );(variation,>=,0.690143234217363 );}
+{(company,=,Google );(value,<=,80.96459971700985 );(variation,>=,0.7276772970132053 );}
+{(company,=,Google );(value,>,96.19122825980524 );(variation,>,0.6418579890702998 );}
+{(company,!=,Apple );(value,<,87.62293696377915 );(variation,<,0.6578164722252547 );}
+{(company,=,Microsoft );(value,<=,98.11038649761417 );(variation,<,0.7626966075675654 );}
+{(company,=,Microsoft );(value,>=,88.05331800622814 );(variation,<,0.7400807975659475 );}
+{(company,=,Google );(value,>,98.81543390123025 );(variation,>=,0.7388580606752767 );}
+{(company,=,Google );(value,<,93.05608873532867 );(variation,<=,0.6484558666454153 );}
+{(company,=,Apple );(value,<=,88.9597368236579 );(variation,<=,0.6940181777556222 );}
+{(company,!=,Apple );(value,>,94.36829887127226 );(variation,<,0.6626385217273938 );}
+{(company,=,Google );(value,<,81.53861525246101 );(variation,<,0.7912190954030418 );}
+{(company,!=,Google );(value,>=,97.42016739914143 );(variation,>,0.7805861708968662 );}
+{(company,=,Microsoft );(value,>=,91.96585371098148 );(variation,>,0.6520289605215728 );}
+{(company,=,Apple );(value,>=,80.95327853294707 );(variation,<=,0.7058201932663282 );}
+{(company,=,Apple );(value,>=,90.41183770698791 );(variation,<=,0.6230790957110744 );}
+{(company,!=,Microsoft );(value,>=,80.02182521961196 );(variation,>,0.6963070898867955 );}
+{(company,=,Microsoft );(value,>,88.64875865278277 );(variation,<=,0.7531788165799468 );}
+{(company,!=,Apple );(value,>,88.06461149980059 );(variation,<,0.6780754408356751 );}
+{(company,=,Microsoft );(value,>=,91.33679124985723 );(variation,>,0.7063547111858213 );}
+{(company,=,Microsoft );(value,<=,81.46826408085636 );(variation,>=,0.7696239065129173 );}
+{(company,!=,Microsoft );(value,<,88.38603944859084 );(variation,<,0.6898882504745041 );}
+{(company,!=,Apple );(value,>=,99.86192692597484 );(variation,>=,0.6852822256429969 );}
+{(company,=,Google );(value,<=,88.76802726114279 );(variation,<=,0.6480275199098748 );}
+{(company,=,Google );(value,>=,92.93079348793559 );(variation,<=,0.7827371039787465 );}
+{(company,=,Google );(value,>=,98.34496817702114 );(variation,>,0.6386939757668121 );}
+{(company,!=,Apple );(value,<=,81.00263243033545 );(variation,>,0.7499893727348499 );}
+{(company,!=,Google );(value,<,99.4002094636695 );(variation,<=,0.6129210436433655 );}
+{(company,=,Microsoft );(value,<,80.43285786661484 );(variation,>=,0.7835540986763441 );}
+{(company,=,Apple );(value,>=,93.07351156232929 );(variation,<=,0.6968895685356334 );}
+{(company,=,Google );(value,>=,84.16512991310846 );(variation,<=,0.738411158244553 );}
+{(company,=,Apple );(value,<=,82.6137772202235 );(variation,<,0.6422723010171609 );}
+{(company,=,Apple );(value,>,84.20553100471857 );(variation,>,0.6397070344315448 );}
+{(company,!=,Google );(value,>,89.2531237826473 );(variation,>,0.7881832336693814 );}
+{(company,=,Google );(value,>,93.84405065425547 );(variation,>=,0.616721891179503 );}
+{(company,=,Google );(value,>,83.38711204981573 );(variation,<,0.7969826213715931 );}
+{(company,!=,Apple );(value,<=,90.99135741911802 );(variation,<=,0.7269046486651508 );}
+{(company,!=,Apple );(value,<,96.23015738699877 );(variation,<=,0.6097017886888688 );}
+{(company,=,Apple );(value,>,95.94339503031492 );(variation,>,0.637214984336239 );}
+{(company,=,Apple );(value,>=,83.19020203509443 );(variation,>,0.728103954428591 );}
+{(company,!=,Apple );(value,<,95.03193410300275 );(variation,>=,0.6333282647817449 );}
+{(company,=,Apple );(value,<=,95.7459815443401 );(variation,<,0.7183033819767004 );}
+{(company,!=,Apple );(value,>,83.62014202257987 );(variation,<,0.7876993957109312 );}
+{(company,=,Google );(value,>,91.0143102674121 );(variation,>,0.7714172205302989 );}
+{(company,!=,Google );(value,<=,93.52280185438352 );(variation,>=,0.6292722324863224 );}
+{(company,=,Microsoft );(value,>,81.06976760232237 );(variation,>=,0.7533920947499078 );}
+{(company,=,Microsoft );(value,>=,99.78866105792089 );(variation,<,0.7284036883834291 );}
+{(company,!=,Google );(value,>,99.56461031300199 );(variation,>=,0.6612227608651714 );}
+{(company,=,Google );(value,>=,80.82814324449276 );(variation,>=,0.6416297912393529 );}
+{(company,!=,Apple );(value,>=,86.33656659545805 );(variation,>=,0.7939438237214239 );}
+{(company,=,Microsoft );(value,<,81.19501266731329 );(variation,<=,0.6787731082787651 );}
+{(company,=,Microsoft );(value,<=,85.15412896596942 );(variation,>,0.6275495989424587 );}
+{(company,=,Google );(value,>,84.62376243038759 );(variation,>,0.7788221665844921 );}
+{(company,=,Apple );(value,<,89.49785440604916 );(variation,<,0.746413962200928 );}
+{(company,=,Microsoft );(value,<=,97.36527710006285 );(variation,>,0.7796831322089262 );}
+{(company,=,Apple );(value,<=,84.75051895549443 );(variation,<=,0.69277397089089 );}
+{(company,=,Apple );(value,>,80.93970512292015 );(variation,<,0.6403619822228858 );}
+{(company,=,Microsoft );(value,<,84.47609788293715 );(variation,>,0.7646812216178263 );}
+{(company,=,Google );(value,<=,93.12866636326267 );(variation,<,0.6270584176162483 );}
+{(company,!=,Apple );(value,>=,85.83247794312904 );(variation,>,0.6051806331778894 );}
+{(company,=,Microsoft );(value,>=,80.35859218162436 );(variation,<=,0.6696311358587582 );}
+{(company,!=,Google );(value,<,89.05331832582299 );(variation,<=,0.7697871803239151 );}
+{(company,!=,Apple );(value,>=,80.95186603674048 );(variation,>=,0.7633378264643186 );}
+{(company,=,Google );(value,<,89.210674210864 );(variation,<,0.6403641970540344 );}
+{(company,=,Google );(value,>,85.99077632162523 );(variation,>,0.7349934066265135 );}
+{(company,=,Microsoft );(value,<=,95.70286526604322 );(variation,<=,0.758868375859437 );}
+{(company,!=,Apple );(value,>=,88.79919495728961 );(variation,<,0.635025571554773 );}
+{(company,=,Google );(value,<,81.74192098513072 );(variation,<=,0.7600886020340496 );}
+{(company,=,Google );(value,<=,82.42218346512382 );(variation,>,0.7979991633780159 );}
+{(company,=,Microsoft );(value,>=,81.10740612767127 );(variation,>=,0.7436029802990374 );}
+{(company,!=,Apple );(value,>,84.77428675960006 );(variation,>=,0.609351544250698 );}
+{(company,=,Microsoft );(value,>=,83.23906749200965 );(variation,>=,0.7041765707041538 );}
+{(company,!=,Apple );(value,>,95.6091887828725 );(variation,>=,0.6664083928081724 );}
+{(company,=,Apple );(value,>,94.30360717301612 );(variation,>,0.767290573383561 );}
+{(company,=,Microsoft );(value,<,92.90300752450712 );(variation,>,0.6940432120968866 );}
+{(company,=,Microsoft );(value,>=,94.6756726266481 );(variation,<,0.6667863820080095 );}
+{(company,=,Apple );(value,<,93.05806133589003 );(variation,>=,0.7435449131355826 );}
+{(company,=,Microsoft );(value,>,92.04122372690553 );(variation,<,0.6168215718401857 );}
+{(company,!=,Apple );(value,>,93.2297580830283 );(variation,>,0.7659918538184483 );}
+{(company,=,Google );(value,<=,93.7363978348095 );(variation,>=,0.6452760331432211 );}
+{(company,=,Google );(value,<,99.27920014477723 );(variation,>,0.7418548853624469 );}
+{(company,=,Google );(value,<=,94.74666547394621 );(variation,<=,0.6458976191923299 );}
+{(company,=,Apple );(value,<,99.45947692762984 );(variation,>,0.7571152862383105 );}
+{(company,=,Apple );(value,<=,83.27843587102839 );(variation,<=,0.7595648842597242 );}
+{(company,!=,Microsoft );(value,<=,85.50044863220849 );(variation,>,0.7959113775562354 );}
+{(company,=,Google );(value,<=,99.98877525400886 );(variation,<=,0.7416958028723947 );}
+{(company,=,Apple );(value,<=,89.1144286763078 );(variation,>,0.7546692594697043 );}
+{(company,=,Microsoft );(value,<,96.59236291999117 );(variation,<,0.7121025071220577 );}
+{(company,=,Google );(value,>,91.28387680490096 );(variation,>=,0.687662229492926 );}
+{(company,=,Apple );(value,<,85.74495760587847 );(variation,<,0.657853220933912 );}
+{(company,=,Microsoft );(value,<,88.68007823232435 );(variation,<=,0.6562293727503326 );}
+{(company,=,Apple );(value,<,94.72888029267502 );(variation,>,0.6430352210077949 );}
+{(company,!=,Google );(value,<,86.40636028947267 );(variation,<,0.6179208538097164 );}
+{(company,!=,Microsoft );(value,>=,96.0447945039163 );(variation,>,0.7616644796749226 );}
+{(company,=,Google );(value,>=,95.55283778712788 );(variation,<,0.6450682220657166 );}
+{(company,=,Apple );(value,<=,88.55597040675747 );(variation,<=,0.6815141629343433 );}
+{(company,=,Microsoft );(value,<=,80.18043315781979 );(variation,<=,0.7345951057095628 );}
+{(company,!=,Google );(value,<,93.90431388932275 );(variation,<=,0.7675504393540793 );}
+{(company,=,Google );(value,>=,86.96330493201931 );(variation,<,0.7956048642985314 );}
+{(company,!=,Microsoft );(value,>=,91.38208851954323 );(variation,<=,0.7412451098986553 );}
+{(company,=,Microsoft );(value,>=,90.92999686955676 );(variation,<=,0.6178394490797562 );}
+{(company,!=,Apple );(value,<=,92.25467484067457 );(variation,<,0.6750130172240768 );}
+{(company,=,Microsoft );(value,>,97.80485910636166 );(variation,>=,0.7189254964785675 );}
+{(company,=,Apple );(value,>=,95.40966208913147 );(variation,>=,0.7312013058490785 );}
+{(company,=,Google );(value,>,81.4379145472627 );(variation,<,0.6790430116461769 );}
+{(company,=,Google );(value,<=,91.44323584840642 );(variation,<=,0.7714573525922985 );}
+{(company,=,Microsoft );(value,>=,90.8817398279245 );(variation,>=,0.7725651051065759 );}
+{(company,!=,Google );(value,<,87.05728120441903 );(variation,>=,0.622418207631017 );}
+{(company,=,Google );(value,>,82.73706282141197 );(variation,<=,0.7027680594929773 );}
+{(company,!=,Google );(value,>=,91.31170882492836 );(variation,<=,0.6497691438585335 );}
+{(company,!=,Microsoft );(value,<,94.36302216282927 );(variation,>=,0.6492068529320816 );}
+{(company,!=,Apple );(value,>=,87.86166714525235 );(variation,>=,0.6376296820351219 );}
+{(company,!=,Google );(value,>=,95.52805331328561 );(variation,<,0.7825121654630323 );}
+{(company,=,Apple );(value,<=,86.43879985432098 );(variation,>=,0.7464167928034741 );}
+{(company,=,Apple );(value,<,80.13137902394158 );(variation,<,0.6028450117747814 );}
+{(company,=,Microsoft );(value,>=,83.24985888120851 );(variation,>,0.7497040231447022 );}
+{(company,!=,Microsoft );(value,<=,97.07499385552194 );(variation,<=,0.6326266641889531 );}
+{(company,=,Google );(value,<,90.5386768908259 );(variation,<=,0.7643248277742369 );}
+{(company,=,Apple );(value,<,84.73550102121322 );(variation,>=,0.6972982365774368 );}
+{(company,=,Microsoft );(value,<,80.26676596935741 );(variation,>=,0.6544818836088131 );}
+{(company,=,Microsoft );(value,>=,80.77173946251692 );(variation,<=,0.7503327840713663 );}
+{(company,=,Microsoft );(value,<,87.9445476288725 );(variation,>=,0.7863456148741435 );}
+{(company,=,Google );(value,<,81.55089953158405 );(variation,>,0.6161247828269958 );}
+{(company,!=,Apple );(value,>,84.34066147990177 );(variation,<,0.6769134052390449 );}
+{(company,!=,Microsoft );(value,<,95.38482951813253 );(variation,>=,0.6465890144807149 );}
+{(company,=,Apple );(value,>=,94.21119989266121 );(variation,<,0.7858792197464572 );}
+{(company,!=,Google );(value,<,97.33715008338187 );(variation,>=,0.7935889284379865 );}
+{(company,=,Microsoft );(value,>=,81.84018140867653 );(variation,>=,0.6462791181533363 );}
+{(company,!=,Google );(value,>=,80.2765652468502 );(variation,<,0.6337725605744916 );}
+{(company,!=,Apple );(value,>,99.00120468593123 );(variation,<=,0.7118401564611566 );}
+{(company,!=,Microsoft );(value,>,94.42546135606388 );(variation,>,0.6771884065977631 );}
+{(company,=,Apple );(value,>,99.97773131849463 );(variation,>=,0.6156228600519899 );}
+{(company,=,Apple );(value,>,85.2403590580556 );(variation,>,0.7139860419789331 );}
+{(company,=,Apple );(value,>,89.50828141012113 );(variation,<=,0.715790532430105 );}
+{(company,=,Microsoft );(value,<=,84.60008746692432 );(variation,>=,0.7168950677849419 );}
+{(company,=,Google );(value,>,83.35220799863279 );(variation,<,0.6339436689141474 );}
+{(company,!=,Apple );(value,>,83.12721636936858 );(variation,<=,0.6862691189841038 );}
+{(company,!=,Apple );(value,<,89.93796640126443 );(variation,<,0.6953695576449809 );}
+{(company,=,Apple );(value,<,97.02614296875907 );(variation,<,0.7359573543786183 );}
+{(company,=,Microsoft );(value,<=,88.84030909794315 );(variation,>=,0.695337205992363 );}
+{(company,!=,Microsoft );(value,<=,99.40065228743526 );(variation,>,0.6749701010678059 );}
+{(company,=,Apple );(value,<=,90.59537765020323 );(variation,>=,0.6771359440185873 );}
+{(company,=,Apple );(value,<,86.370931098092 );(variation,>,0.6835681998871603 );}
+{(company,=,Apple );(value,>,97.29843601009381 );(variation,>=,0.7679704932404524 );}
+{(company,=,Apple );(value,>,83.61929196674558 );(variation,>,0.7422771092194638 );}
+{(company,=,Apple );(value,<,94.77344620382526 );(variation,<,0.7991197429623751 );}
+{(company,=,Google );(value,<=,96.17647088108203 );(variation,<=,0.6342922522101196 );}
+{(company,=,Microsoft );(value,<,91.82053435930072 );(variation,>,0.7528392768241016 );}
+{(company,=,Apple );(value,>=,86.58831208524684 );(variation,>,0.6727836774519018 );}
+{(company,=,Google );(value,<=,87.35639141591295 );(variation,<=,0.7644492024763314 );}
+{(company,=,Microsoft );(value,<,86.9906609131991 );(variation,>,0.6216164284333243 );}
+{(company,!=,Microsoft );(value,>,89.56686164445014 );(variation,<=,0.7720224016188818 );}
+{(company,!=,Google );(value,<=,85.17659094901344 );(variation,>,0.7175040246672065 );}
+{(company,=,Apple );(value,>=,93.29806459746676 );(variation,<=,0.6904463491913732 );}
+{(company,!=,Google );(value,>,84.14375380665503 );(variation,>=,0.7615540428555688 );}
+{(company,=,Google );(value,<=,86.95518187020406 );(variation,<,0.6682534254745714 );}
+{(company,!=,Apple );(value,>,88.82860318975493 );(variation,>,0.7504239913982842 );}
+{(company,=,Google );(value,>,87.23172030402931 );(variation,>,0.7554715290723646 );}
+{(company,!=,Google );(value,<,93.18514091476005 );(variation,>=,0.7334714165495118 );}
+{(company,=,Microsoft );(value,>,90.70829176497747 );(variation,>=,0.679707139308112 );}
+{(company,=,Microsoft );(value,<=,88.11621514686674 );(variation,>,0.6458085075359621 );}
+{(company,=,Google );(value,>=,88.71515431307083 );(variation,<,0.7830454029371645 );}
+{(company,!=,Google );(value,>,86.60374940152566 );(variation,<,0.6636006399542073 );}
+{(company,=,Google );(value,>=,80.21991364166217 );(variation,<,0.6961595656940198 );}
+{(company,=,Google );(value,<,90.0979136398532 );(variation,>=,0.7610675629550947 );}
+{(company,!=,Apple );(value,<,84.31731692170234 );(variation,<,0.7265649622243622 );}
+{(company,!=,Google );(value,>=,96.6189693672281 );(variation,>,0.739165687356121 );}
+{(company,=,Google );(value,>=,94.95094628095225 );(variation,>=,0.7814113271478229 );}
+{(company,!=,Apple );(value,<=,87.50239529849841 );(variation,>=,0.6382749521335265 );}
+{(company,=,Google );(value,>=,96.82279356051886 );(variation,>,0.7529735844344729 );}
+{(company,=,Google );(value,>=,97.02098479615466 );(variation,>,0.7423078043866926 );}
+{(company,=,Google );(value,<,93.50203764329038 );(variation,<,0.7743309804772142 );}
+{(company,=,Microsoft );(value,<,83.61100853477316 );(variation,>,0.7074209628615018 );}
+{(company,!=,Google );(value,<,83.12494622113776 );(variation,>,0.790777706763296 );}
+{(company,!=,Apple );(value,>,96.64892544438148 );(variation,<,0.6576631057357153 );}
+{(company,=,Apple );(value,<,86.52609711704307 );(variation,>,0.7646886452157016 );}
+{(company,!=,Apple );(value,<,85.74527887900005 );(variation,<=,0.765566017444682 );}
+{(company,=,Microsoft );(value,<,93.73689218186256 );(variation,<,0.7113393485542088 );}
+{(company,=,Apple );(value,<=,89.81489239215404 );(variation,>=,0.6929104666232633 );}
+{(company,=,Google );(value,<,91.04688367430512 );(variation,<=,0.6711606628494122 );}
+{(company,!=,Microsoft );(value,>,84.40930169994671 );(variation,<,0.6262622743893207 );}
+{(company,=,Microsoft );(value,>,84.4520100923015 );(variation,>,0.7423237586896868 );}
+{(company,=,Google );(value,<,99.57069083973886 );(variation,>,0.6078277456905327 );}
+{(company,=,Google );(value,>=,91.27221698333595 );(variation,>,0.7992262930865596 );}
+{(company,!=,Apple );(value,>=,89.53006172247068 );(variation,<,0.7234937962512774 );}
+{(company,=,Apple );(value,>=,92.78201316870332 );(variation,<=,0.697990491528789 );}
+{(company,!=,Apple );(value,>=,85.95831984939608 );(variation,>=,0.7754677771307644 );}
+{(company,!=,Microsoft );(value,<,87.86221308119997 );(variation,<,0.6824559765388716 );}
+{(company,=,Apple );(value,<,81.74981272091036 );(variation,>,0.6541491644693165 );}
+{(company,=,Apple );(value,<=,92.20174951657943 );(variation,>,0.6029100307584164 );}
+{(company,!=,Google );(value,<,85.8575238790105 );(variation,>,0.6256091560490545 );}
+{(company,=,Microsoft );(value,>,81.68189287089547 );(variation,<=,0.6090829604630001 );}
+{(company,=,Microsoft );(value,>,84.07137150470022 );(variation,>,0.6603548398964365 );}
+{(company,=,Google );(value,<,94.51898726752776 );(variation,<=,0.6974918697669524 );}
+{(company,!=,Microsoft );(value,<=,83.1987430185156 );(variation,>,0.7162059294416692 );}
+{(company,!=,Microsoft );(value,>,90.15759005310848 );(variation,<=,0.7891125180963877 );}
+{(company,!=,Google );(value,>,82.30674331082817 );(variation,<,0.6503601421988731 );}
+{(company,=,Google );(value,<,96.50999967197168 );(variation,>=,0.7216883174613092 );}
+{(company,=,Microsoft );(value,>=,83.73498690566095 );(variation,>,0.6410066674931904 );}
+{(company,=,Apple );(value,<,83.91342122588904 );(variation,<=,0.6162249511228428 );}
+{(company,=,Apple );(value,<,99.05684160691035 );(variation,>=,0.6503350587402299 );}
+{(company,=,Microsoft );(value,>,85.29870356680279 );(variation,<,0.6226572013294522 );}
+{(company,=,Google );(value,<,99.0173843564225 );(variation,<=,0.6857371981931871 );}
+{(company,=,Apple );(value,>=,88.6062015086767 );(variation,<=,0.7451624920866545 );}
+{(company,=,Apple );(value,<,81.90353667677707 );(variation,>,0.743855205277123 );}
+{(company,!=,Google );(value,<=,99.31566418692002 );(variation,>=,0.7569692412225498 );}
+{(company,!=,Microsoft );(value,<=,86.18586977190805 );(variation,>,0.6947369139049 );}
+{(company,=,Google );(value,>=,90.92109295767956 );(variation,>=,0.7722830919373119 );}
+{(company,=,Google );(value,<=,99.59523813834977 );(variation,>,0.730498214196944 );}
+{(company,=,Microsoft );(value,>,94.26211723843898 );(variation,>=,0.6627077159255977 );}
+{(company,!=,Apple );(value,<=,97.64544650329451 );(variation,>=,0.6479793545342029 );}
+{(company,=,Apple );(value,<,90.24036464627765 );(variation,>,0.7820707514916891 );}
+{(company,!=,Google );(value,<=,98.87136152933431 );(variation,>,0.7638353007709807 );}
+{(company,!=,Microsoft );(value,>,85.48059705262669 );(variation,<,0.7600293457484776 );}
+{(company,=,Google );(value,<=,84.37919636580301 );(variation,<=,0.6304669530228952 );}
+{(company,=,Apple );(value,>=,84.89601065668266 );(variation,>=,0.6781353185511374 );}
+{(company,=,Microsoft );(value,<,87.04238692624237 );(variation,>,0.6453073345824506 );}
+{(company,=,Google );(value,<,84.32144881593777 );(variation,<=,0.6603281108257736 );}
+{(company,=,Microsoft );(value,<,88.98877296526844 );(variation,>,0.6371254440906117 );}
+{(company,=,Apple );(value,>,85.02805045320598 );(variation,<=,0.6238840161582851 );}
+{(company,=,Apple );(drop,>,12.2426526635259 );(variation,<=,0.6430256763503898 );}
+{(company,=,Microsoft );(drop,>=,14.684420030988647 );(variation,<,0.6442845584163367 );}
+{(company,=,Google );(drop,<=,14.013215045737105 );(variation,>=,0.7099577068187131 );}
+{(company,=,Google );(drop,>=,8.94889713753996 );(variation,>,0.7091662503779146 );}
+{(company,=,Apple );(drop,<,13.189227857121825 );(variation,>,0.7917096285605458 );}
+{(company,!=,Google );(drop,>,5.707370164841587 );(variation,<,0.6361399629615317 );}
+{(company,=,Google );(drop,>,7.378324780214499 );(variation,<=,0.6537109874399437 );}
+{(company,!=,Apple );(drop,<,9.330286757777 );(variation,<=,0.6456006457102914 );}
+{(company,!=,Microsoft );(drop,<=,13.600933628830226 );(variation,<=,0.7511659844492975 );}
+{(company,=,Apple );(drop,<=,12.713864521119644 );(variation,>=,0.6888208454585518 );}
+{(company,=,Microsoft );(drop,>=,12.296580072988831 );(variation,>=,0.7219970917901951 );}
+{(company,=,Apple );(drop,>,8.691317775090644 );(variation,>=,0.6265193546975764 );}
+{(company,=,Apple );(drop,>,10.625839055249262 );(variation,>=,0.600752077088426 );}
+{(company,=,Apple );(drop,<=,14.836638888139932 );(variation,<=,0.6850565678191228 );}
+{(company,=,Microsoft );(drop,<,13.24963324963258 );(variation,>=,0.6742266564936488 );}
+{(company,=,Apple );(drop,<=,10.521085102107149 );(variation,>=,0.7961992489052887 );}
+{(company,=,Apple );(drop,<=,10.145306399307673 );(variation,<,0.7605007940091701 );}
+{(company,!=,Apple );(drop,>,12.012399015662657 );(variation,<,0.6325492926726163 );}
+{(company,=,Apple );(drop,<=,5.116140762615671 );(variation,<=,0.7351199538513771 );}
+{(company,=,Google );(drop,<,12.485309488674886 );(variation,>=,0.701610371599028 );}
+{(company,=,Apple );(drop,<,6.424094765617668 );(variation,<=,0.7775383355751585 );}
+{(company,=,Microsoft );(drop,<=,7.190429035611484 );(variation,<,0.61412833871419 );}
+{(company,=,Google );(drop,<,10.91746485905207 );(variation,>=,0.6245271400230095 );}
+{(company,!=,Microsoft );(drop,>,7.6416781331175345 );(variation,<=,0.7877384654029509 );}
+{(company,=,Apple );(drop,>=,8.055256308964793 );(variation,<,0.7916055190390401 );}
+{(company,=,Apple );(drop,>,6.353585961179742 );(variation,<=,0.6817934828155395 );}
+{(company,=,Google );(drop,<,13.934460476803363 );(variation,<,0.7674433461531998 );}
+{(company,!=,Apple );(drop,>=,13.465669066193655 );(variation,<,0.665286853754554 );}
+{(company,=,Microsoft );(drop,>=,12.066805071701777 );(variation,<,0.7950371781709938 );}
+{(company,=,Google );(drop,<,14.808961714611025 );(variation,>=,0.7810217824628082 );}
+{(company,=,Apple );(drop,<,5.331996273949196 );(variation,<,0.6004946029013982 );}
+{(company,=,Apple );(drop,<,11.133434691483437 );(variation,>=,0.6947690094724146 );}
+{(company,=,Microsoft );(drop,<,14.699498074019056 );(variation,>=,0.7758902426048143 );}
+{(company,=,Apple );(drop,>,10.10423259542535 );(variation,<=,0.6712455385592089 );}
+{(company,!=,Apple );(drop,>,14.77087312278905 );(variation,>,0.7801804901143804 );}
+{(company,=,Microsoft );(drop,>,6.652162607981288 );(variation,<,0.724519852147224 );}
+{(company,!=,Apple );(drop,<=,9.007640462935454 );(variation,>=,0.6402385360856369 );}
+{(company,!=,Apple );(drop,>,7.889603459728644 );(variation,>=,0.7178311225474444 );}
+{(company,=,Microsoft );(drop,>=,10.004348292329812 );(variation,>=,0.726184019509665 );}
+{(company,=,Apple );(drop,<=,10.290551561701236 );(variation,>=,0.7711113736633857 );}
+{(company,=,Apple );(drop,<=,9.673264442982399 );(variation,>=,0.7370227137165153 );}
+{(company,=,Apple );(drop,>,7.333806690339331 );(variation,<,0.74417954256297 );}
+{(company,!=,Microsoft );(drop,>,13.333145088819633 );(variation,<=,0.7265225749815356 );}
+{(company,!=,Microsoft );(drop,<=,14.784116697929012 );(variation,>,0.6352708833774664 );}
+{(company,=,Google );(drop,<,6.021805660472536 );(variation,>=,0.7555979578161848 );}
+{(company,=,Microsoft );(drop,>=,9.315820346751272 );(variation,<=,0.7314367768628869 );}
+{(company,=,Apple );(drop,<,12.255855924179576 );(variation,>=,0.6797726885514461 );}
+{(company,!=,Apple );(drop,<=,5.343131775546103 );(variation,>,0.6556677380577738 );}
+{(company,=,Microsoft );(drop,<=,5.838838279276636 );(variation,>=,0.6746087825230188 );}
+{(company,=,Apple );(drop,>,10.398505653739264 );(variation,>=,0.6123824928925422 );}
+{(company,=,Google );(drop,>=,12.045104880988692 );(variation,<=,0.7132379547461423 );}
+{(company,=,Apple );(drop,<=,11.410323906218746 );(variation,<,0.7825400639013911 );}
+{(company,=,Google );(drop,<=,6.488642379176688 );(variation,>=,0.6048132660316993 );}
+{(company,=,Apple );(drop,>,9.659550854791098 );(variation,<=,0.7148570420095293 );}
+{(company,=,Apple );(drop,<,10.163262461598102 );(variation,<=,0.6278113077777188 );}
+{(company,!=,Apple );(drop,<=,10.121995087537774 );(variation,<=,0.6876629595427597 );}
+{(company,=,Microsoft );(drop,>=,14.755145685843988 );(variation,<=,0.6743736076032584 );}
+{(company,=,Microsoft );(drop,<=,7.080328359447101 );(variation,<,0.6035835625353958 );}
+{(company,=,Microsoft );(drop,>=,8.487964858419929 );(variation,>=,0.7828617923266243 );}
+{(company,=,Google );(drop,>,8.686184399844564 );(variation,<,0.7627444721876636 );}
+{(company,=,Apple );(drop,<,11.153242692441204 );(variation,<=,0.6110875712064421 );}
+{(company,=,Apple );(drop,>=,6.839039062552574 );(variation,>=,0.6327866312610583 );}
+{(company,=,Apple );(drop,>,9.068118147531596 );(variation,>=,0.7875705082654413 );}
+{(company,=,Google );(drop,>,8.49050246756486 );(variation,<=,0.6823997998718225 );}
+{(company,!=,Microsoft );(drop,>=,5.24839117201827 );(variation,>,0.7641029595806418 );}
+{(company,=,Microsoft );(drop,<,14.805782764994529 );(variation,>=,0.6186721015154271 );}
+{(company,!=,Google );(drop,<,7.6754568655261055 );(variation,>=,0.7229305395146223 );}
+{(company,=,Microsoft );(drop,<,8.943025065815247 );(variation,>=,0.7135963879420855 );}
+{(company,!=,Apple );(drop,>=,13.989872270369293 );(variation,>,0.6653381357355881 );}
+{(company,=,Google );(drop,>,11.093858808213394 );(variation,>,0.7938979024260291 );}
+{(company,=,Microsoft );(drop,<=,12.912894698843795 );(variation,>=,0.7637968355322581 );}
+{(company,!=,Microsoft );(drop,<=,9.105321709371157 );(variation,>=,0.6728200447818693 );}
+{(company,=,Google );(drop,<,5.594061392666706 );(variation,<=,0.6343565005939793 );}
+{(company,=,Apple );(drop,<=,11.617390437901033 );(variation,<,0.7035342451059688 );}
+{(company,!=,Microsoft );(drop,<=,14.879947376893238 );(variation,>,0.620979788640407 );}
+{(company,=,Microsoft );(drop,<,10.18487026122186 );(variation,>=,0.6257729987614057 );}
+{(company,!=,Microsoft );(drop,<=,14.51101262810395 );(variation,<,0.7808405648368102 );}
+{(company,=,Microsoft );(drop,<,6.967935868595148 );(variation,>,0.7845401406746587 );}
+{(company,=,Microsoft );(drop,>,11.293554422010494 );(variation,<,0.6780953030106539 );}
+{(company,=,Apple );(drop,<=,6.2128138221536435 );(variation,>=,0.7961758604933923 );}
+{(company,!=,Google );(drop,>,10.116876194861 );(variation,>,0.6582155471521047 );}
+{(company,=,Microsoft );(drop,>,5.472800983649265 );(variation,>=,0.7834204067369415 );}
+{(company,=,Google );(drop,<,6.504233514805621 );(variation,>=,0.6945957945083605 );}
+{(company,=,Apple );(drop,>=,13.469623872668022 );(variation,>=,0.683282246458295 );}
+{(company,=,Google );(drop,<=,10.505278257110453 );(variation,>=,0.6128564095793749 );}
+{(company,=,Microsoft );(drop,>=,12.863004825087568 );(variation,>,0.6020286560873228 );}
+{(company,=,Apple );(drop,<=,5.74907274182541 );(variation,<,0.7990812649995633 );}
+{(company,=,Google );(drop,<,7.024335354206677 );(variation,<,0.7063912097089244 );}
+{(company,=,Google );(drop,>=,10.719525239171201 );(variation,<=,0.6133129571418754 );}
+{(company,=,Google );(drop,>,11.471154377826425 );(variation,>,0.6856753564746676 );}
+{(company,=,Apple );(drop,<,11.537511734263976 );(variation,>,0.633800645871311 );}
+{(company,!=,Google );(drop,<,13.052610170464165 );(variation,>=,0.7329120362184792 );}
+{(company,!=,Apple );(drop,<,14.075902133563066 );(variation,>=,0.7571866269522148 );}
+{(company,!=,Apple );(drop,>,7.632911758387889 );(variation,<=,0.7400644150952913 );}
+{(company,=,Google );(drop,<,12.940527838385544 );(variation,>=,0.6182781095549005 );}
+{(company,!=,Google );(drop,>=,5.451572417713718 );(variation,>=,0.6135812724946922 );}
+{(company,=,Apple );(drop,>=,14.645488906654766 );(variation,<=,0.7463522943739237 );}
+{(company,=,Apple );(drop,>,10.120565210876466 );(variation,<=,0.6303898745006058 );}
+{(company,!=,Apple );(drop,>=,11.62371584685863 );(variation,>=,0.7913782983938672 );}
+{(company,!=,Microsoft );(drop,>=,5.367884943617299 );(variation,<=,0.717012407761992 );}
+{(company,=,Microsoft );(drop,>=,12.306803405031825 );(variation,>,0.7011443944753357 );}
+{(company,=,Google );(drop,>=,7.271031297029227 );(variation,<=,0.643519829436172 );}
+{(company,=,Apple );(drop,<,12.228452259259429 );(variation,>,0.6491753760469368 );}
+{(company,!=,Microsoft );(drop,<,13.169955645562975 );(variation,>,0.7945078808833838 );}
+{(company,=,Google );(drop,<,11.869902511467055 );(variation,>=,0.760643385362535 );}
+{(company,!=,Microsoft );(drop,<=,9.906892267819847 );(variation,>=,0.6977805009361016 );}
+{(company,=,Google );(drop,>,9.482293129048497 );(variation,<=,0.6387146255747252 );}
+{(company,=,Microsoft );(drop,>=,11.74828543957498 );(variation,>=,0.6677600235065537 );}
+{(company,=,Google );(drop,>,9.444262354416637 );(variation,>=,0.742463269175534 );}
+{(company,!=,Microsoft );(drop,>,7.670146290098896 );(variation,<=,0.7149189832311863 );}
+{(company,!=,Microsoft );(drop,>,13.307441263792558 );(variation,<,0.6121094204806152 );}
+{(company,=,Apple );(drop,>,10.074505036913042 );(variation,<=,0.7259955114562804 );}
+{(company,=,Apple );(drop,<=,14.519239261536875 );(variation,<,0.633534135336546 );}
+{(company,!=,Google );(drop,>,5.492934741814883 );(variation,>=,0.7903251751335891 );}
+{(company,=,Apple );(drop,<,9.493576809671053 );(variation,>=,0.631872339251941 );}
+{(company,=,Google );(drop,>,7.504503209673522 );(variation,>=,0.6738708561288957 );}
+{(company,=,Microsoft );(drop,<,13.867061311616819 );(variation,>=,0.7183624654427269 );}
+{(company,=,Apple );(drop,>=,8.669850620801832 );(variation,<=,0.6956887679363162 );}
+{(company,=,Google );(drop,>,13.094674245927735 );(variation,<,0.6562620539545969 );}
+{(company,=,Apple );(drop,<=,13.443604273311077 );(variation,>,0.7199276254680139 );}
+{(company,=,Microsoft );(drop,<=,12.826791920940906 );(variation,>,0.728691055588858 );}
+{(company,=,Microsoft );(drop,>=,8.86998234388063 );(variation,<,0.6711275397967666 );}
+{(company,=,Google );(drop,>,10.079661011705982 );(variation,>,0.799553953055458 );}
+{(company,=,Microsoft );(drop,>=,13.384307864653357 );(variation,<=,0.6634682471492527 );}
+{(company,=,Apple );(drop,<,10.830072380615938 );(variation,>=,0.6759775308948084 );}
+{(company,!=,Apple );(drop,>,14.011973075201778 );(variation,>=,0.7915105427857128 );}
+{(company,=,Microsoft );(drop,>=,8.893556440195361 );(variation,>=,0.6302785611309369 );}
+{(company,=,Apple );(drop,<,5.937538723013369 );(variation,<=,0.7150870808731598 );}
+{(company,=,Apple );(drop,>,7.781177096499708 );(variation,>=,0.7609137554751291 );}
+{(company,=,Microsoft );(drop,>,10.792633204348093 );(variation,<=,0.6790963075596889 );}
+{(company,=,Google );(drop,<,11.223855349783419 );(variation,>=,0.6748791473099699 );}
+{(company,=,Apple );(drop,>,9.700033470986659 );(variation,<=,0.6840210435434664 );}
+{(company,=,Microsoft );(drop,>=,7.96688202915826 );(variation,>,0.7304253631925404 );}
+{(company,=,Apple );(drop,<=,14.676666736990585 );(variation,<=,0.76709000376414 );}
+{(company,=,Google );(drop,<,11.888990474669955 );(variation,>=,0.6672761299706701 );}
+{(company,!=,Microsoft );(drop,<=,6.679251963225794 );(variation,>=,0.7306618605548536 );}
+{(company,=,Microsoft );(drop,>,8.514702834104247 );(variation,<=,0.6356848083934223 );}
+{(company,=,Google );(drop,>,8.959325303527557 );(variation,<=,0.7074560922078198 );}
+{(company,=,Microsoft );(drop,<=,11.924059874559362 );(variation,>,0.6051829715934474 );}
+{(company,=,Google );(drop,<,6.294092791040221 );(variation,>,0.773169152244091 );}
+{(company,=,Google );(drop,>=,13.383584981737858 );(variation,<,0.6664377084595269 );}
+{(company,!=,Microsoft );(drop,<,6.170114009216068 );(variation,<=,0.6417390967311689 );}
+{(company,!=,Microsoft );(drop,>=,12.33366054300755 );(variation,<,0.6543082927545812 );}
+{(company,=,Apple );(drop,<,14.854765571760328 );(variation,>=,0.6526169890794058 );}
+{(company,!=,Microsoft );(drop,<=,7.965192553567034 );(variation,>,0.6219759413032144 );}
+{(company,=,Apple );(drop,>,12.976413981133742 );(variation,<,0.7075817239217589 );}
+{(company,!=,Apple );(drop,<=,8.882431815453113 );(variation,<,0.7438219368383271 );}
+{(company,=,Microsoft );(drop,>=,8.48140181109476 );(variation,>=,0.6668832624960294 );}
+{(company,!=,Microsoft );(drop,>,13.836382185124629 );(variation,>,0.6566651779497401 );}
+{(company,=,Apple );(drop,<,9.046208867934176 );(variation,<=,0.7000842183725657 );}
+{(company,=,Google );(drop,<,8.478253536737306 );(variation,>=,0.628037229988094 );}
+{(company,=,Apple );(drop,<=,9.127785925230086 );(variation,<=,0.68280199699682 );}
+{(company,=,Microsoft );(drop,>=,6.088035284983139 );(variation,>=,0.7661745483856297 );}
+{(company,=,Microsoft );(drop,>=,14.843741638758326 );(variation,<,0.6812285319158934 );}
+{(company,!=,Apple );(drop,<,7.551715256691932 );(variation,>=,0.6120840993876965 );}
+{(company,=,Microsoft );(drop,<,8.240404308044184 );(variation,<=,0.6914904723793073 );}
+{(company,=,Apple );(drop,>=,14.959066345395822 );(variation,<,0.7686718682242656 );}
+{(company,=,Apple );(drop,<,5.818593574955068 );(variation,>,0.7401585660409198 );}
+{(company,=,Microsoft );(drop,<=,14.060705233531362 );(variation,<,0.7293264368738971 );}
+{(company,!=,Google );(drop,>,5.059514564668013 );(variation,<,0.6644566564190796 );}
+{(company,=,Google );(drop,<,11.896100476570906 );(variation,>,0.6290129956971598 );}
+{(company,=,Microsoft );(drop,<=,10.821013263501797 );(variation,>,0.6224419483773814 );}
+{(company,!=,Apple );(drop,>,11.999972727655326 );(variation,>=,0.7859583982793754 );}
+{(company,=,Google );(drop,<,10.95142148037577 );(variation,>=,0.7279788243940029 );}
+{(company,=,Apple );(drop,>=,10.660075280922522 );(variation,<=,0.6715895920012496 );}
+{(company,!=,Apple );(drop,>,13.94506903956559 );(variation,>,0.762447530404786 );}
+{(company,=,Microsoft );(drop,<=,12.628915114215793 );(variation,>=,0.6870326923649933 );}
+{(company,!=,Google );(drop,<,9.990796729697392 );(variation,<=,0.6558574264026935 );}
+{(company,!=,Microsoft );(drop,>,13.501776301737552 );(variation,<=,0.6708217704674444 );}
+{(company,!=,Apple );(drop,<,8.576926720765334 );(variation,<=,0.7556304156395226 );}
+{(company,=,Google );(drop,>=,6.807153133882165 );(variation,>=,0.7348781807613491 );}
+{(company,!=,Google );(drop,<,5.02556093224224 );(variation,<,0.7796874411855961 );}
+{(company,=,Apple );(drop,>,8.053132048848251 );(variation,<,0.7770627535299354 );}
+{(company,!=,Microsoft );(drop,<=,5.4980177448050895 );(variation,<=,0.7469731530060562 );}
+{(company,=,Apple );(drop,<=,11.135103463872039 );(variation,>,0.7924874259366066 );}
+{(company,=,Apple );(drop,>,13.11469432212682 );(variation,>=,0.6709306897200962 );}
+{(company,!=,Microsoft );(drop,<=,5.0588534782873715 );(variation,>,0.6727818140390636 );}
+{(company,!=,Microsoft );(drop,>=,5.495105083530318 );(variation,<,0.6559847232310614 );}
+{(company,=,Microsoft );(drop,>,12.867899976085367 );(variation,<=,0.7141457318670876 );}
+{(company,!=,Apple );(drop,<=,6.937522546544876 );(variation,<,0.7301338356558074 );}
+{(company,=,Microsoft );(drop,>=,13.576311974192063 );(variation,>=,0.6701990488200352 );}
+{(company,!=,Google );(drop,>=,11.226381057933057 );(variation,<,0.6370027687661576 );}
+{(company,!=,Apple );(drop,>=,14.679025840437841 );(variation,<=,0.6822845618936688 );}
+{(company,!=,Google );(drop,<=,9.651924503147946 );(variation,>=,0.7297863877907695 );}
+{(company,=,Google );(drop,<=,7.916273359244154 );(variation,<,0.7743166156614844 );}
+{(company,=,Microsoft );(drop,>=,11.497818829804078 );(variation,>=,0.6158732544113844 );}
+{(company,!=,Microsoft );(drop,>=,13.057091089299789 );(variation,<,0.7632323202289581 );}
+{(company,=,Microsoft );(drop,<,12.176892002607993 );(variation,<,0.6672281506253445 );}
+{(company,=,Microsoft );(drop,<=,11.916094740059537 );(variation,>=,0.725692740884135 );}
+{(company,!=,Microsoft );(drop,>=,10.750075666128753 );(variation,<,0.7603917571883198 );}
+{(company,=,Apple );(drop,>,5.86900398639264 );(variation,<,0.6384751037782224 );}
+{(company,=,Microsoft );(drop,>=,14.105749234518292 );(variation,<,0.7540155215334774 );}
+{(company,=,Microsoft );(drop,>,5.9845865966381115 );(variation,>=,0.6860267399200841 );}
+{(company,!=,Google );(drop,<,10.50464530640677 );(variation,<=,0.7749155683665353 );}
+{(company,=,Microsoft );(drop,<,13.688931521343777 );(variation,>,0.7370676254810407 );}
+{(company,=,Google );(drop,<=,9.64168992596898 );(variation,>=,0.7068912463756407 );}
+{(company,=,Google );(drop,>=,7.195419354860661 );(variation,<,0.7409068503702197 );}
+{(company,=,Apple );(drop,<=,6.239274284970788 );(variation,<,0.7551904234585618 );}
+{(company,=,Google );(drop,<=,9.419353033382487 );(variation,<=,0.6053576063964169 );}
+{(company,!=,Microsoft );(drop,>,10.698989213598749 );(variation,>,0.6703698977292255 );}
+{(value,>=,99.73695574325748 );(drop,>,10.298848771918479 );(variation,>,0.741163233702337 );}
+{(value,>,91.10901356662957 );(drop,<=,11.505738886347938 );(variation,<=,0.6150515452762217 );}
+{(value,<,92.99061294814696 );(drop,>=,8.707822493162624 );(variation,>,0.654439666845735 );}
+{(value,<,91.58294667702326 );(drop,>,12.44560022859611 );(variation,<=,0.6281386271445835 );}
+{(value,>=,97.16514926721553 );(drop,>=,12.394997189612173 );(variation,<=,0.624466991440537 );}
+{(value,<,96.30449799132029 );(drop,<=,7.508384724236033 );(variation,>=,0.7128019658442306 );}
+{(value,>,90.18877148980928 );(drop,>,8.540203893075423 );(variation,>,0.6362134086986557 );}
+{(value,>,85.57591818826293 );(drop,<,6.053566869620097 );(variation,<=,0.755160234340105 );}
+{(value,>,81.13859404752894 );(drop,>=,14.287037379087591 );(variation,>=,0.6926996229381501 );}
+{(value,>,96.74329295187817 );(drop,>,13.281918953032864 );(variation,<,0.75581326171475 );}
+{(value,<=,89.35274443350403 );(drop,<,5.599283712379119 );(variation,<=,0.6616535187231322 );}
+{(value,>,95.79275019455969 );(drop,>,13.8282042989463 );(variation,>,0.628437663585553 );}
+{(value,>=,91.76200633150826 );(drop,>=,8.874590957457237 );(variation,<,0.7522312385753434 );}
+{(value,<,81.12848720443144 );(drop,>,6.499881057164508 );(variation,<,0.640530735870504 );}
+{(value,>,85.35005417960912 );(drop,>=,7.866215279232517 );(variation,>=,0.7809645589529601 );}
+{(value,>=,89.49084676639902 );(drop,>=,6.412621466517735 );(variation,<,0.6000664471648656 );}
+{(value,<=,82.32539237515786 );(drop,<=,14.645168959567707 );(variation,<,0.7390756813651528 );}
+{(value,<,96.46313374022924 );(drop,>=,6.977878738590084 );(variation,<,0.6293038648114513 );}
+{(value,>=,88.48937010736815 );(drop,<,12.629509818675068 );(variation,<,0.7139821951362865 );}
+{(value,<,80.16447414334344 );(drop,>=,7.671123611664415 );(variation,>,0.6053110615663956 );}
+{(value,<,98.51390316432267 );(drop,>,8.86498729018487 );(variation,>,0.7782296311517758 );}
+{(value,<=,86.40456798031265 );(drop,<=,5.466841582158689 );(variation,>=,0.674296869218275 );}
+{(value,<,95.06091856668394 );(drop,>,6.536330467370053 );(variation,>=,0.7218024021054901 );}
+{(value,<=,94.31870703565562 );(drop,>=,6.029609389161261 );(variation,>,0.6093582222990344 );}
+{(value,>,92.71112851346753 );(drop,<=,13.933527998581095 );(variation,>=,0.7006053766017187 );}
+{(value,<,83.39417614782496 );(drop,>=,6.936155547429172 );(variation,>,0.7064449788592265 );}
+{(value,>,92.18566424735852 );(drop,<,12.784484788483294 );(variation,<=,0.7957551076982424 );}
+{(value,>,81.73497909943913 );(drop,<=,12.417932902176645 );(variation,>,0.6508334733735281 );}
+{(value,<,85.96632686231922 );(drop,<,12.932660080611953 );(variation,>=,0.6577606191936688 );}
+{(value,>=,90.13366748884752 );(drop,<=,9.111482200869641 );(variation,<,0.7480435863208699 );}
+{(value,<=,84.34619773663148 );(drop,>=,11.481554393259922 );(variation,>=,0.7328832059537143 );}
+{(value,<,90.87260502141007 );(drop,<,8.822145613188294 );(variation,<=,0.6209636987784491 );}
+{(value,>,91.40916045458526 );(drop,>,11.597027041798508 );(variation,>=,0.6124174036623035 );}
+{(value,<,94.3666783661182 );(drop,>=,5.27620217873893 );(variation,>=,0.781498519961649 );}
+{(value,<,93.1188220886061 );(drop,<,12.561715178275845 );(variation,>,0.6614709555724818 );}
+{(value,>,94.25987272747979 );(drop,<=,7.224056429159635 );(variation,<=,0.7915007927815201 );}
+{(value,>,98.22348098414966 );(drop,<,12.344374099272967 );(variation,>=,0.7618329196837819 );}
+{(value,>,86.81263082818177 );(drop,<=,5.404996544267897 );(variation,>,0.6270077375388283 );}
+{(value,<=,85.79253715799292 );(drop,<=,11.039662672792922 );(variation,<=,0.7629848809716573 );}
+{(value,>,85.17440257916199 );(drop,<,14.841860204135717 );(variation,<,0.7132851127829793 );}
+{(value,<=,86.54455980319919 );(drop,<,5.810636266488 );(variation,>=,0.7388488203783727 );}
+{(value,>=,91.84302151240416 );(drop,>=,9.765584490687928 );(variation,<=,0.6233657961425776 );}
+{(value,>,92.32045862704508 );(drop,<,7.894352158646653 );(variation,>=,0.7693456979673868 );}
+{(value,<,99.07165996791188 );(drop,>,7.666704774825157 );(variation,<,0.7162286394680071 );}
+{(value,>,85.70031840241798 );(drop,<,9.551784524662711 );(variation,<,0.6597378038529774 );}
+{(value,>=,91.83095197134081 );(drop,<=,14.121598248736229 );(variation,>,0.704266654601124 );}
+{(value,>=,81.12519795276826 );(drop,<=,10.448179757569914 );(variation,>,0.7017661656788041 );}
+{(value,>=,81.84457976546736 );(drop,<,5.1599407885395685 );(variation,<,0.7008554510634637 );}
+{(value,<,92.85134100098641 );(drop,<,9.825490542659168 );(variation,<,0.7105940569484381 );}
+{(value,>,85.94846491639078 );(drop,>=,12.498415125339307 );(variation,>=,0.6737149593805764 );}
+{(value,>=,82.48664328739032 );(drop,<,5.699116160251587 );(variation,>,0.6904318913679871 );}
+{(value,>,87.48022952102576 );(drop,<=,9.924067189041644 );(variation,<,0.7831609647670532 );}
+{(value,<=,93.99659034698816 );(drop,>=,11.006411598650155 );(variation,>,0.761044723589019 );}
+{(value,>,97.62031930129332 );(drop,>=,11.62862341499834 );(variation,>=,0.6403687281874294 );}
+{(value,<=,81.94361149949204 );(drop,<,12.688457265229765 );(variation,<=,0.7090050388847107 );}
+{(value,<,92.06997374507952 );(drop,<,7.655027202203262 );(variation,>,0.69430986076379 );}
+{(value,>,86.58041127140638 );(drop,<=,7.4595132290980635 );(variation,<=,0.6246251652236224 );}
+{(value,<=,95.76320893691617 );(drop,>=,6.342544926129962 );(variation,>=,0.6047974231049659 );}
+{(value,>,86.15533803858779 );(drop,<=,9.505985078102647 );(variation,<=,0.7037506390841355 );}
+{(value,<=,99.40709753970941 );(drop,<,11.990696201896334 );(variation,>=,0.6762235816519332 );}
+{(value,<,85.35140986485158 );(drop,>,7.050415240147431 );(variation,<,0.6278673952635808 );}
+{(value,<,82.38060981167335 );(drop,<=,9.840171771194033 );(variation,>=,0.6504608668746854 );}
+{(value,>=,90.0962803000953 );(drop,>=,6.127953302759032 );(variation,>,0.6976940590199113 );}
+{(value,>=,81.64527309857593 );(drop,>,8.772533363615443 );(variation,>=,0.7013089568663886 );}
+{(value,<=,84.85194620356486 );(drop,>=,8.554109560542152 );(variation,<=,0.6209206465770971 );}
+{(value,>=,84.92059616515847 );(drop,<=,5.079464844278295 );(variation,>,0.7874565183497849 );}
+{(value,<=,84.37165278666197 );(drop,>=,14.997118775807843 );(variation,<,0.7837436507296192 );}
+{(value,<=,82.58470060793306 );(drop,>=,13.045349740231766 );(variation,>=,0.6609624403965619 );}
+{(value,>,89.05206411418666 );(drop,>=,9.582817921297726 );(variation,>,0.7984981406309349 );}
+{(value,>,80.01335466425338 );(drop,<=,11.767021807375606 );(variation,>=,0.718245210725529 );}
+{(value,>=,89.74882785889389 );(drop,>,13.136415363843483 );(variation,>=,0.6320720416179648 );}
+{(value,<=,88.60891205545796 );(drop,>,14.484314508355764 );(variation,<,0.6121713182003495 );}
+{(value,<=,85.57831635746584 );(drop,>=,8.859826896101637 );(variation,>,0.6833803828183074 );}
+{(value,>=,80.46020669817035 );(drop,<,14.980120292632733 );(variation,<=,0.6437979093240049 );}
+{(value,>,96.11772299865815 );(drop,<=,5.11806294117506 );(variation,>=,0.6837703094295786 );}
+{(value,<,86.14985974794632 );(drop,>=,12.869364732917607 );(variation,<=,0.7740482285978294 );}
+{(value,<=,89.54963843665003 );(drop,>,14.909903872482337 );(variation,>,0.6444957536187387 );}
+{(value,<=,97.27012790093028 );(drop,<,5.405618991853981 );(variation,<,0.7606860172150672 );}
+{(value,>,84.47936942505666 );(drop,>,8.146300101631834 );(variation,<,0.7288946855347479 );}
+{(value,<,99.80628847661717 );(drop,>,11.45911430861383 );(variation,<=,0.7214005428867958 );}
+{(value,<,86.58727564592473 );(drop,>=,11.398998719846801 );(variation,>,0.6197249345885066 );}
+{(value,>=,89.31455980765358 );(drop,>=,10.239374748497628 );(variation,<,0.6581415804575302 );}
+{(value,<=,82.97968393663034 );(drop,<,11.61880587832999 );(variation,>=,0.7251427093663572 );}
+{(value,>=,89.86354378322534 );(drop,>,10.727917570496752 );(variation,>,0.7639538216789035 );}
+{(value,>=,93.13468528958403 );(drop,<=,11.777385875626663 );(variation,>,0.6359744417336539 );}
+{(value,<,84.89191006770167 );(drop,>=,14.209555741076912 );(variation,<,0.6314203565239643 );}
+{(value,>=,97.91570495994961 );(drop,>=,11.946941701677924 );(variation,<,0.6995913222425088 );}
+{(value,<,81.59689521016885 );(drop,<=,6.382359152593366 );(variation,<=,0.7024380747550916 );}
+{(value,<=,99.7309308265292 );(drop,>=,13.342204701416135 );(variation,>=,0.7687244904909856 );}
+{(value,>,97.93106735641274 );(drop,>=,8.25775163389876 );(variation,<,0.7247182457164857 );}
+{(value,>=,97.46930571943682 );(drop,>=,9.83578569677853 );(variation,>=,0.782376406211668 );}
+{(value,<,91.68002992507955 );(drop,>=,5.5632823900471635 );(variation,<,0.6852469442880852 );}
+{(value,>,92.24213061401166 );(drop,<=,7.0089244400076005 );(variation,>,0.7592173946420013 );}
+{(value,>,82.76362165690841 );(drop,<=,12.023567366542807 );(variation,<=,0.622936015063059 );}
+{(value,>=,91.28283269262448 );(drop,<=,5.374628548700338 );(variation,<=,0.6635833299454582 );}
+{(value,>,81.86726635864952 );(drop,>,11.865458273408446 );(variation,<,0.7817505358774625 );}
+{(value,>=,88.44244194564038 );(drop,<,11.730764784533866 );(variation,>,0.73720648790191 );}
+{(value,>=,99.45542592971455 );(drop,>=,7.744331358659609 );(variation,<,0.6181906626450082 );}
+{(value,<=,87.54823278439 );(drop,>=,9.416002713009975 );(variation,<,0.7110221500088852 );}
+{(value,>=,89.33098698162217 );(drop,>,7.342864295284861 );(variation,<,0.7863011880563526 );}
+{(value,>=,98.55971052076876 );(drop,<=,12.826921650522484 );}
+{(value,>=,91.71597857196863 );(drop,>=,12.388919925480277 );}
+{(value,>=,94.3472494146034 );(drop,<=,12.823702549206283 );}
+{(value,<=,84.44890957652642 );(drop,>,11.91475285893259 );}
+{(value,<=,83.79129967687376 );(drop,>,11.30603292613532 );}
+{(value,>=,82.67955966043395 );(drop,>=,13.319437096939371 );}
+{(value,<=,89.92909094709108 );(drop,>,11.354771231106705 );}
+{(value,<,99.77304076239302 );(drop,>=,13.816355216935195 );}
+{(value,>=,88.46438257472242 );(drop,>,8.582264435153638 );}
+{(value,<=,80.3912934259728 );(drop,<,5.334716379048869 );}
+{(value,>,94.24736060318973 );(drop,>=,12.788153812433947 );}
+{(value,<,84.20323596998722 );(drop,<,12.451237979156197 );}
+{(value,<,92.5953880922364 );(drop,>=,5.56545302287741 );}
+{(value,<=,92.05158530224944 );(drop,<=,5.950948043094055 );}
+{(value,<=,86.51646273166777 );(drop,>,5.144465593303938 );}
+{(value,<=,94.08706049975316 );(drop,<=,5.1989932095768605 );}
+{(value,>,84.433606888394 );(drop,<,8.927666367996746 );}
+{(value,<=,91.96060953927349 );(drop,>=,8.12434649675276 );}
+{(value,>=,90.12745961694054 );(drop,>,12.915843561643126 );}
+{(value,<,86.09085834970728 );(drop,<,14.515225158851086 );}
+{(value,<,94.75360991040567 );(drop,>,14.936637120124134 );}
+{(value,>,89.74524821967086 );(drop,<=,13.174082670457205 );}
+{(value,<=,84.15737983191765 );(drop,>=,7.616365277170728 );}
+{(value,>=,93.30012462062491 );(drop,>,8.49640656397164 );}
+{(value,>=,96.39466796284941 );(drop,>=,8.473582714168952 );}
+{(value,>,86.06732000918522 );(drop,>=,7.167196303517756 );}
+{(value,>=,90.97616282818457 );(drop,>,8.436330310897372 );}
+{(value,>,97.19557110723173 );(drop,>,6.477125367059414 );}
+{(value,>,93.4063176993216 );(drop,>,11.159089348482194 );}
+{(value,>,88.41347462419735 );(drop,>,7.597605087575149 );}
+{(value,<,97.24007702638833 );(drop,<=,8.461743039950735 );}
+{(value,>=,98.16751826153778 );(drop,>=,5.793550206494218 );}
+{(value,<=,85.15735613589703 );(drop,<,6.680052961302298 );}
+{(value,>=,90.57897399814796 );(drop,<,7.916242548333914 );}
+{(value,<=,80.2491363365031 );(drop,>,5.380566503268423 );}
+{(value,<,87.68700797775352 );(drop,<,5.766725616467058 );}
+{(value,>=,98.68946186286095 );(drop,<=,6.591064945448882 );}
+{(value,>,84.87628432977571 );(drop,<,7.912368228771216 );}
+{(value,<,82.09991048827612 );(drop,>,14.11762069932444 );}
+{(value,<=,90.60122518982591 );(drop,>=,7.892746788173781 );}
+{(value,<,87.46233424461936 );(drop,<=,8.040820889111362 );}
+{(value,>=,80.40859288906799 );(drop,>,12.833526762929726 );}
+{(value,>,98.0142935739863 );(drop,<,9.574979956719435 );}
+{(value,<,87.71824671401714 );(drop,<,6.386114121329534 );}
+{(value,>=,86.72436690117777 );(drop,<=,12.675055128003915 );}
+{(value,<,93.61975530196199 );(drop,<,11.886483839966616 );}
+{(value,>=,89.00467436026872 );(drop,<,5.960468871295976 );}
+{(value,<,85.59686561917502 );(drop,<,10.59113255520118 );}
+{(value,<=,80.24008281683317 );(drop,<,7.377964810907022 );}
+{(value,<,86.01306843532429 );(drop,<=,9.30523033652521 );}
+{(value,<=,99.48002405309782 );(drop,<,13.973946632876594 );}
+{(value,<=,91.0083053304681 );(drop,<,13.029704474253464 );}
+{(value,>,83.21593219125168 );(drop,<=,5.302977630850801 );}
+{(value,<=,90.32931482422848 );(drop,>,7.402386507649111 );}
+{(value,>,81.31881394873591 );(drop,<=,9.173209528669412 );}
+{(value,<,86.86552822564408 );(drop,>=,6.752733716442872 );}
+{(value,>,99.5407849382112 );(drop,>,9.5762689107042 );}
+{(value,>=,88.48219478140442 );(drop,<,10.451434299569371 );}
+{(value,<=,84.73822225195435 );(drop,>=,13.081766106219881 );}
+{(value,<=,96.86386747535985 );(drop,<=,8.210739667674913 );}
+{(value,>,97.75159287896713 );(drop,>,8.662582605374038 );}
+{(value,>=,80.09571020159241 );(drop,<=,7.404073357583673 );}
+{(value,<=,89.72886411272418 );(drop,<,8.562267057594998 );}
+{(value,>,81.65799666892498 );(drop,<,6.992860612214196 );}
+{(value,>,90.56160635574061 );(drop,>=,11.873044899734031 );}
+{(value,>=,99.85241598584821 );(drop,<,7.131246406957984 );}
+{(value,>=,98.82166157047725 );(drop,>=,5.734703734589286 );}
+{(value,>,90.38137552514364 );(drop,>,5.894943414636968 );}
+{(value,>=,85.9374482383134 );(drop,<,9.101665452336846 );}
+{(value,>,84.29585873087981 );(drop,>,6.98912124265595 );}
+{(value,<=,90.371671701124 );(drop,>,12.511720011365572 );}
+{(value,<,95.80136793367016 );(drop,>=,5.923521264886359 );}
+{(value,<,88.24827325850902 );(drop,<,11.046180776519314 );}
+{(value,>,99.35911914805129 );(drop,<=,12.325431179673066 );}
+{(value,>,90.8215143161292 );(drop,<=,8.423526497103026 );}
+{(value,<=,97.0037476091484 );(drop,<,12.59882618320372 );}
+{(value,>,94.26593684549165 );(drop,>,6.997781606730711 );}
+{(value,>=,81.75416250628975 );(drop,<,7.198819829531999 );}
+{(value,>,95.69308516887479 );(drop,>,14.276724244789321 );}
+{(value,>=,96.29335911189554 );(drop,<,6.11314144094791 );}
+{(value,>,94.50854860135198 );(drop,<,10.898733206392944 );}
+{(value,>,99.25430537966164 );(drop,>=,6.940822627068952 );}
+{(value,>,82.63302449457382 );(drop,>,10.137960247856794 );}
+{(value,>=,88.62033060726617 );(drop,<,7.78604611833392 );}
+{(value,>=,95.73025658511581 );(drop,>=,9.896999059437237 );}
+{(value,<=,92.8746959318743 );(drop,>=,8.995809396613208 );}
+{(value,<=,97.67744838046349 );(drop,>=,7.827216700830906 );}
+{(value,<=,92.36521601526866 );(drop,<=,10.546109549612973 );}
+{(value,>,97.47834660900374 );(drop,>=,5.424636523439256 );}
+{(value,>,99.0433588566435 );(drop,>,5.170151109724904 );}
+{(value,>=,87.13291996054149 );(drop,>,8.973737150660078 );}
+{(value,>=,92.17652572064058 );(drop,<=,10.777311720095472 );}
+{(value,<=,85.35789503728664 );(drop,>,10.828381897140693 );}
+{(value,>=,87.95346434790348 );(drop,<=,13.676130796202088 );}
+{(value,<=,90.2377316558864 );(drop,>=,6.324008861287904 );}
+{(value,>=,80.36759196588706 );(drop,<=,12.052066782104802 );}
+{(value,<=,89.65511319381937 );(drop,<=,6.675889092706365 );}
+{(value,>,89.81780911294061 );(drop,<=,8.504432621978946 );}
+{(value,>=,82.96558791735681 );(drop,>=,10.579283033727377 );}
+{(value,<,98.69505341255066 );(drop,<=,9.558670028190635 );}

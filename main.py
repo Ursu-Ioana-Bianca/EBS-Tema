@@ -13,48 +13,66 @@ subscription_field_percentages = {
 
 operator_equal = 0.7
 
+
+def generate_subscription_field_values(field, count):
+    field_values = []
+    for _ in range(count):
+        if field == "company":
+            if random.random() < operator_equal:
+                operator = "="
+            else:
+                operator = "!="
+            value = random.choice(["Google", "Apple", "Microsoft"])
+        else:
+            operator = random.choice(["<", "<=", ">", ">="])
+            if field == "value":
+                value = random.uniform(80.0, 100.0)
+            elif field == "drop":
+                value = random.uniform(5.0, 15.0)
+            elif field == "variation":
+                value = random.uniform(0.6, 0.8)
+        field_values.append(f"{field},{operator},{value} ")
+    return field_values
+
 def generate_subscriptions(num_subscriptions, filename, lock):
     subscriptions = []
-
-    # Calculate the number of subscriptions for each field
     field_counts = {field: max(1, int(num_subscriptions * percentage["presence"])) for field, percentage in
                     subscription_field_percentages.items()}
     number_fields = sum(field_counts.values())
-
     matrix = [["" for _ in range(number_fields)] for _ in range(num_subscriptions)]
 
-    for j in range(number_fields):
-        i = 0
-        while i < num_subscriptions:
-            for field, count in field_counts.items():
-                while count > 0:  # Continue adding data for the current field until count becomes zero
-                    with lock:
-                        if field == "company":
-                            if random.random() < operator_equal:
-                                operator = "="
-                            else:
-                                operator = "!="
-                            value = random.choice(["Google", "Apple", "Microsoft"])
-                        else:
-                            operator = random.choice(["<", "<=", ">", ">="])
-                            if field == "value":
-                                value = random.uniform(80.0, 100.0)
-                            elif field == "drop":
-                                value = random.uniform(5.0, 15.0)
-                            elif field == "variation":
-                                value = random.uniform(0.6, 0.8)
+    def populate_matrix(start, end):
+        for j in range(start, end):
+            i = 0
+            while i < num_subscriptions:
+                for field, count in field_counts.items():
+                    while count > 0:
+                        with lock:
+                            if i == num_subscriptions:
+                                break
+                            field_values = generate_subscription_field_values(field, 1)
+                            matrix[i][j] = field_values[0]
+                            i += 1
+                            count -= 1
+                            field_counts[field] -= 1
+                if i == num_subscriptions:
+                    break
+                i += 1
 
-                        if i == num_subscriptions:
-                            break
+    # Numărul de thread-uri este egal cu numărul de câmpuri
+    num_threads = min(number_fields, num_subscriptions)
+    chunk_size = num_subscriptions // num_threads
+    threads = []
 
-                        matrix[i][j] = f"{field},{operator},{value} "
-                        i += 1
-                        count -= 1
-                        field_counts[field] -= 1
+    for i in range(num_threads):
+        start = i * chunk_size
+        end = start + chunk_size if i < num_threads - 1 else num_subscriptions
+        thread = threading.Thread(target=populate_matrix, args=(start, end))
+        threads.append(thread)
+        thread.start()
 
-            if i == num_subscriptions:
-                break
-            i += 1
+    for thread in threads:
+        thread.join()
 
     for i in range(num_subscriptions):
         subscription_str = "{"
@@ -64,11 +82,10 @@ def generate_subscriptions(num_subscriptions, filename, lock):
                     subscription_str += "(" + matrix[i][j] + ")"
                 else:
                     subscription_str += "(" + matrix[i][j] + ");"
-
         subscription_str += "}"
         subscriptions.append(subscription_str)
 
-    with lock:  # Acquire the lock before writing to the file
+    with lock:
         with open(filename, "w") as file:
             for subscription in subscriptions:
                 file.write(str(subscription) + '\n')
@@ -77,15 +94,29 @@ def generate_subscriptions(num_subscriptions, filename, lock):
 
 
 def generate_publications(num_publications, filename, lock):
+    def generate_publication(start, end):
+        publications_chunk = []
+        for _ in range(start, end):
+            company = random.choice(["Google", "Apple", "Microsoft"])
+            value = random.uniform(80.0, 100.0)
+            drop = random.uniform(5.0, 15.0)
+            variation = random.uniform(0.6, 0.8)
+            date = f"{random.randint(1, 28)}.{random.randint(1, 12)}.{random.randint(2020, 2023)}"
+            publication = {"company": company, "value": value, "drop": drop, "variation": variation, "date": date}
+            publications_chunk.append(publication)
+        return publications_chunk
+
     publications = []
-    for _ in range(num_publications):
-        company = random.choice(["Google", "Apple", "Microsoft"])
-        value = random.uniform(80.0, 100.0)
-        drop = random.uniform(5.0, 15.0)
-        variation = random.uniform(0.6, 0.8)
-        date = f"{random.randint(1, 28)}.{random.randint(1, 12)}.{random.randint(2020, 2023)}"
-        publication = {"company": company, "value": value, "drop": drop, "variation": variation, "date": date}
-        publications.append(publication)
+
+    num_threads = min(num_publications, 10)  # Setăm numărul maxim de fire de execuție la 10
+    chunk_size = num_publications // num_threads
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=num_threads) as executor:
+        # Generate publications concurrently
+        future_to_chunk = {executor.submit(generate_publication, i * chunk_size, (i + 1) * chunk_size): i for i in range(num_threads)}
+
+        for future in concurrent.futures.as_completed(future_to_chunk):
+            publications.extend(future.result())
 
     # Write publications to file
     with lock:
@@ -95,18 +126,23 @@ def generate_publications(num_publications, filename, lock):
 
     return publications
 
+
 def run_task(task_func):
     start_time = time.time()
     task_func()
     end_time = time.time()
     return end_time - start_time
 
+
 # Funcție pentru a obține specificațiile procesorului
 def get_processor_specifications():
      return platform.processor()
 
+
 lock_generate_publications = threading.Lock()
 lock_generate_subscriptions = threading.Lock()
+
+
 def test_performance(num_subscriptions, num_publications, num_works):
     num_trials = 5  # Number of trials for performance evaluation
     total_time_publications = 0
