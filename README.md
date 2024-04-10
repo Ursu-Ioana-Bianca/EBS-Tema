@@ -1,6 +1,6 @@
 # EBS-Tema
 Paralelizare: Fire de executie (thread-level parallelism) <br />
-Factorul de paralelism - 1 Threads: <br />
+Factorul de paralelism - 1 Thread: <br />
 S-au folosit 5 rulari pentru a calcula average time  <br />
 Avg. Time for generate_publications: 0.017952394485473634 seconds <br />
 Avg. Time for generate_subscriptions: 0.8124892234802246 seconds <br />
