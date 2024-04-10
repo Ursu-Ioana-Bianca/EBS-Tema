@@ -61,7 +61,6 @@ def generate_subscriptions(num_works, num_subscriptions, filename, lock):
                     break
                 i += 1
 
-    # Numărul de thread-uri este egal cu numărul de câmpuri
     num_threads = num_works
     chunk_size = num_subscriptions // num_threads
     threads = []
