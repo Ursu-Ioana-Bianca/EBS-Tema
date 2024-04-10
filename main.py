@@ -8,8 +8,7 @@ subscription_field_percentages = {
     "company": {"presence": 0.8},
     "value": {"presence": 0.8},
     "drop": {"presence": 0.7},
-    "variation": {"presence": 0.6},
-    "date": {"presence": 0.4}
+    "variation": {"presence": 0.6}
 }
 
 operator_equal = 0.7
