@@ -8,7 +8,8 @@ subscription_field_percentages = {
     "company": {"presence": 0.8},
     "value": {"presence": 0.8},
     "drop": {"presence": 0.7},
-    "variation": {"presence": 0.6}
+    "variation": {"presence": 0.6},
+    "date": {"presence": 0.4}
 }
 
 operator_equal = 0.7
@@ -31,6 +32,8 @@ def generate_subscription_field_values(field, count):
                 value = random.uniform(5.0, 15.0)
             elif field == "variation":
                 value = random.uniform(0.6, 0.8)
+            elif field == "date":
+                value = f"{random.randint(1, 28)}.{random.randint(1, 12)}.{random.randint(2020, 2023)}"
         field_values.append(f"{field},{operator},{value} ")
     return field_values
 
