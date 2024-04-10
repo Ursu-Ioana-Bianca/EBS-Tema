@@ -34,7 +34,7 @@ def generate_subscription_field_values(field, count):
         field_values.append(f"{field},{operator},{value} ")
     return field_values
 
-def generate_subscriptions(num_subscriptions, filename, lock):
+def generate_subscriptions(num_works, num_subscriptions, filename, lock):
     subscriptions = []
     field_counts = {field: max(1, int(num_subscriptions * percentage["presence"])) for field, percentage in
                     subscription_field_percentages.items()}
@@ -60,7 +60,7 @@ def generate_subscriptions(num_subscriptions, filename, lock):
                 i += 1
 
     # Numărul de thread-uri este egal cu numărul de câmpuri
-    num_threads = min(number_fields, num_subscriptions)
+    num_threads = num_works
     chunk_size = num_subscriptions // num_threads
     threads = []
 
@@ -155,7 +155,7 @@ def test_performance(num_subscriptions, num_publications, num_works):
             future_publications = executor.submit(run_task, lambda: generate_publications(num_publications,
                                                                                         "publications.txt", lock_generate_publications))
             future_subscriptions = executor.submit(run_task,
-                                                 lambda: generate_subscriptions(num_subscriptions, "subscriptions.txt", lock_generate_subscriptions
+                                                 lambda: generate_subscriptions(num_works, num_subscriptions, "subscriptions.txt", lock_generate_subscriptions
                                                                         ))
             # Așteaptă obținerea rezultatelor
             time_publications = future_publications.result()
@@ -181,6 +181,7 @@ def test_performance(num_subscriptions, num_publications, num_works):
         with open("readme.txt", "a", encoding="utf-8") as readme_file:
             readme_file.write("Paralelizare: Fire de execuție (thread-level parallelism)\n")
             readme_file.write(f"Factorul de paralelism - {num_works} Threads:\n")
+            readme_file.write("S-au folosit 5 rulari pentru a calcula average time \n")
             readme_file.write(f"Avg. Time for generate_publications: {avg_time_publications} seconds \n")
             readme_file.write(f"Avg. Time for generate_subscriptions: {avg_time_subscriptions} seconds \n")
             readme_file.write(f"Avg. Time: {avg_time_total} seconds \n")
